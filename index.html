@@ -1,102 +1,340 @@
+
 <!DOCTYPE html>
-<html lang="fr">
+<html class="dark" lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lecteur HLS avec Plyr et Sous-Titres</title>
-    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: #fff;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .container {
-            width: 80%;
-            max-width: 800px;
-        }
-    </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>IPTV 01</title>
+    <meta name="robots" content="noindex">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.vecteezy.com/ti/vecteur-libre/p1/7688855-tv-logo-gratuit-vectoriel.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="https://static.vecteezy.com/ti/vecteur-libre/p1/7688855-tv-logo-gratuit-vectoriel.jpg">
+<link rel="icon" type="image/png" sizes="16x16" href="https://static.vecteezy.com/ti/vecteur-libre/p1/7688855-tv-logo-gratuit-vectoriel.jpg">
+<link rel="manifest" href="site.webmanifest">
+<link rel="stylesheet" href="all.min.css">
+<script defer src="script.js"></script>
+<link rel="preload" as="style" href="app-40b5d136.css" /><link rel="modulepreload" href="app-78822604.js" /><link rel="stylesheet" href="app-40b5d136.css" data-navigate-track="reload" /><script type="module" src="app-78822604.js" data-navigate-track="reload"></script>
+<style>
+    :root {
+                        --color-gray-50:250 250 250;
+                    --color-gray-100:245 245 245;
+                    --color-gray-200:229 229 229;
+                    --color-gray-300:212 212 212;
+                    --color-gray-400:163 163 163;
+                    --color-gray-500:115 115 115;
+                    --color-gray-600:82 82 82;
+                    --color-gray-700:64 64 64;
+                    --color-gray-800:38 38 38;
+                    --color-gray-900:23 23 23;
+                    --color-gray-950:0 0 0;
+                    --color-primary-500: 255 0 0;
+        --scrollbar-thumb-color: #ff4d4d;
+        --scrollbar-track-color: #1a1a1a;
+        --scrollbar-hover-color: #ff0000;
+    }
+
+    ::-webkit-scrollbar {
+    width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background-color: #121212;
+        z-index: 500;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #ff0000;
+        border-radius: 10px;
+        z-index: 500;
+    }
+
+</style>
+
 </head>
-<body>
-    <div class="container">
-        <video id="player" playsinline controls>
-            <!-- Le lien M3U8 est défini ici -->
-            <source src="https://5KzKjwJ7Lv67.x7bq89m4.xyz/a9d4f8b3-7b2c-4a1e-9a3c-e0f2d7c5b9a4/ALVINETLESCHIPMUNKS/04/playlist.m3u8" type="application/x-mpegURL">
-            <!-- Pistes de sous-titres -->
-            <track kind="captions" label="Français forcé" srclang="fr" src="http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtts" default>
-            <track kind="captions" label="Français" srclang="fr" src="http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtt">
-        </video>
-    </div>
+<body
+    class="overflow-hidden dark:bg-gray-950">
+                
+                                <video id="player" src="playlist.m3u8" class="video-js w-full h-full vjs-default-skin">
+                                                    <track kind="captions" label="Français forcé" srclang="VFF" src="1722597751_04_track4_[fre].vtt" id="264" />
+                                                    <track kind="captions" label="Français" srclang="VF" src="1722597751_04_track5_[fre].vtt" id="265" />
+                                            </video>
+            
+                                            <link rel="stylesheet" href="player.css" />
+                <link rel="stylesheet" href="plyr.css" />
+                <script type="module">
+                    import { VidstackPlayer, PlyrLayout } from "player.js";
 
-    <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const video = document.querySelector('#player');
+                    function savePlaybackPosition(videoId, currentTime) {
+                        localStorage.setItem(`playerCurrentTime_${videoId}`, currentTime);
+                    }
 
-            // Initialisation de Plyr
-            const player = new Plyr('#player', {
-                captions: { active: true, language: 'fr', update: true },
-                controls: ['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'captions', 'settings', 'pip', 'airplay', 'fullscreen', 'audio'],
-                settings: ['captions', 'quality', 'speed', 'audio'],
-                speed: { selected: 1, options: [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2] }
-            });
+                    function getSavedPlaybackPosition(videoId) {
+                        return localStorage.getItem(`playerCurrentTime_${videoId}`);
+                    }
 
-            // Vérification si Hls.js est supporté
-            if (Hls.isSupported()) {
-                const hls = new Hls();
-                hls.loadSource(video.querySelector('source').src); // Utilise la source de l'élément video
-                hls.attachMedia(video);
+                    function saveVolume(volume) {
+                        localStorage.setItem('playerVolume', volume);
+                    }
 
-                // Événement déclenché lorsque le manifeste est parsé
-                hls.on(Hls.Events.MANIFEST_PARSED, () => {
-                    console.log('Manifeste HLS parsé avec succès.');
-                    video.play();
+                    function getSavedVolume() {
+                        return localStorage.getItem('playerVolume');
+                    }
 
-                    // Ajout des pistes de sous-titres après le chargement du manifeste
-                    const tracks = [
-                        { label: 'Français forcé', srclang: 'fr', src: 'http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtt', default: true },
-                        { label: 'Français', srclang: 'fr', src: 'http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtt' }
-                    ];
+                    function savePreferredSubtitleLanguage(language) {
+                        localStorage.setItem('preferredSubtitleLanguage', language);
+                    }
 
-                    tracks.forEach(track => {
-                        const trackElement = document.createElement('track');
-                        trackElement.kind = 'captions';
-                        trackElement.label = track.label;
-                        trackElement.srclang = track.srclang;
-                        trackElement.src = track.src;
-                        if (track.default) trackElement.default = true;
-                        video.appendChild(trackElement);
+                    function getPreferredSubtitleLanguage() {
+                        return localStorage.getItem('preferredSubtitleLanguage');
+                    }
+
+                    function savePreferredAudioLanguage(language) {
+                        localStorage.setItem('preferredAudioLanguage', language);
+                    }
+
+                    function getPreferredAudioLanguage() {
+                        return localStorage.getItem('preferredAudioLanguage');
+                    }
+                    
+                    function selectPreferredAudioTrack(player) {
+                        const preferredLanguage = getPreferredAudioLanguage() || 'fr';
+                        let preferredTrackIndex = 0;
+
+                        for (let i = 0; i < player.audioTracks.length; i++) {
+                            if (player.audioTracks[i].language === preferredLanguage) {
+                                preferredTrackIndex = i;
+                                break;
+                            }
+                        }
+
+                        if (player.audioTracks[preferredTrackIndex]) {
+                            player.audioTracks[preferredTrackIndex].selected = true;
+                        }
+                    }
+
+                    function customizeAudioTrackLabels(player) {
+                        const languageLabels = {
+                            'fr': 'Français',
+                            'en': 'Anglais',
+                            'es': 'Espagnol',
+                            'de': 'Allemand',
+                            'it': 'Italien',
+                            'ja': 'Japonais',
+                            'ko': 'Coréen',
+                            'zh': 'Chinois',
+                            'pt': 'Portugais',
+                            'ru': 'Russe',
+                            'nb': 'Norvégien',
+                            'no': 'Norvégien',
+                            'tr': 'Turc',
+                            'sv': 'Suédois',
+                            'da': 'Danois',
+                            'fi': 'Finnois',
+                            'ca': 'Catalan',
+                            'nl': 'Néerlandais',
+                            'hu': 'Hongrois',  
+                            'hi': 'Hindi',     
+                            'ta': 'Tamoul',    
+                            'pl': 'Polonais',  
+                            'id': 'Indonésien',
+                            'cs': 'Tchèque',
+                            'ar': 'Arabe',
+                            'th': 'Thaïlandais',
+                            'lv': 'Lettonien'
+                        };
+
+                        const labelCount = {};
+
+                        for (const track of player.audioTracks) {
+                            const langCode = track.language;
+                            let label = languageLabels[langCode] || langCode;
+
+                            if (!labelCount[langCode]) {
+                                labelCount[langCode] = 0;
+                            }
+
+                            labelCount[langCode] += 1;
+
+                            if (labelCount[langCode] > 1) {
+                                label += ` (${labelCount[langCode]})`;
+                            }
+
+                            track.label = label;
+                        }
+                    }
+
+                    function selectPreferredSubtitle(player) {
+                        const preferredLanguage = getPreferredSubtitleLanguage();
+                        const tracks = player.textTracks;
+
+                        if (preferredLanguage) {
+                            for (let i = 0; i < tracks.length; i++) {
+                                if (tracks[i].language === preferredLanguage) {
+                                    tracks[i].mode = 'showing';
+                                    return;
+                                }
+                            }
+                        }
+
+                        for (let i = 0; i < tracks.length; i++) {
+                            if (tracks[i].id === '264') {
+                                tracks[i].mode = 'showing';
+                                return;
+                            }
+                        }
+
+                        for (let i = 0; i < tracks.length; i++) {
+                            if (tracks[i].language === 'fr') {
+                                tracks[i].mode = 'showing';
+                                return;
+                            }
+                        }
+                    }
+
+                    document.addEventListener('DOMContentLoaded', async () => {
+                        const playerElement = document.querySelector('#player');
+                        if (!playerElement) {
+                            console.error("L'élément avec l'ID 'player' n'a pas été trouvé.");
+                            return;
+                        }
+
+                        const isMobile = window.innerWidth < 800 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+                        try {
+                            const player = await VidstackPlayer.create({
+                                target: playerElement,
+                                autoplay: !isMobile,
+                                src: 'playlist.m3u8',
+                                layout: new PlyrLayout({
+                                    translations: {
+                                        'Current time': 'Temps actuel',
+                                        'Disable captions': 'Désactiver les sous-titres',
+                                        'Enable captions': 'Activer les sous-titres',
+                                        'Enter Fullscreen': 'Plein écran',
+                                        'Enter PiP': 'Mode PiP',
+                                        'Exit Fullscreen': 'Quitter le plein écran',
+                                        'Exit PiP': 'Quitter le mode PiP',
+                                        'Go back to previous menu': 'Retour au menu précédent',
+                                        'Ad': 'Publicité',
+                                        'AirPlay': 'AirPlay',
+                                        'All': 'Tout',
+                                        'Audio': 'Audio',
+                                        'Auto': 'Auto',
+                                        'Buffered': 'Mis en mémoire tampon',
+                                        'Captions': 'Sous-titres',
+                                        'Default': 'Par défaut',
+                                        'Disabled': 'Désactivé',
+                                        'Download': 'Télécharger',
+                                        'Duration': 'Durée',
+                                        'Enabled': 'Activé',
+                                        'End': 'Fin',
+                                        'Forward': 'Avancer',
+                                        'LIVE': 'EN DIRECT',
+                                        'Loop': 'Boucle',
+                                        'Mute': 'Muet',
+                                        'Normal': 'Normal',
+                                        'Pause': 'Pause',
+                                        'Play': 'Lecture',
+                                        'Played': 'Lu',
+                                        'Quality': 'Qualité',
+                                        'Reset': 'Réinitialiser',
+                                        'Restart': 'Redémarrer',
+                                        'Rewind': 'Rembobiner',
+                                        'Seek': 'Chercher',
+                                        'Settings': 'Paramètres',
+                                        'Speed': 'Vitesse',
+                                        'Start': 'Début',
+                                        'Unmute': 'Activer le son',
+                                        'Volume': 'Volume'
+                                    }
+                                }),
+                            });
+
+                            console.log("Lecteur créé avec succès");
+
+                            const savedVolume = getSavedVolume();
+                            if (savedVolume !== null) {
+                                player.volume = parseFloat(savedVolume);
+                            }
+
+                            const videoId = '3173';
+                            const savedPlaybackPosition = getSavedPlaybackPosition(videoId);
+                            if (savedPlaybackPosition !== null) {
+                                player.currentTime = parseFloat(savedPlaybackPosition);
+                            }
+
+                            player.addEventListener('audio-tracks-change', () => {
+                                customizeAudioTrackLabels(player);
+                                selectPreferredAudioTrack(player);
+                            });
+
+                            player.addEventListener('volumechange', () => {
+                                saveVolume(player.volume);
+                            });
+
+                            player.addEventListener('timeupdate', () => {
+                                savePlaybackPosition(videoId, player.currentTime);
+                            });
+
+                            player.addEventListener('text-tracks-change', () => {
+                                const tracks = player.textTracks;
+                                for (let i = 0; i < tracks.length; i++) {
+                                    if (typeof tracks[i].addEventListener === 'function') {
+                                        tracks[i].addEventListener('change', () => {
+                                            if (tracks[i].mode === 'showing') {
+                                                savePreferredSubtitleLanguage(tracks[i].language);
+                                            }
+                                        });
+                                    }
+                                }
+                            });
+
+                            player.addEventListener('audio-track-change', () => {
+                                const tracks = player.audioTracks;
+                                for (let i = 0; i < tracks.length; i++) {
+                                    if (typeof tracks[i].addEventListener === 'function') {
+                                        tracks[i].addEventListener('change', () => {
+                                            if (tracks[i].selected) {
+                                                savePreferredAudioLanguage(tracks[i].language);
+                                            }
+                                        });
+                                    }
+                                }
+                            });
+
+                            player.addEventListener('loadedmetadata', () => {
+                                selectPreferredSubtitle(player);
+                                selectPreferredAudioTrack(player);
+                            });
+
+                            window.addEventListener('beforeunload', () => {
+                                saveVolume(player.volume);
+                                savePlaybackPosition(videoId, player.currentTime);
+
+                                const tracks = player.textTracks;
+                                for (let i = 0; i < tracks.length; i++) {
+                                    if (tracks[i].mode === 'showing') {
+                                        savePreferredSubtitleLanguage(tracks[i].language);
+                                    }
+                                }
+
+                                const audioTracks = player.audioTracks;
+                                for (let i = 0; i < audioTracks.length; i++) {
+                                    if (audioTracks[i].selected) {
+                                        savePreferredAudioLanguage(audioTracks[i].language);
+                                    }
+                                }
+                            });
+
+                            selectPreferredSubtitle(player);
+                            selectPreferredAudioTrack(player);
+
+                        } catch (error) {
+                            console.error('Erreur lors de la création du lecteur Vidstack:', error);
+                        }
                     });
 
-                    // Rafraîchir les sous-titres dans Plyr
-                    player.elements.captions.update();
-                });
 
-                // Gestion des erreurs HLS
-                hls.on(Hls.Events.ERROR, (event, data) => {
-                    console.error('Erreur HLS:', data);
-                });
-            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                // Support natif pour HLS dans Safari
-                video.addEventListener('loadedmetadata', () => {
-                    video.play();
-                });
-            } else {
-                console.error('HLS non supporté sur ce navigateur.');
-            }
-
-            // Gestion des changements de sous-titres
-            player.on('languagechange', () => {
-                console.log('Langue des sous-titres changée:', player.currentTrack);
-            });
-        });
-    </script>
-</body>
+                </script>
+            </body>
 </html>
