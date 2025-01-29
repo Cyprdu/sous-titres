@@ -1,0 +1,593 @@
+Ok je veut pouvoir utiliser le lecteur https://plyr.io/   et je galère a la faire marcher 
+Je connais un site qui l'utlise sur lequel il marche super bien : https://popstream.to
+
+Ils ont en plyer js : 
+https://popstream.to/static/js/player/popstream/player.js   
+
+Contenu de cela : import{D as p,N as n,J as C,B as S,C as l,E as u,A as x,R,T as A,K as g,V as y,P as k,Q as L,F as f,z as V,G as M,H as h,O as E}from"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-D0IOuZwN.js";import"https://cdn.vidstack.io/icons";import{a as P,f as Q,c as v,i as w,p as O,w as b,b as D}from"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack---1_eenS.js";import{T as H,a as I,g as J}from"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-FhZPgPJq.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-7s9jteqq.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-DQfOnu90.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-ClIUVQwo.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-dclo3F73.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-CYZ2CtI4.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-PSfIVEbS.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-jHNV419K.js";import"https://cdn.jsdelivr.net/npm/@vidstack/cdn@1.11.25/chunks/vidstack-Bxv1Qnxe.js";export{p as ARIAKeyShortcuts,n as AudioTrackList,C as LibASSTextRenderer,S as LocalMediaStorage,l as MEDIA_KEY_SHORTCUTS,u as MediaControls,x as MediaRemoteControl,R as PlyrLayout,A as TextRenderers,P as TextTrack,g as TextTrackList,H as TimeRange,y as VideoQualityList,k as VidstackPlayer,L as VidstackPlayerLayout,Q as findActiveCue,I as getTimeRangesEnd,J as getTimeRangesStart,v as isCueActive,w as isTrackCaptionKind,f as isVideoQualitySrc,V as mediaContext,M as mediaState,O as parseJSONCaptionsFile,h as softResetMediaState,E as sortVideoQualities,b as watchActiveTextTrack,D as watchCueTextChange};
+
+
+je te met l'extrait de code que tu devra reprendre ( les liens m3u8, vtt...)
+
+cree un html fonctionelle.
+
+bout de code du lecteur : 
+
+<html class="dark" lang="fr"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="lcPFOx4hCvxBXvXCowM9LZ5VHVxgkPStJmTSiuIo">
+
+    <title>Popstream | Site de streaming gratuit sans pub</title>
+    <meta name="robots" content="noindex">
+    <link rel="canonical" href="https://popstream.to/embed/3173">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://popstream.to/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://popstream.to/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://popstream.to/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://popstream.to/site.webmanifest">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script defer="" data-domain="popstream.to" src="https://plausible.io/js/script.js"></script>
+<link rel="preload" as="style" href="https://popstream.to/build/assets/app-40b5d136.css"><link rel="modulepreload" href="https://popstream.to/build/assets/app-78822604.js"><link rel="stylesheet" href="https://popstream.to/build/assets/app-40b5d136.css" data-navigate-track="reload"><script type="module" src="https://popstream.to/build/assets/app-78822604.js" data-navigate-track="reload"></script>
+<style>
+    :root {
+                        --color-gray-50:250 250 250;
+                    --color-gray-100:245 245 245;
+                    --color-gray-200:229 229 229;
+                    --color-gray-300:212 212 212;
+                    --color-gray-400:163 163 163;
+                    --color-gray-500:115 115 115;
+                    --color-gray-600:82 82 82;
+                    --color-gray-700:64 64 64;
+                    --color-gray-800:38 38 38;
+                    --color-gray-900:23 23 23;
+                    --color-gray-950:0 0 0;
+                    --color-primary-500: 255 0 0;
+        --scrollbar-thumb-color: #ff4d4d;
+        --scrollbar-track-color: #1a1a1a;
+        --scrollbar-hover-color: #ff0000;
+    }
+
+    ::-webkit-scrollbar {
+    width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background-color: #121212;
+        z-index: 500;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #ff0000;
+        border-radius: 10px;
+        z-index: 500;
+    }
+
+</style>
+
+<style>/* Make clicks pass-through */
+
+    #nprogress {
+      pointer-events: none;
+    }
+
+    #nprogress .bar {
+      background: var(--livewire-progress-bar-color, #29d);
+
+      position: fixed;
+      z-index: 1031;
+      top: 0;
+      left: 0;
+
+      width: 100%;
+      height: 2px;
+    }
+
+    /* Fancy blur effect */
+    #nprogress .peg {
+      display: block;
+      position: absolute;
+      right: 0px;
+      width: 100px;
+      height: 100%;
+      box-shadow: 0 0 10px #29d, 0 0 5px #29d;
+      opacity: 1.0;
+
+      -webkit-transform: rotate(3deg) translate(0px, -4px);
+          -ms-transform: rotate(3deg) translate(0px, -4px);
+              transform: rotate(3deg) translate(0px, -4px);
+    }
+
+    /* Remove these to get rid of the spinner */
+    #nprogress .spinner {
+      display: block;
+      position: fixed;
+      z-index: 1031;
+      top: 15px;
+      right: 15px;
+    }
+
+    #nprogress .spinner-icon {
+      width: 18px;
+      height: 18px;
+      box-sizing: border-box;
+
+      border: solid 2px transparent;
+      border-top-color: var(--livewire-progress-bar-color, #29d);
+      border-left-color: var(--livewire-progress-bar-color, #29d);
+      border-radius: 50%;
+
+      -webkit-animation: nprogress-spinner 400ms linear infinite;
+              animation: nprogress-spinner 400ms linear infinite;
+    }
+
+    .nprogress-custom-parent {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .nprogress-custom-parent #nprogress .spinner,
+    .nprogress-custom-parent #nprogress .bar {
+      position: absolute;
+    }
+
+    @-webkit-keyframes nprogress-spinner {
+      0%   { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+    }
+    @keyframes nprogress-spinner {
+      0%   { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    </style><script src="https://cdn.jsdelivr.net/npm/hls.js@^1.5.0/dist/hls.min.js"></script></head>
+<body class="overflow-hidden dark:bg-gray-950">
+                
+                                <media-player keep-alive="" id="player" src="https://5KzKjwJ7Lv67.x7bq89m4.xyz/a9d4f8b3-7b2c-4a1e-9a3c-e0f2d7c5b9a4/ALVINETLESCHIPMUNKS/04/playlist.m3u8" data-media-player="" tabindex="0" role="region" aria-label="Video Player" data-orientation="landscape" style="--player-width: 632px; --player-height: 356px; --media-width: 632px; --media-height: 356px;" aria-busy="false" data-load="visible" data-can-seek="" data-media-type="video" data-remote-state="disconnected" data-remote-type="none" data-stream-type="on-demand" data-view-type="video" data-pointer="fine" data-can-fullscreen="" data-can-google-cast="" data-layout="plyr" data-captions="" data-can-load="" data-can-load-poster="" data-can-pip="" data-can-play="" data-controls="" data-started="" data-paused=""><media-provider keep-alive="" data-media-provider=""><video preload="" src="blob:https://popstream.to/93594f53-d733-4670-ad4a-5fc15ae90f5b"><source src="https://5KzKjwJ7Lv67.x7bq89m4.xyz/a9d4f8b3-7b2c-4a1e-9a3c-e0f2d7c5b9a4/ALVINETLESCHIPMUNKS/04/playlist.m3u8" type="application/x-mpegurl" data-vds=""><track id="264" src="https://popstream.to/uploads/subtitle/07-2024/1722597751_04_track4_[fre].vtt" label="Français forcé" kind="captions" default="" srclang="VFF"><track id="265" src="https://popstream.to/uploads/subtitle/07-2024/1722597751_04_track5_[fre].vtt" label="Français" kind="captions" srclang="VF"></video><track kind="captions" label="Français forcé" srclang="VFF" src="https://popstream.to/uploads/subtitle/07-2024/1722597751_04_track4_[fre].vtt" id="264"><track kind="captions" label="Français" srclang="VF" src="https://popstream.to/uploads/subtitle/07-2024/1722597751_04_track5_[fre].vtt" id="265"></media-provider><media-plyr-layout keep-alive="" class="plyr plyr--full-ui plyr--fullscreen-enabled plyr--captions-enabled plyr--video plyr--captions-active plyr--hls plyr--pip-enabled plyr--paused"><!----><!---->
+    <media-play-button class="plyr__control plyr__control--overlaid" data-plyr="play" aria-label="Lecture, " data-media-tooltip="play" tabindex="0" role="button" type="button" aria-keyshortcuts="k Space" aria-pressed="false" data-paused="">
+      <slot name="play-icon" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon" viewBox="0 0 18 18" data-icon="play">
+    <!--?lit$21096466$--><path d="M15.5615866,8.10002147 L3.87056367,0.225209313 C3.05219207,-0.33727727 2,0.225209313 2,1.12518784 L2,16.8748122 C2,17.7747907 3.05219207,18.3372773 3.87056367,17.7747907 L15.5615866,9.89997853 C16.1461378,9.44998927 16.1461378,8.55001073 15.5615866,8.10002147 L15.5615866,8.10002147 Z"></path>
+  </svg></slot>
+    
+  </media-play-button><!----><!---->
+    <media-thumbnail class="plyr__preview-scrubbing" time="0" aria-hidden="true" data-hidden="" data-error=""><img loading="eager" decoding="async" aria-hidden="true" src=""></media-thumbnail>
+  <!----><!----><div class="plyr__poster" style="background-image: url(&quot;&quot;);"></div><!----><!----><div class="plyr__controls"><!--?lit$21096466$--><!----><!----><!---->
+    <media-play-button class="plyr__controls__item plyr__control" data-no-label="" data-plyr="play" data-media-tooltip="play" tabindex="0" role="button" type="button" aria-keyshortcuts="k Space" aria-pressed="false" data-paused="">
+      <slot name="pause-icon" data-class="icon--pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--pressed" viewBox="0 0 18 18" data-icon="pause">
+    <!--?lit$21096466$--><path d="M6,1 L3,1 C2.4,1 2,1.4 2,2 L2,16 C2,16.6 2.4,17 3,17 L6,17 C6.6,17 7,16.6 7,16 L7,2 C7,1.4 6.6,1 6,1 L6,1 Z"></path><path d="M12,1 C11.4,1 11,1.4 11,2 L11,16 C11,16.6 11.4,17 12,17 L15,17 C15.6,17 16,16.6 16,16 L16,2 C16,1.4 15.6,1 15,1 L12,1 Z"></path>
+  </svg></slot>
+      <slot name="play-icon" data-class="icon--not-pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--not-pressed" viewBox="0 0 18 18" data-icon="play">
+    <!--?lit$21096466$--><path d="M15.5615866,8.10002147 L3.87056367,0.225209313 C3.05219207,-0.33727727 2,0.225209313 2,1.12518784 L2,16.8748122 C2,17.7747907 3.05219207,18.3372773 3.87056367,17.7747907 L15.5615866,9.89997853 C16.1461378,9.44998927 16.1461378,8.55001073 15.5615866,8.10002147 L15.5615866,8.10002147 Z"></path>
+  </svg></slot>
+      <span class="label--pressed plyr__tooltip"><!--?lit$21096466$-->Pause</span>
+      <span class="label--not-pressed plyr__tooltip"><!--?lit$21096466$-->Lecture</span>
+    </media-play-button>
+  <!----><!---->
+    <div class="plyr__controls__item plyr__progress__container">
+      <div class="plyr__progress">
+        <media-time-slider class="plyr__slider" data-plyr="seek" pause-while-dragging="" key-step="10" aria-label="Chercher" data-media-time-slider="" role="slider" tabindex="0" autocomplete="off" aria-disabled="false" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-valuetext="4 sec out of 1 hour 32 min" aria-orientation="horizontal" style="--slider-progress: 68.151%; --slider-fill: 0.082%; --slider-pointer: 21.202%;">
+          <div class="plyr__slider__track"></div>
+          <div class="plyr__slider__thumb"></div>
+          <div class="plyr__slider__buffer"></div>
+          <!--?lit$21096466$-->
+          <span class="plyr__tooltip">
+            <!--?lit$21096466$-->
+            <media-slider-value>19:30</media-slider-value>
+          </span>
+        <!--?lit$21096466$-->
+        </media-time-slider>
+      </div>
+    </div>
+  <!----><!---->
+          <media-time type="current" class="plyr__controls__item plyr__time plyr__time--current" tabindex="0" role="timer" aria-label="Temps actuel" remainder="" data-type="current" data-remainder="">-1:31:55</media-time>
+          <!--?lit$21096466$-->
+        <!----><!---->
+      <div class="plyr__controls__item plyr__volume">
+        <!--?lit$21096466$--><!---->
+    <media-mute-button class="plyr__control" data-no-label="" data-plyr="mute" data-media-mute-button="" data-media-tooltip="mute" tabindex="0" role="button" type="button" aria-keyshortcuts="m" data-state="high" aria-pressed="false">
+      <slot name="muted-icon" data-class="icon--pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--pressed" viewBox="0 0 18 18" data-icon="muted">
+    <!--?lit$21096466$--><polygon points="12.4 12.5 14.5 10.4 16.6 12.5 18 11.1 15.9 9 18 6.9 16.6 5.5 14.5 7.6 12.4 5.5 11 6.9 13.1 9 11 11.1"></polygon><path d="M3.78571429,6.00820648 L0.714285714,6.00820648 C0.285714286,6.00820648 0,6.30901277 0,6.76022222 L0,11.2723167 C0,11.7235261 0.285714286,12.0243324 0.714285714,12.0243324 L3.78571429,12.0243324 L7.85714286,15.8819922 C8.35714286,16.1827985 9,15.8819922 9,15.2803796 L9,2.75215925 C9,2.15054666 8.35714286,1.77453879 7.85714286,2.15054666 L3.78571429,6.00820648 Z"></path>
+  </svg></slot>
+      <slot name="volume-icon" data-class="icon--not-pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--not-pressed" viewBox="0 0 18 18" data-icon="volume">
+    <!--?lit$21096466$--><path d="M15.5999996,3.3 C15.1999996,2.9 14.5999996,2.9 14.1999996,3.3 C13.7999996,3.7 13.7999996,4.3 14.1999996,4.7 C15.3999996,5.9 15.9999996,7.4 15.9999996,9 C15.9999996,10.6 15.3999996,12.1 14.1999996,13.3 C13.7999996,13.7 13.7999996,14.3 14.1999996,14.7 C14.3999996,14.9 14.6999996,15 14.8999996,15 C15.1999996,15 15.3999996,14.9 15.5999996,14.7 C17.0999996,13.2 17.9999996,11.2 17.9999996,9 C17.9999996,6.8 17.0999996,4.8 15.5999996,3.3 L15.5999996,3.3 Z"></path><path d="M11.2819745,5.28197449 C10.9060085,5.65794047 10.9060085,6.22188944 11.2819745,6.59785542 C12.0171538,7.33303477 12.2772954,8.05605449 12.2772954,9.00000021 C12.2772954,9.93588462 11.851678,10.9172014 11.2819745,11.4869049 C10.9060085,11.8628709 10.9060085,12.4268199 11.2819745,12.8027859 C11.4271642,12.9479755 11.9176724,13.0649528 12.2998149,12.9592565 C12.4124479,12.9281035 12.5156669,12.8776063 12.5978555,12.8027859 C13.773371,11.732654 14.1311161,10.1597914 14.1312523,9.00000021 C14.1312723,8.8299555 14.1286311,8.66015647 14.119665,8.4897429 C14.0674781,7.49784946 13.8010171,6.48513613 12.5978554,5.28197449 C12.2218894,4.9060085 11.6579405,4.9060085 11.2819745,5.28197449 Z"></path><path d="M3.78571429,6.00820648 L0.714285714,6.00820648 C0.285714286,6.00820648 0,6.30901277 0,6.76022222 L0,11.2723167 C0,11.7235261 0.285714286,12.0243324 0.714285714,12.0243324 L3.78571429,12.0243324 L7.85714286,15.8819922 C8.35714286,16.1827985 9,15.8819922 9,15.2803796 L9,2.75215925 C9,2.15054666 8.35714286,1.77453879 7.85714286,2.15054666 L3.78571429,6.00820648 Z"></path>
+  </svg></slot>
+      <span class="label--pressed plyr__tooltip"><!--?lit$21096466$-->Activer le son</span>
+      <span class="label--not-pressed plyr__tooltip"><!--?lit$21096466$-->Muet</span>
+    </media-mute-button>
+  <!----><!---->
+    <media-volume-slider class="plyr__slider" data-plyr="volume" aria-label="Volume" data-media-volume-slider="" role="slider" tabindex="0" autocomplete="off" aria-disabled="false" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" aria-valuetext="100%" aria-orientation="horizontal" aria-hidden="false" data-supported="" style="--slider-fill: 100%; --slider-pointer: 93%;">
+      <div class="plyr__slider__track"></div>
+      <div class="plyr__slider__thumb"></div>
+    </media-volume-slider>
+  <!---->
+      </div>
+    <!----><!---->
+    <media-caption-button class="plyr__controls__item plyr__control" data-no-label="" data-plyr="captions" data-media-tooltip="caption" tabindex="0" role="button" type="button" aria-keyshortcuts="c" data-supported="" aria-hidden="false" aria-pressed="true" data-active="" data-pressed="">
+      <slot name="captions-on-icon" data-class="icon--pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--pressed" viewBox="0 0 18 18" data-icon="captions-on">
+    <!--?lit$21096466$--><g fill-rule="evenodd"><path d="M1,1 C0.4,1 0,1.4 0,2 L0,13 C0,13.6 0.4,14 1,14 L5.6,14 L8.3,16.7 C8.5,16.9 8.7,17 9,17 C9.3,17 9.5,16.9 9.7,16.7 L12.4,14 L17,14 C17.6,14 18,13.6 18,13 L18,2 C18,1.4 17.6,1 17,1 L1,1 Z M5.52,11.15 C7.51,11.15 8.53,9.83 8.8,8.74 L7.51,8.35 C7.32,9.01 6.73,9.8 5.52,9.8 C4.38,9.8 3.32,8.97 3.32,7.46 C3.32,5.85 4.44,5.09 5.5,5.09 C6.73,5.09 7.28,5.84 7.45,6.52 L8.75,6.11 C8.47,4.96 7.46,3.76 5.5,3.76 C3.6,3.76 1.89,5.2 1.89,7.46 C1.89,9.72 3.54,11.15 5.52,11.15 Z M13.09,11.15 C15.08,11.15 16.1,9.83 16.37,8.74 L15.08,8.35 C14.89,9.01 14.3,9.8 13.09,9.8 C11.95,9.8 10.89,8.97 10.89,7.46 C10.89,5.85 12.01,5.09 13.07,5.09 C14.3,5.09 14.85,5.84 15.02,6.52 L16.32,6.11 C16.04,4.96 15.03,3.76 13.07,3.76 C11.17,3.76 9.46,5.2 9.46,7.46 C9.46,9.72 11.11,11.15 13.09,11.15 Z"></path></g>
+  </svg></slot>
+      <slot name="captions-off-icon" data-class="icon--not-pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--not-pressed" viewBox="0 0 18 18" data-icon="captions-off">
+    <!--?lit$21096466$--><g fill-rule="evenodd" fill-opacity="0.5"><path d="M1,1 C0.4,1 0,1.4 0,2 L0,13 C0,13.6 0.4,14 1,14 L5.6,14 L8.3,16.7 C8.5,16.9 8.7,17 9,17 C9.3,17 9.5,16.9 9.7,16.7 L12.4,14 L17,14 C17.6,14 18,13.6 18,13 L18,2 C18,1.4 17.6,1 17,1 L1,1 Z M5.52,11.15 C7.51,11.15 8.53,9.83 8.8,8.74 L7.51,8.35 C7.32,9.01 6.73,9.8 5.52,9.8 C4.38,9.8 3.32,8.97 3.32,7.46 C3.32,5.85 4.44,5.09 5.5,5.09 C6.73,5.09 7.28,5.84 7.45,6.52 L8.75,6.11 C8.47,4.96 7.46,3.76 5.5,3.76 C3.6,3.76 1.89,5.2 1.89,7.46 C1.89,9.72 3.54,11.15 5.52,11.15 Z M13.09,11.15 C15.08,11.15 16.1,9.83 16.37,8.74 L15.08,8.35 C14.89,9.01 14.3,9.8 13.09,9.8 C11.95,9.8 10.89,8.97 10.89,7.46 C10.89,5.85 12.01,5.09 13.07,5.09 C14.3,5.09 14.85,5.84 15.02,6.52 L16.32,6.11 C16.04,4.96 15.03,3.76 13.07,3.76 C11.17,3.76 9.46,5.2 9.46,7.46 C9.46,9.72 11.11,11.15 13.09,11.15 Z"></path></g>
+  </svg></slot>
+      <span class="label--pressed plyr__tooltip"><!--?lit$21096466$-->Désactiver les sous-titres</span>
+      <span class="label--not-pressed plyr__tooltip"><!--?lit$21096466$-->Activer les sous-titres</span>
+    </media-caption-button>
+  <!----><!---->
+    <div class="plyr__controls__item plyr__menu">
+      <media-menu data-root="" style="display: contents;">
+        <media-menu-button class="plyr__control" data-plyr="settings" tabindex="0" role="button" id="media-menu-button-1" aria-haspopup="menu" aria-expanded="false" data-root="" aria-disabled="false" type="button">
+          <slot name="settings-icon" style="display: contents;">
+          <span class="plyr__tooltip"><!--?lit$21096466$-->Paramètres</span>
+        <!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon" viewBox="0 0 18 18" data-icon="settings">
+    <!--?lit$21096466$--><path d="M16.135,7.784 C14.832,7.458 14.214,5.966 14.905,4.815 C15.227,4.279 15.13,3.817 14.811,3.499 L14.501,3.189 C14.183,2.871 13.721,2.774 13.185,3.095 C12.033,3.786 10.541,3.168 10.216,1.865 C10.065,1.258 9.669,1 9.219,1 L8.781,1 C8.331,1 7.936,1.258 7.784,1.865 C7.458,3.168 5.966,3.786 4.815,3.095 C4.279,2.773 3.816,2.87 3.498,3.188 L3.188,3.498 C2.87,3.816 2.773,4.279 3.095,4.815 C3.786,5.967 3.168,7.459 1.865,7.784 C1.26,7.935 1,8.33 1,8.781 L1,9.219 C1,9.669 1.258,10.064 1.865,10.216 C3.168,10.542 3.786,12.034 3.095,13.185 C2.773,13.721 2.87,14.183 3.189,14.501 L3.499,14.811 C3.818,15.13 4.281,15.226 4.815,14.905 C5.967,14.214 7.459,14.832 7.784,16.135 C7.935,16.742 8.331,17 8.781,17 L9.219,17 C9.669,17 10.064,16.742 10.216,16.135 C10.542,14.832 12.034,14.214 13.185,14.905 C13.72,15.226 14.182,15.13 14.501,14.811 L14.811,14.501 C15.129,14.183 15.226,13.72 14.905,13.185 C14.214,12.033 14.832,10.541 16.135,10.216 C16.742,10.065 17,9.669 17,9.219 L17,8.781 C17,8.33 16.74,7.935 16.135,7.784 L16.135,7.784 Z M9,12 C7.343,12 6,10.657 6,9 C6,7.343 7.343,6 9,6 C10.657,6 12,7.343 12,9 C12,10.657 10.657,12 9,12 L9,12 Z"></path>
+  </svg></slot></media-menu-button>
+        <media-menu-items class="plyr__menu__container" placement="top end" id="media-menu-1" role="menu" tabindex="-1" data-root="" aria-hidden="true" data-placement="top end" style="display: none; position: absolute; top: calc(307.5px + calc(-1 * var(--media-menu-y-offset, 0px))); left: calc(541px + var(--media-menu-x-offset, 0px)); width: max-content; --menu-height: 0px;">
+          <div><div><!--?lit$21096466$--><!---->
+    <media-menu data-submenu="" style="display: contents;">
+      <!--?lit$21096466$-->
+    <media-menu-button data-plyr="settings" class="plyr__control plyr__control--forward" tabindex="-1" role="menuitem" id="media-menu-button-2" aria-haspopup="menu" aria-expanded="false" data-submenu="" aria-disabled="false" type="button">
+      <span class="plyr__menu__label" aria-hidden="false">
+        <!--?lit$21096466$-->Audio
+      </span>
+      <span class="plyr__menu__value" data-part="hint">Français</span>
+      <!--?lit$21096466$-->
+    </media-menu-button>
+  
+      <media-menu-items id="media-menu-2" role="menu" tabindex="-1" data-submenu="" aria-hidden="true" style="display: none;"><!--?lit$21096466$-->
+    <media-audio-radio-group empty-label="Par défaut" value="français">
+      <template>
+        <media-radio class="plyr__control" data-plyr="audio">
+          <span data-part="label"></span>
+        </media-radio>
+      </template><media-radio class="plyr__control" data-plyr="audio" value="anglais" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">Anglais</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="audio" value="français" tabindex="-1" role="menuitemradio" aria-checked="true" data-checked="">
+          <span data-part="label">Français</span>
+        </media-radio>
+    </media-audio-radio-group>
+  </media-menu-items>
+    </media-menu>
+  <!----><!---->
+    <media-menu data-submenu="" style="display: contents;">
+      <!--?lit$21096466$-->
+    <media-menu-button data-plyr="settings" class="plyr__control plyr__control--forward" tabindex="-1" role="menuitem" id="media-menu-button-3" aria-haspopup="menu" aria-expanded="false" data-submenu="" aria-disabled="false" type="button">
+      <span class="plyr__menu__label" aria-hidden="false">
+        <!--?lit$21096466$-->Sous-titres
+      </span>
+      <span class="plyr__menu__value" data-part="hint">Français forcé</span>
+      <!--?lit$21096466$-->
+    </media-menu-button>
+  
+      <media-menu-items id="media-menu-3" role="menu" tabindex="-1" data-submenu="" aria-hidden="true" style="display: none;"><!--?lit$21096466$-->
+    <media-captions-radio-group off-label="Désactivé" value="264:captions-français forcé">
+      <template>
+        <media-radio class="plyr__control" data-plyr="captions">
+          <span data-part="label"></span>
+        </media-radio>
+      </template><media-radio class="plyr__control" data-plyr="captions" value="off" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">Désactivé</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="captions" value="264:captions-français forcé" tabindex="-1" role="menuitemradio" aria-checked="true" data-checked="">
+          <span data-part="label">Français forcé</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="captions" value="265:captions-français" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">Français</span>
+        </media-radio>
+    </media-captions-radio-group>
+  </media-menu-items>
+    </media-menu>
+  <!----><!---->
+    <media-menu data-submenu="" style="display: contents;" data-disabled="">
+      <!--?lit$21096466$-->
+    <media-menu-button data-plyr="settings" class="plyr__control plyr__control--forward" tabindex="-1" role="menuitem" id="media-menu-button-4" aria-haspopup="menu" aria-expanded="false" data-submenu="" aria-disabled="true" type="button">
+      <span class="plyr__menu__label" aria-hidden="false">
+        <!--?lit$21096466$-->Qualité
+      </span>
+      <span class="plyr__menu__value" data-part="hint">Auto (1080p)</span>
+      <!--?lit$21096466$-->
+    </media-menu-button>
+  
+      <media-menu-items id="media-menu-4" role="menu" tabindex="-1" data-submenu="" aria-hidden="true" style="display: none;"><!--?lit$21096466$-->
+    <media-quality-radio-group auto-label="Auto" value="auto">
+      <template>
+        <media-radio class="plyr__control" data-plyr="quality">
+          <span data-part="label"></span>
+        </media-radio>
+      </template><media-radio class="plyr__control" data-plyr="quality" value="auto" tabindex="-1" role="menuitemradio" aria-checked="true" data-checked="">
+          <span data-part="label">Auto</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="quality" value="1080_14898681" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">1080p</span>
+        </media-radio>
+    </media-quality-radio-group>
+  </media-menu-items>
+    </media-menu>
+  <!----><!---->
+    <media-menu data-submenu="" style="display: contents;">
+      <!--?lit$21096466$-->
+    <media-menu-button data-plyr="settings" class="plyr__control plyr__control--forward" tabindex="-1" role="menuitem" id="media-menu-button-5" aria-haspopup="menu" aria-expanded="false" data-submenu="" aria-disabled="false" type="button">
+      <span class="plyr__menu__label" aria-hidden="false">
+        <!--?lit$21096466$-->Vitesse
+      </span>
+      <span class="plyr__menu__value" data-part="hint">Normal</span>
+      <!--?lit$21096466$-->
+    </media-menu-button>
+  
+      <media-menu-items id="media-menu-5" role="menu" tabindex="-1" data-submenu="" aria-hidden="true" style="display: none;"><!--?lit$21096466$-->
+    <media-speed-radio-group normal-label="Normal" value="1">
+      <template>
+        <media-radio class="plyr__control" data-plyr="speed">
+          <span data-part="label"></span>
+        </media-radio>
+      </template><media-radio class="plyr__control" data-plyr="speed" value="0.5" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">0.5×</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="0.75" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">0.75×</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="1" tabindex="-1" role="menuitemradio" aria-checked="true" data-checked="">
+          <span data-part="label">Normal</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="1.25" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">1.25×</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="1.5" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">1.5×</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="1.75" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">1.75×</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="2" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">2×</span>
+        </media-radio><media-radio class="plyr__control" data-plyr="speed" value="4" tabindex="-1" role="menuitemradio" aria-checked="false">
+          <span data-part="label">4×</span>
+        </media-radio>
+    </media-speed-radio-group>
+  </media-menu-items>
+    </media-menu>
+  <!----></div></div>
+        </media-menu-items>
+      </media-menu>
+    </div>
+  <!----><!---->
+    <media-pip-button class="plyr__controls__item plyr__control" data-no-label="" data-plyr="pip" data-media-tooltip="pip" tabindex="0" role="button" type="button" aria-keyshortcuts="i" aria-hidden="false" aria-pressed="false" data-supported="">
+      <slot name="pip-icon"></slot>
+      <slot name="enter-pip-icon" data-class="icon--pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--pressed" viewBox="0 0 18 18" data-icon="enter-pip">
+    <!--?lit$21096466$--><polygon points="13.293 3.293 7.022 9.564 8.436 10.978 14.707 4.707 17 7 17 1 11 1"></polygon><path d="M13,15 L3,15 L3,5 L8,5 L8,3 L2,3 C1.448,3 1,3.448 1,4 L1,16 C1,16.552 1.448,17 2,17 L14,17 C14.552,17 15,16.552 15,16 L15,10 L13,10 L13,15 L13,15 Z"></path>
+  </svg></slot>
+      <slot name="exit-pip-icon" data-class="icon--not-pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--not-pressed" viewBox="0 0 18 18" data-icon="exit-pip">
+    <!--?lit$21096466$--><polygon points="13.293 3.293 7.022 9.564 8.436 10.978 14.707 4.707 17 7 17 1 11 1"></polygon><path d="M13,15 L3,15 L3,5 L8,5 L8,3 L2,3 C1.448,3 1,3.448 1,4 L1,16 C1,16.552 1.448,17 2,17 L14,17 C14.552,17 15,16.552 15,16 L15,10 L13,10 L13,15 L13,15 Z"></path>
+  </svg></slot>
+      <span class="label--pressed plyr__tooltip"><!--?lit$21096466$-->Quitter le mode PiP</span>
+      <span class="label--not-pressed plyr__tooltip"><!--?lit$21096466$-->Mode PiP</span>
+    </media-pip-button>
+  <!----><!---->
+    <media-airplay-button class="plyr__controls__item plyr__control" data-plyr="airplay" data-media-tooltip="airplay" aria-label="AirPlay disconnected" tabindex="0" role="button" type="button" aria-hidden="true" aria-pressed="false">
+      <slot name="airplay-icon" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon" viewBox="0 0 18 18" data-icon="airplay">
+    <!--?lit$21096466$--><g><path d="M16,1 L2,1 C1.447,1 1,1.447 1,2 L1,12 C1,12.553 1.447,13 2,13 L5,13 L5,11 L3,11 L3,3 L15,3 L15,11 L13,11 L13,13 L16,13 C16.553,13 17,12.553 17,12 L17,2 C17,1.447 16.553,1 16,1 L16,1 Z"></path><polygon points="4 17 14 17 9 11"></polygon></g>
+  </svg></slot>
+      <span class="plyr__tooltip"><!--?lit$21096466$-->AirPlay</span>
+    </media-airplay-button>
+  <!----><!---->
+    <media-fullscreen-button class="plyr__controls__item plyr__control" data-no-label="" data-plyr="fullscreen" data-media-tooltip="fullscreen" tabindex="0" role="button" type="button" aria-keyshortcuts="f" data-supported="" aria-hidden="false" aria-pressed="false">
+      <slot name="enter-fullscreen-icon" data-class="icon--pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--pressed" viewBox="0 0 18 18" data-icon="enter-fullscreen">
+    <!--?lit$21096466$--><polygon points="1 12 4.6 12 0.6 16 2 17.4 6 13.4 6 17 8 17 8 10 1 10"></polygon><polygon points="16 0.6 12 4.6 12 1 10 1 10 8 17 8 17 6 13.4 6 17.4 2"></polygon>
+  </svg></slot>
+      <slot name="exit-fullscreen-icon" data-class="icon--not-pressed" style="display: contents;"><!----><svg fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" class="vds-icon icon--not-pressed" viewBox="0 0 18 18" data-icon="exit-fullscreen">
+    <!--?lit$21096466$--><polygon points="10 3 13.6 3 9.6 7 11 8.4 15 4.4 15 8 17 8 17 1 10 1"></polygon><polygon points="7 9.6 3 13.6 3 10 1 10 1 17 8 17 8 15 4.4 15 8.4 11"></polygon>
+  </svg></slot>
+      <span class="label--pressed plyr__tooltip"><!--?lit$21096466$-->Quitter le plein écran</span>
+      <span class="label--not-pressed plyr__tooltip"><!--?lit$21096466$-->Plein écran</span>
+    </media-fullscreen-button>
+  <!----></div><!----><!----><!---->
+            <media-gesture class="plyr__gesture" event="pointerup" action="toggle:paused" data-media-gesture="" style="pointer-events: none;"></media-gesture>
+          <!----><!---->
+            <media-gesture class="plyr__gesture" event="dblpointerup" action="toggle:fullscreen" data-media-gesture="" style="pointer-events: none;"></media-gesture>
+          <!----><!----><!---->
+    <div class="plyr__captions" dir="auto">
+      <span class="plyr__caption"><!--?lit$21096466$--></span>
+    </div>
+  <!----></media-plyr-layout></media-player>
+            
+                                            <link rel="stylesheet" href="https://popstream.to/static/js/player/popstream/css/player.css">
+                <link rel="stylesheet" href="https://popstream.to/static/js/player/popstream/css/plyr.css">
+                <script type="module">
+                    import { VidstackPlayer, PlyrLayout } from "/static/js/player/popstream/player.js";
+
+                    function savePlaybackPosition(videoId, currentTime) {
+                        localStorage.setItem(`playerCurrentTime_${videoId}`, currentTime);
+                    }
+
+                    function getSavedPlaybackPosition(videoId) {
+                        return localStorage.getItem(`playerCurrentTime_${videoId}`);
+                    }
+
+                    function saveVolume(volume) {
+                        localStorage.setItem('playerVolume', volume);
+                    }
+
+                    function getSavedVolume() {
+                        return localStorage.getItem('playerVolume');
+                    }
+
+                    function savePreferredSubtitleLanguage(language) {
+                        localStorage.setItem('preferredSubtitleLanguage', language);
+                    }
+
+                    function getPreferredSubtitleLanguage() {
+                        return localStorage.getItem('preferredSubtitleLanguage');
+                    }
+
+                    function savePreferredAudioLanguage(language) {
+                        localStorage.setItem('preferredAudioLanguage', language);
+                    }
+
+                    function getPreferredAudioLanguage() {
+                        return localStorage.getItem('preferredAudioLanguage');
+                    }
+                    
+                    function selectPreferredAudioTrack(player) {
+                        const preferredLanguage = getPreferredAudioLanguage() || 'fr';
+                        let preferredTrackIndex = 0;
+
+                        for (let i = 0; i < player.audioTracks.length; i++) {
+                            if (player.audioTracks[i].language === preferredLanguage) {
+                                preferredTrackIndex = i;
+                                break;
+                            }
+                        }
+
+                        if (player.audioTracks[preferredTrackIndex]) {
+                            player.audioTracks[preferredTrackIndex].selected = true;
+                        }
+                    }
+
+                    function customizeAudioTrackLabels(player) {
+                        const languageLabels = {
+                            'fr': 'Français',
+                            'en': 'Anglais',
+                            'es': 'Espagnol',
+                            'de': 'Allemand',
+                            'it': 'Italien',
+                            'ja': 'Japonais',
+                            'ko': 'Coréen',
+                            'zh': 'Chinois',
+                            'pt': 'Portugais',
+                            'ru': 'Russe',
+                            'nb': 'Norvégien',
+                            'no': 'Norvégien',
+                            'tr': 'Turc',
+                            'sv': 'Suédois',
+                            'da': 'Danois',
+                            'fi': 'Finnois',
+                            'ca': 'Catalan',
+                            'nl': 'Néerlandais',
+                            'hu': 'Hongrois',  
+                            'hi': 'Hindi',     
+                            'ta': 'Tamoul',    
+                            'pl': 'Polonais',  
+                            'id': 'Indonésien',
+                            'cs': 'Tchèque',
+                            'ar': 'Arabe',
+                            'th': 'Thaïlandais',
+                            'lv': 'Lettonien'
+                        };
+
+                        const labelCount = {};
+
+                        for (const track of player.audioTracks) {
+                            const langCode = track.language;
+                            let label = languageLabels[langCode] || langCode;
+
+                            if (!labelCount[langCode]) {
+                                labelCount[langCode] = 0;
+                            }
+
+                            labelCount[langCode] += 1;
+
+                            if (labelCount[langCode] > 1) {
+                                label += ` (${labelCount[langCode]})`;
+                            }
+
+                            track.label = label;
+                        }
+                    }
+
+                    function selectPreferredSubtitle(player) {
+                        const preferredLanguage = getPreferredSubtitleLanguage();
+                        const tracks = player.textTracks;
+
+                        if (preferredLanguage) {
+                            for (let i = 0; i < tracks.length; i++) {
+                                if (tracks[i].language === preferredLanguage) {
+                                    tracks[i].mode = 'showing';
+                                    return;
+                                }
+                            }
+                        }
+
+                        for (let i = 0; i < tracks.length; i++) {
+                            if (tracks[i].id === '264') {
+                                tracks[i].mode = 'showing';
+                                return;
+                            }
+                        }
+
+                        for (let i = 0; i < tracks.length; i++) {
+                            if (tracks[i].language === 'fr') {
+                                tracks[i].mode = 'showing';
+                                return;
+                            }
+                        }
+                    }
+
+                    document.addEventListener('DOMContentLoaded', async () => {
+                        const playerElement = document.querySelector('#player');
+                        if (!playerElement) {
+                            console.error("L'élément avec l'ID 'player' n'a pas été trouvé.");
+                            return;
+                        }
+
+                        const isMobile = window.innerWidth < 800 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+                        try {
+                            const player = await VidstackPlayer.create({
+                                target: playerElement,
+                                autoplay: !isMobile,
+                                src: 'https://5KzKjwJ7Lv67.x7bq89m4.xyz/a9d4f8b3-7b2c-4a1e-9a3c-e0f2d7c5b9a4/ALVINETLESCHIPMUNKS/04/playlist.m3u8',
+                                layout: new PlyrLayout({
+                                    translations: {
+                                        'Current time': 'Temps actuel',
+                                        'Disable captions': 'Désactiver les sous-titres',
+                                        'Enable captions': 'Activer les sous-titres',
+                                        'Enter Fullscreen': 'Plein écran',
+                                        'Enter PiP': 'Mode PiP',
+                                        'Exit Fullscreen': 'Quitter le plein écran',
+                                        'Exit PiP': 'Quitter le mode PiP',
+                                        'Go back to previous menu': 'Retour au menu précédent',
+                                        'Ad': 'Publicité',
+                                        'AirPlay': 'AirPlay',
+                                        'All': 'Tout',
+                                        'Audio': 'Audio',
+                                        'Auto': 'Auto',
+                                        'Buffered': 'Mis en mémoire tampon',
+                                        'Captions': 'Sous-titres',
+                                        'Default': 'Par défaut',
+                                        'Disabled': 'Désactivé',
+                                        'Download': 'Télécharger',
+                                        'Duration': 'Durée',
+                                        'Enabled': 'Activé',
+                                        'End': 'Fin',
+                                        'Forward': 'Avancer',
+                                        'LIVE': 'EN DIRECT',
+                                        'Loop': 'Boucle',
+                                        'Mute': 'Muet',
+                                        'Normal': 'Normal',
+                                        'Pause': 'Pause',
+                                        'Play': 'Lecture',
+                                        'Played': 'Lu',
+                                        'Quality': 'Qualité',
+                                        'Reset': 'Réinitialiser',
+                                        'Restart': 'Redémarrer',
+                                        'Rewind': 'Rembobiner',
+                                        'Seek': 'Chercher',
+                                        'Settings': 'Paramètres',
+                                        'Speed': 'Vitesse',
+                                        'Start': 'Début',
+                                        'Unmute': 'Activer le son',
+                                        'Volume': 'Volume'
+                                    }
+                                }),
+                            });
+
+                            console.log("Lecteur créé avec succès");
+
+                            const savedVolume = getSavedVolume();
+                            if (savedVolume !== null) {
+                                player.volume = parseFloat(savedVolume);
+                            }
+
+                            const videoId = '3173';
+                            const savedPlaybackPosition = getSavedPlaybackPosition(videoId);
+                            if (savedPlaybackPosition !== null) {
+                                player.currentTime = parseFloat(savedPlaybackPosition);
+                            }
+
+                            player.addEventListener('audio-tracks-change', () => {
+                                customizeAudioTrackLabels(player);
+                                selectPreferredAudioTrack(player);
+                            });
+
+     …</script>
+            
+
+</body></html>
