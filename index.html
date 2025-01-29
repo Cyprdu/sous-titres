@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecteur HLS avec Plyr et Sous-Titres</title>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <video id="player" playsinline controls>
+            <!-- Le lien M3U8 est défini ici -->
+            <source src="https://5KzKjwJ7Lv67.x7bq89m4.xyz/a9d4f8b3-7b2c-4a1e-9a3c-e0f2d7c5b9a4/ALVINETLESCHIPMUNKS/04/playlist.m3u8" type="application/x-mpegURL">
+            <!-- Pistes de sous-titres -->
+            <track kind="captions" label="Français forcé" srclang="fr" src="http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtts" default>
+            <track kind="captions" label="Français" srclang="fr" src="http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtt">
+        </video>
+    </div>
+
+    <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const video = document.querySelector('#player');
+
+            // Initialisation de Plyr
+            const player = new Plyr('#player', {
+                captions: { active: true, language: 'fr', update: true },
+                controls: ['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'captions', 'settings', 'pip', 'airplay', 'fullscreen', 'audio'],
+                settings: ['captions', 'quality', 'speed', 'audio'],
+                speed: { selected: 1, options: [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2] }
+            });
+
+            // Vérification si Hls.js est supporté
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(video.querySelector('source').src); // Utilise la source de l'élément video
+                hls.attachMedia(video);
+
+                // Événement déclenché lorsque le manifeste est parsé
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    console.log('Manifeste HLS parsé avec succès.');
+                    video.play();
+
+                    // Ajout des pistes de sous-titres après le chargement du manifeste
+                    const tracks = [
+                        { label: 'Français forcé', srclang: 'fr', src: 'http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtt', default: true },
+                        { label: 'Français', srclang: 'fr', src: 'http://sous-titres.netlify.app/subtitles/subtitles/alvin4.vtt' }
+                    ];
+
+                    tracks.forEach(track => {
+                        const trackElement = document.createElement('track');
+                        trackElement.kind = 'captions';
+                        trackElement.label = track.label;
+                        trackElement.srclang = track.srclang;
+                        trackElement.src = track.src;
+                        if (track.default) trackElement.default = true;
+                        video.appendChild(trackElement);
+                    });
+
+                    // Rafraîchir les sous-titres dans Plyr
+                    player.elements.captions.update();
+                });
+
+                // Gestion des erreurs HLS
+                hls.on(Hls.Events.ERROR, (event, data) => {
+                    console.error('Erreur HLS:', data);
+                });
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                // Support natif pour HLS dans Safari
+                video.addEventListener('loadedmetadata', () => {
+                    video.play();
+                });
+            } else {
+                console.error('HLS non supporté sur ce navigateur.');
+            }
+
+            // Gestion des changements de sous-titres
+            player.on('languagechange', () => {
+                console.log('Langue des sous-titres changée:', player.currentTrack);
+            });
+        });
+    </script>
+</body>
+</html>
