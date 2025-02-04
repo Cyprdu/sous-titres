@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://droxonwave.site/file2/pzolN3p+q0aL5QT1KIOC1mjJJE3Y8u4bjNTf3CnMkzeG9qRgcIhnQUQ5Ix+ffIsmGxyp8lLMoCBqZLAXDUr5gZkb3C3iq8gkr3zBcbzrgG7eAhWbhmhigjAJG6K3VQ9QY+gbxN32b~VhmVBlqou58C~rAcnu3YXpRowiNwcrzS8=/cGxheWxpc3QubTN1OA==.m3u8
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-fr",NAME="Français",DEFAULT=YES,AUTOSELECT=YES,URI="https://droxonwave.site/file2/pzolN3p+q0aL5QT1KIOC1mjJJE3Y8u4bjNTf3CnMkzeG9qRgcIhnQUQ5Ix+ffIsmGxyp8lLMoCBqZLAXDUr5gZkb3C3iq8gkr3zBcbzrgG7eAhWbhmhigjAJG6K3VQ9QY+gbxN32b~VhmVBlqou58C~rAcnu3YXpRowiNwcrzS8=/cGxheWxpc3QubTN1OA==.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-ad",NAME="Audio Description Français",DEFAULT=NO,AUTOSELECT=YES,URI="http://sous-titres.netlify.app/subtitles/AD-MONTE-CRISTO.m3u8"
