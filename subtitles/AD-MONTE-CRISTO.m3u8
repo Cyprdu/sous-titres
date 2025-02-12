@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10668
+#EXT-X-TARGETDURATION:167
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10668,
-https://ia904507.us.archive.org/30/items/le-comte-de-monte-cristo-2024-audio-description/Le%20Comte%20de%20Monte-Cristo%20%282024%29%20-%20Audio%20Description.mp3?cnt=0
-#EXT-X-ENDLIST
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:10068.000000,
+https://archive.org/download/le-comte-de-monte-cristo-2024-audio-description/Le%20Comte%20de%20Monte-Cristo%20%282024%29%20-%20Audio%20Description.mp3?tunnel=1
