@@ -1,14 +1,14 @@
 1
 00:01:40,726 --> 00:01:46,315
-<i>Au matin de ta vie sur la planète</i>
+<i>Au matin de ta vie sur la planÃ¨te</i>
 
 2
 00:01:46,690 --> 00:01:51,194
-<i>Ébloui par le dieu soleil</i>
+<i>Ã‰bloui par le dieu soleil</i>
 
 3
 00:01:52,487 --> 00:01:57,451
-<i>À l'infini, tu t'éveilles aux merveilles</i>
+<i>Ã€ l'infini, tu t'Ã©veilles aux merveilles</i>
 
 4
 00:01:57,868 --> 00:02:02,623
@@ -16,23 +16,23 @@
 
 5
 00:02:04,041 --> 00:02:08,211
-<i>Tu auras tant de choses à voir</i>
+<i>Tu auras tant de choses Ã  voir</i>
 
 6
 00:02:09,379 --> 00:02:13,675
-<i>Pour franchir la frontière du savoir</i>
+<i>Pour franchir la frontiÃ¨re du savoir</i>
 
 7
 00:02:15,302 --> 00:02:17,304
-<i>Recueillir l'héritage</i>
+<i>Recueillir l'hÃ©ritage</i>
 
 8
 00:02:18,096 --> 00:02:20,349
-<i>Qui vient du fond des âges</i>
+<i>Qui vient du fond des Ã¢ges</i>
 
 9
 00:02:20,515 --> 00:02:25,187
-<i>Dans l'harmonie d'une chaîne d'amour</i>
+<i>Dans l'harmonie d'une chaÃ®ne d'amour</i>
 
 10
 00:02:25,354 --> 00:02:29,858
@@ -40,11 +40,11 @@
 
 11
 00:02:30,692 --> 00:02:35,656
-<i>Le cycle éternel</i>
+<i>Le cycle Ã©ternel</i>
 
 12
 00:02:36,865 --> 00:02:41,495
-<i>Qu'un enfant béni</i>
+<i>Qu'un enfant bÃ©ni</i>
 
 13
 00:02:42,537 --> 00:02:45,624
@@ -56,7 +56,7 @@
 
 15
 00:02:53,507 --> 00:02:56,551
-<i>De ce cycle éternel</i>
+<i>De ce cycle Ã©ternel</i>
 
 16
 00:03:00,514 --> 00:03:04,351
@@ -72,11 +72,11 @@
 
 19
 00:04:02,492 --> 00:04:05,537
-<i>Le cycle éternel</i>
+<i>Le cycle Ã©ternel</i>
 
 20
 00:04:08,498 --> 00:04:12,627
-<i>Qu'un enfant béni</i>
+<i>Qu'un enfant bÃ©ni</i>
 
 21
 00:04:14,129 --> 00:04:18,175
@@ -88,7 +88,7 @@
 
 23
 00:04:25,432 --> 00:04:30,103
-<i>De ce cycle éternel</i>
+<i>De ce cycle Ã©ternel</i>
 
 24
 00:04:32,064 --> 00:04:36,651
@@ -109,7 +109,7 @@ La vie n'est pas juste,
 
 28
 00:06:04,614 --> 00:06:06,575
-n'est-ce pas, mon ami ?
+n'est-ce pas, mon ami?
 
 29
 00:06:07,784 --> 00:06:09,494
@@ -118,11 +118,11 @@ Certains naissent dans l'abondance,
 30
 00:06:10,495 --> 00:06:15,125
 d'autres passent leur vie dans l'ombre,
-à quémander des miettes.
+Ã  quÃ©mander des miettes.
 
 31
 00:06:17,252 --> 00:06:19,087
-À mon sens,
+Ã€ mon sens,
 
 32
 00:06:19,504 --> 00:06:23,341
@@ -134,7 +134,7 @@ Nous cherchons tous les deux une issue.
 
 34
 00:06:28,513 --> 00:06:30,015
-Le roi approche !
+Le roi approche!
 
 35
 00:06:30,182 --> 00:06:31,600
@@ -142,12 +142,12 @@ Ce n'est pas un exercice.
 
 36
 00:06:31,766 --> 00:06:33,393
-Sa Majesté a sollicité une entrevue.
+Sa MajestÃ© a sollicitÃ© une entrevue.
 
 37
 00:06:33,560 --> 00:06:37,022
-À son arrivée,
-tu devras faire ta révérence.
+Ã€ son arrivÃ©e,
+tu devras faire ta rÃ©vÃ©rence.
 
 38
 00:06:37,189 --> 00:06:38,648
@@ -155,20 +155,20 @@ Zazu,
 
 39
 00:06:39,524 --> 00:06:41,651
-tu m'as fait perdre mon déjeuner.
+tu m'as fait perdre mon dÃ©jeuner.
 
 40
 00:06:42,068 --> 00:06:45,405
 Tu dois justifier ton absence
-à la cérémonie, ce matin.
+Ã  la cÃ©rÃ©monie, ce matin.
 
 41
 00:06:45,572 --> 00:06:47,866
-Je n'ai pas de compte à rendre.
+Je n'ai pas de compte Ã  rendre.
 
 42
 00:06:49,117 --> 00:06:51,953
-Scar ?
+Scar?
 
 43
 00:06:52,120 --> 00:06:54,164
@@ -176,15 +176,15 @@ Non, ne me regarde pas de la sorte.
 
 44
 00:06:54,331 --> 00:06:56,708
-As-tu faim, Zazu ?
+As-tu faim, Zazu?
 
 45
 00:06:56,875 --> 00:06:59,586
-Peut-être pourrions-nous passer à table.
+Peut-Ãªtre pourrions-nous passer Ã  table.
 
 46
 00:07:00,921 --> 00:07:01,922
-Tu ne peux pas me manger !
+Tu ne peux pas me manger!
 
 47
 00:07:02,088 --> 00:07:05,675
@@ -193,34 +193,34 @@ de la cour du roi.
 
 48
 00:07:06,134 --> 00:07:07,928
-Non, s'il te plaît. Arrête !
+Non, s'il te plaÃ®t. ArrÃªte!
 
 49
 00:07:08,094 --> 00:07:09,971
-Scar !
+Scar!
 
 50
 00:07:12,557 --> 00:07:15,143
-Voyez qui vient se mêler
+Voyez qui vient se mÃªler
 au commun des mortels.
 
 51
 00:07:16,895 --> 00:07:20,440
 Sarabi et moi ne t'avons pas vu
-à la présentation de Simba.
+Ã  la prÃ©sentation de Simba.
 
 52
 00:07:22,108 --> 00:07:23,735
-C'était aujourd'hui ?
+C'Ã©tait aujourd'hui?
 
 53
 00:07:26,655 --> 00:07:28,783
-Ça m'était sorti de l'esprit.
+Ã‡a m'Ã©tait sorti de l'esprit.
 
 54
 00:07:29,867 --> 00:07:35,081
-Bien sûr, je ne voulais offenser
-ni Sa Majesté ni Sarabi.
+Bien sÃ»r, je ne voulais offenser
+ni Sa MajestÃ© ni Sarabi.
 
 55
 00:07:36,165 --> 00:07:42,380
@@ -229,16 +229,16 @@ pour la reine.
 
 56
 00:07:43,339 --> 00:07:46,384
-En tant que frère du roi,
-tu aurais dû être le premier.
+En tant que frÃ¨re du roi,
+tu aurais dÃ» Ãªtre le premier.
 
 57
 00:07:46,550 --> 00:07:48,135
-J'étais le premier.
+J'Ã©tais le premier.
 
 58
 00:07:48,761 --> 00:07:50,471
-L'aurais-tu oublié ?
+L'aurais-tu oubliÃ©?
 
 59
 00:07:51,180 --> 00:07:54,892
@@ -255,21 +255,21 @@ de me tourner le dos.
 
 62
 00:08:03,276 --> 00:08:05,611
-Tu oses me défier ?
+Tu oses me dÃ©fier?
 
 63
 00:08:05,778 --> 00:08:10,116
-Je n'oserais pas te défier
+Je n'oserais pas te dÃ©fier
 une nouvelle fois.
 
 64
 00:08:11,033 --> 00:08:12,118
-Sage décision.
+Sage dÃ©cision.
 
 65
 00:08:12,285 --> 00:08:14,537
 Tu ne fais pas le poids
-face à son altesse.
+face Ã  son altesse.
 
 66
 00:08:14,704 --> 00:08:17,915
@@ -279,11 +279,11 @@ je me taille la part du lion.
 67
 00:08:18,958 --> 00:08:22,837
 Pour ce qui est de la force physique,
-mon frère
+mon frÃ¨re
 
 68
 00:08:23,337 --> 00:08:24,672
-sera toujours le maître.
+sera toujours le maÃ®tre.
 
 69
 00:08:24,839 --> 00:08:27,133
@@ -291,7 +291,7 @@ Pas toujours, Scar.
 
 70
 00:08:27,300 --> 00:08:30,553
-Un jour, mon fils régnera.
+Un jour, mon fils rÃ©gnera.
 
 71
 00:08:30,720 --> 00:08:32,847
@@ -303,17 +303,17 @@ Alors, longue vie au roi.
 
 73
 00:08:38,978 --> 00:08:41,480
-- Que vais-je faire de lui ?
-- Allons !
+- Que vais-je faire de lui?
+- Allons!
 
 74
 00:08:41,647 --> 00:08:45,276
-Il aurait dû être banni de la Terre
+Il aurait dÃ» Ãªtre banni de la Terre
 des Lions, depuis longtemps.
 
 75
 00:08:45,443 --> 00:08:48,362
-C'est mon frère. Il est ici chez lui.
+C'est mon frÃ¨re. Il est ici chez lui.
 
 76
 00:08:48,529 --> 00:08:52,158
@@ -330,8 +330,8 @@ se prenait pour un pivert.
 
 79
 00:08:56,579 --> 00:09:00,750
-Il se cognait la tête contre les arbres,
-nos becs ne sont pas conçus pour ça.
+Il se cognait la tÃªte contre les arbres,
+nos becs ne sont pas conÃ§us pour Ã§a.
 
 80
 00:09:00,833 --> 00:09:03,586
@@ -340,7 +340,7 @@ Vous partez.
 
 81
 00:09:03,753 --> 00:09:05,796
-Sire, j'arrive !
+Sire, j'arrive!
 
 82
 00:10:16,617 --> 00:10:18,244
@@ -348,19 +348,19 @@ Simba.
 
 83
 00:11:01,996 --> 00:11:04,039
-Papa, tu es réveillé ?
+Papa, tu es rÃ©veillÃ©?
 
 84
 00:11:06,375 --> 00:11:08,252
-Papa, réveille-toi !
+Papa, rÃ©veille-toi!
 
 85
 00:11:09,086 --> 00:11:10,379
-Papa !
+Papa!
 
 86
 00:11:13,549 --> 00:11:16,260
-Ton fils est réveillé.
+Ton fils est rÃ©veillÃ©.
 
 87
 00:11:16,427 --> 00:11:18,596
@@ -377,33 +377,33 @@ avec toi aujourd'hui.
 
 90
 00:11:23,767 --> 00:11:26,395
-Tu avais promis ! Tu es réveillé ?
+Tu avais promis! Tu es rÃ©veillÃ©?
 
 91
 00:11:35,946 --> 00:11:37,948
-On y va !
+On y va!
 
 92
 00:11:38,532 --> 00:11:41,327
 - On y va.
-- On commence par quoi ?
+- On commence par quoi?
 
 93
 00:11:41,494 --> 00:11:44,580
-Les ordres pour la chasse ?
-Chasser les intrus ?
+Les ordres pour la chasse?
+Chasser les intrus?
 
 94
 00:11:46,373 --> 00:11:49,335
-Tu vas dans la mauvaise direction !
+Tu vas dans la mauvaise direction!
 
 95
 00:11:59,345 --> 00:12:00,554
-Papa ?
+Papa?
 
 96
 00:12:00,930 --> 00:12:03,265
-Je ne suis pas censé monter ici.
+Je ne suis pas censÃ© monter ici.
 
 97
 00:12:04,016 --> 00:12:05,059
@@ -411,11 +411,11 @@ Regarde, Simba.
 
 98
 00:12:06,185 --> 00:12:10,022
-La partie ensoleillée est notre royaume.
+La partie ensoleillÃ©e est notre royaume.
 
 99
 00:12:10,356 --> 00:12:12,775
-Tu règnes sur tout ça ?
+Tu rÃ¨gnes sur tout Ã§a?
 
 100
 00:12:12,942 --> 00:12:14,401
@@ -423,11 +423,11 @@ Oui.
 
 101
 00:12:14,568 --> 00:12:16,946
-Mais le règne d'un roi...
+Mais le rÃ¨gne d'un roi...
 
 102
 00:12:17,112 --> 00:12:20,032
-ressemble à la course du soleil.
+ressemble Ã  la course du soleil.
 
 103
 00:12:20,199 --> 00:12:21,784
@@ -436,44 +436,44 @@ Un jour,
 104
 00:12:21,951 --> 00:12:24,954
 le soleil se couchera en signant
-la fin de mon règne.
+la fin de mon rÃ¨gne.
 
 105
 00:12:25,120 --> 00:12:27,706
-Lorsqu'il se lèvera, tu seras le roi.
+Lorsqu'il se lÃ¨vera, tu seras le roi.
 
 106
 00:12:29,458 --> 00:12:32,753
-Tout ça m'appartiendra ?
+Tout Ã§a m'appartiendra?
 
 107
 00:12:33,128 --> 00:12:37,508
-Cela n'appartient à personne,
+Cela n'appartient Ã  personne,
 mais tu en seras le gardien.
 
 108
 00:12:37,675 --> 00:12:39,635
-C'est une grande responsabilité.
+C'est une grande responsabilitÃ©.
 
 109
 00:12:40,135 --> 00:12:42,137
-Tout ce qui est dans la lumière ?
+Tout ce qui est dans la lumiÃ¨re?
 
 110
 00:12:42,304 --> 00:12:45,975
-Les arbres ? Les points d'eau ?
+Les arbres? Les points d'eau?
 
 111
 00:12:46,141 --> 00:12:47,851
-Et cette montagne ?
+Et cette montagne?
 
 112
 00:12:48,018 --> 00:12:50,312
-Et derrière les ombres ?
+Et derriÃ¨re les ombres?
 
 113
 00:12:50,479 --> 00:12:52,481
-Tu ne dois pas aller là-bas.
+Tu ne dois pas aller lÃ -bas.
 
 114
 00:12:52,648 --> 00:12:54,858
@@ -481,36 +481,36 @@ Mais un roi peut faire ce qu'il veut.
 
 115
 00:12:55,025 --> 00:12:56,277
-Tout posséder.
+Tout possÃ©der.
 
 116
 00:12:57,194 --> 00:13:00,406
-Quand chacun s'intéresse
-à ce qu'il peut posséder,
+Quand chacun s'intÃ©resse
+Ã  ce qu'il peut possÃ©der,
 
 117
 00:13:00,573 --> 00:13:03,409
-un vrai roi s'intéresse
-à ce qu'il peut offrir.
+un vrai roi s'intÃ©resse
+Ã  ce qu'il peut offrir.
 
 118
 00:13:09,665 --> 00:13:14,211
 Tout ce que tu vois respecte
-un fragile équilibre.
+un fragile Ã©quilibre.
 
 119
 00:13:15,462 --> 00:13:18,674
 En tant que roi,
-il te faut comprendre cet équilibre,
+il te faut comprendre cet Ã©quilibre,
 
 120
 00:13:18,841 --> 00:13:20,968
-et respecter tous les êtres vivants.
+et respecter tous les Ãªtres vivants.
 
 121
 00:13:21,135 --> 00:13:23,804
 De la fourmi qui rampe
-à l'antilope qui bondit.
+Ã  l'antilope qui bondit.
 
 122
 00:13:25,222 --> 00:13:28,183
@@ -536,12 +536,12 @@ au grand cycle de la vie.
 
 127
 00:13:44,617 --> 00:13:46,702
-- Sire !
+- Sire!
 - Bonjour, Zazu.
 
 128
 00:13:46,869 --> 00:13:48,370
-Le rapport du matin ?
+Le rapport du matin?
 
 129
 00:13:48,537 --> 00:13:49,830
@@ -561,12 +561,12 @@ Les abeilles ont le bourdon...
 
 133
 00:13:55,294 --> 00:13:57,046
-Tu veux t'amuser ?
+Tu veux t'amuser?
 
 134
 00:13:57,212 --> 00:13:59,131
 Les oiseaux gazouillent
-à 4 h du matin.
+Ã  4 h du matin.
 
 135
 00:13:59,298 --> 00:14:00,883
@@ -582,7 +582,7 @@ Je sais.
 
 138
 00:14:03,761 --> 00:14:06,639
-Vérifie le vent, les ombres...
+VÃ©rifie le vent, les ombres...
 
 139
 00:14:07,348 --> 00:14:09,642
@@ -590,7 +590,7 @@ et guette le meilleur moment pour bondir.
 
 140
 00:14:09,808 --> 00:14:12,019
-Les guépards ont volé le repas
+Les guÃ©pards ont volÃ© le repas
 des singes.
 
 141
@@ -599,8 +599,8 @@ Bien mal acquis ne profite jamais.
 
 142
 00:14:14,438 --> 00:14:16,482
-C'est ce que je dis. Vous suivez ?
-Je répète.
+C'est ce que je dis. Vous suivez?
+Je rÃ©pÃ¨te.
 
 143
 00:14:16,649 --> 00:14:17,858
@@ -608,33 +608,33 @@ Bien mal acquis ne...
 
 144
 00:14:20,527 --> 00:14:23,739
-Ce sont les nouvelles !
+Ce sont les nouvelles!
 
 145
 00:14:26,825 --> 00:14:28,577
-C'est très bien !
+C'est trÃ¨s bien!
 
 146
 00:14:30,120 --> 00:14:31,580
-Sire !
+Sire!
 
 147
 00:14:32,539 --> 00:14:35,542
-Sire ! Des hyènes chassent
+Sire! Des hyÃ¨nes chassent
 sur la Terre des Lions.
 
 148
 00:14:35,709 --> 00:14:38,504
-- Où est Sarabi ?
-- Elle mène la charge.
+- OÃ¹ est Sarabi?
+- Elle mÃ¨ne la charge.
 
 149
 00:14:38,671 --> 00:14:40,005
-Zazu, ramène Simba.
+Zazu, ramÃ¨ne Simba.
 
 150
 00:14:40,172 --> 00:14:41,840
-Je peux venir ? Je vous aiderai.
+Je peux venir? Je vous aiderai.
 
 151
 00:14:42,257 --> 00:14:45,511
@@ -642,7 +642,7 @@ Non, reste avec les autres lionceaux.
 
 152
 00:14:46,762 --> 00:14:48,013
-Je ne suis pas un bébé.
+Je ne suis pas un bÃ©bÃ©.
 
 153
 00:14:50,432 --> 00:14:51,767
@@ -662,7 +662,7 @@ Va jouer avec les autres lionceaux.
 
 157
 00:15:14,873 --> 00:15:16,291
-Génial.
+GÃ©nial.
 
 158
 00:16:04,590 --> 00:16:06,258
@@ -670,7 +670,7 @@ Si tu veux tuer une proie,
 
 159
 00:16:06,425 --> 00:16:08,385
-apprends à avancer sous le vent.
+apprends Ã  avancer sous le vent.
 
 160
 00:16:08,761 --> 00:16:10,596
@@ -678,30 +678,30 @@ Je sais chasser, oncle Scar.
 
 161
 00:16:10,763 --> 00:16:13,849
-Pourvu qu'on ne soit jamais attaqués
-par un scarabée.
+Pourvu qu'on ne soit jamais attaquÃ©s
+par un scarabÃ©e.
 
 162
 00:16:14,016 --> 00:16:17,644
-Retourne dans ta tanière.
+Retourne dans ta taniÃ¨re.
 Je ne fais pas de baby-sitting.
 
 163
 00:16:17,936 --> 00:16:20,689
-Baby-sitting ?
+Baby-sitting?
 Je suis le futur roi.
 
 164
 00:16:23,150 --> 00:16:24,902
-Mon père m'a montré le royaume.
+Mon pÃ¨re m'a montrÃ© le royaume.
 
 165
 00:16:25,068 --> 00:16:27,112
-Il a dit que je régnerai.
+Il a dit que je rÃ©gnerai.
 
 166
 00:16:27,279 --> 00:16:28,864
-Tiens donc ?
+Tiens donc?
 
 167
 00:16:29,031 --> 00:16:30,073
@@ -718,20 +718,20 @@ Je te dirai quoi faire.
 
 170
 00:16:35,287 --> 00:16:37,122
-C'est bizarre, non ?
+C'est bizarre, non?
 
 171
 00:16:38,290 --> 00:16:40,334
-Tu n'as pas idée.
+Tu n'as pas idÃ©e.
 
 172
 00:16:42,044 --> 00:16:44,922
-Ainsi, ton père t'a montré le royaume ?
+Ainsi, ton pÃ¨re t'a montrÃ© le royaume?
 
 173
 00:16:45,798 --> 00:16:49,051
-T'a-t-il montré les ombres
-au-delà de la frontière nord ?
+T'a-t-il montrÃ© les ombres
+au-delÃ  de la frontiÃ¨re nord?
 
 174
 00:16:49,218 --> 00:16:53,305
@@ -739,16 +739,16 @@ Non, il dit que je ne dois jamais y aller.
 
 175
 00:16:53,472 --> 00:16:57,267
-Il a tout à fait raison.
+Il a tout Ã  fait raison.
 
 176
 00:16:57,726 --> 00:17:02,439
-Un jeune prince n'a rien à faire
-dans un cimetière d'éléphants.
+Un jeune prince n'a rien Ã  faire
+dans un cimetiÃ¨re d'Ã©lÃ©phants.
 
 177
 00:17:02,606 --> 00:17:05,192
-Un cimetière d'éléphants ?
+Un cimetiÃ¨re d'Ã©lÃ©phants?
 
 178
 00:17:06,985 --> 00:17:09,530
@@ -756,7 +756,7 @@ Oh, j'en ai trop dit.
 
 179
 00:17:09,696 --> 00:17:11,573
-Mais tu l'aurais su, tôt ou tard,
+Mais tu l'aurais su, tÃ´t ou tard,
 
 180
 00:17:11,740 --> 00:17:14,493
@@ -764,12 +764,12 @@ en tant que roi.
 
 181
 00:17:14,660 --> 00:17:15,994
-Tu y es déjà allé, toi ?
+Tu y es dÃ©jÃ  allÃ©, toi?
 
 182
 00:17:16,161 --> 00:17:19,498
-Nous y sommes tous allés.
-Un lionceau n'a rien à y faire.
+Nous y sommes tous allÃ©s.
+Un lionceau n'a rien Ã  y faire.
 
 183
 00:17:19,665 --> 00:17:22,000
@@ -777,11 +777,11 @@ Tous ces ossements pourris,
 
 184
 00:17:22,167 --> 00:17:25,254
-ces mares de boue brûlante et gluante.
+ces mares de boue brÃ»lante et gluante.
 
 185
 00:17:25,420 --> 00:17:27,589
-Des ossements ? De la boue gluante ?
+Des ossements? De la boue gluante?
 
 186
 00:17:27,756 --> 00:17:30,634
@@ -801,7 +801,7 @@ C'est notre petit secret,
 
 190
 00:17:44,231 --> 00:17:45,941
-Votre Majesté.
+Votre MajestÃ©.
 
 191
 00:17:53,532 --> 00:17:55,534
@@ -809,7 +809,7 @@ Nala, viens. On y va.
 
 192
 00:17:55,701 --> 00:17:57,411
-- Où ça ?
+- OÃ¹ Ã§a?
 - Au point d'eau.
 
 193
@@ -830,27 +830,27 @@ Je peux le faire tout seul.
 
 197
 00:18:05,085 --> 00:18:06,336
-Arrête de bouger.
+ArrÃªte de bouger.
 
 198
 00:18:06,503 --> 00:18:08,171
-Tu m'emmêles la crinière !
+Tu m'emmÃªles la criniÃ¨re!
 
 199
 00:18:08,338 --> 00:18:10,215
-Allez. Derrière les oreilles.
+Allez. DerriÃ¨re les oreilles.
 
 200
 00:18:10,757 --> 00:18:12,134
-Arrête, maman !
+ArrÃªte, maman!
 
 201
 00:18:14,553 --> 00:18:17,514
-Je suis propre. On peut y aller ?
+Je suis propre. On peut y aller?
 
 202
 00:18:17,681 --> 00:18:21,184
-Les hyènes sont parties.
+Les hyÃ¨nes sont parties.
 Vous venez de les chasser.
 
 203
@@ -863,7 +863,7 @@ Et restez sous le vent.
 
 205
 00:18:28,650 --> 00:18:30,527
-Une dernière chose.
+Une derniÃ¨re chose.
 
 206
 00:18:30,694 --> 00:18:32,487
@@ -871,7 +871,7 @@ Zazu va venir avec vous.
 
 207
 00:18:32,654 --> 00:18:33,697
-Zazu ?
+Zazu?
 
 208
 00:18:33,864 --> 00:18:34,740
@@ -883,23 +883,23 @@ ou pas du tout.
 
 210
 00:18:40,829 --> 00:18:43,707
-Avancez, pressez le pas. Restons groupés.
+Avancez, pressez le pas. Restons groupÃ©s.
 
 211
 00:18:43,874 --> 00:18:45,375
-On reste en binôme.
+On reste en binÃ´me.
 
 212
 00:18:45,542 --> 00:18:47,210
-On va où, en vrai ?
+On va oÃ¹, en vrai?
 
 213
 00:18:47,377 --> 00:18:48,378
-Comment t'as deviné ?
+Comment t'as devinÃ©?
 
 214
 00:18:48,545 --> 00:18:49,546
-Tu détestes l'eau.
+Tu dÃ©testes l'eau.
 
 215
 00:18:49,713 --> 00:18:53,800
@@ -908,42 +908,42 @@ d'un endroit incroyable, formidable.
 
 216
 00:18:53,884 --> 00:18:55,385
-Où ça ?
+OÃ¹ Ã§a?
 
 217
 00:18:55,552 --> 00:18:58,347
-Un cimetière d'éléphants.
+Un cimetiÃ¨re d'Ã©lÃ©phants.
 
 218
 00:18:59,598 --> 00:19:00,641
-C'est loin ?
+C'est loin?
 
 219
 00:19:00,807 --> 00:19:02,643
-Non. Tout près des ombres.
+Non. Tout prÃ¨s des ombres.
 
 220
 00:19:02,809 --> 00:19:04,771
-T'inquiète pas.
-Beaucoup y sont déjà allés.
+T'inquiÃ¨te pas.
+Beaucoup y sont dÃ©jÃ  allÃ©s.
 
 221
 00:19:04,854 --> 00:19:06,189
-On n'est jamais allés aussi loin.
+On n'est jamais allÃ©s aussi loin.
 
 222
 00:19:06,356 --> 00:19:08,232
-- Si on se perd ?
-- Détends-toi.
+- Si on se perd?
+- DÃ©tends-toi.
 
 223
 00:19:08,399 --> 00:19:11,861
-J'ai patrouillé sur tout le royaume
-avec mon père, ce matin.
+J'ai patrouillÃ© sur tout le royaume
+avec mon pÃ¨re, ce matin.
 
 224
 00:19:12,028 --> 00:19:13,488
-Il n'y a rien à craindre.
+Il n'y a rien Ã  craindre.
 
 225
 00:19:13,655 --> 00:19:15,531
@@ -955,11 +955,11 @@ Menace imminente. Quelque chose approche.
 
 227
 00:19:19,327 --> 00:19:21,245
-Oh, oubliez ! Ce n'est que mon ombre.
+Oh, oubliez! Ce n'est que mon ombre.
 
 228
 00:19:21,537 --> 00:19:23,289
-Comment on se débarrasse du dodo ?
+Comment on se dÃ©barrasse du dodo?
 
 229
 00:19:23,456 --> 00:19:25,083
@@ -967,7 +967,7 @@ Je m'en occupe.
 
 230
 00:19:25,249 --> 00:19:26,584
-À nous la liberté.
+Ã€ nous la libertÃ©.
 
 231
 00:19:28,002 --> 00:19:29,879
@@ -983,23 +983,23 @@ J'en perds mes plumes.
 
 234
 00:19:35,343 --> 00:19:36,970
-Comment ça "future reine" ?
+Comment Ã§a "future reine" ?
 
 235
 00:19:37,136 --> 00:19:39,973
-Un jour, nous fêterons votre union.
+Un jour, nous fÃªterons votre union.
 
 236
 00:19:40,139 --> 00:19:42,934
-Vos épousailles, vos fiançailles.
+Vos Ã©pousailles, vos fianÃ§ailles.
 
 237
 00:19:43,893 --> 00:19:45,144
-Tu parles l'oiseau ?
+Tu parles l'oiseau?
 
 238
 00:19:45,311 --> 00:19:46,396
-Mariage !
+Mariage!
 
 239
 00:19:46,562 --> 00:19:48,856
@@ -1011,7 +1011,7 @@ Tous les deux.
 
 241
 00:19:55,321 --> 00:19:57,281
-- Jamais !
+- Jamais!
 - Jamais de la vie.
 
 242
@@ -1020,12 +1020,12 @@ Nala et moi, on est amis.
 
 243
 00:19:58,741 --> 00:20:00,868
-Et elle a peur des rhinocéros !
+Et elle a peur des rhinocÃ©ros!
 
 244
 00:20:01,035 --> 00:20:02,954
 - Il mange pas d'impala.
-- J'ai essayé.
+- J'ai essayÃ©.
 
 245
 00:20:03,121 --> 00:20:04,706
@@ -1033,17 +1033,17 @@ On se mariera jamais.
 
 246
 00:20:04,872 --> 00:20:06,624
-Un monarque qui ignore la tradition ?
+Un monarque qui ignore la tradition?
 
 247
 00:20:06,958 --> 00:20:10,920
 Avec une telle attitude,
-tu feras un bien piètre roi.
+tu feras un bien piÃ¨tre roi.
 
 248
 00:20:11,087 --> 00:20:14,549
 Je laisserai personne me dire
-où aller ni quoi faire.
+oÃ¹ aller ni quoi faire.
 
 249
 00:20:14,716 --> 00:20:15,925
@@ -1055,7 +1055,7 @@ Je serai le plus grand des rois.
 
 251
 00:20:18,094 --> 00:20:21,264
-Nul ne peut échapper à son destin.
+Nul ne peut Ã©chapper Ã  son destin.
 
 252
 00:20:21,431 --> 00:20:22,974
@@ -1071,30 +1071,30 @@ Tu verras.
 
 255
 00:20:27,645 --> 00:20:32,358
-<i>C'est bien la première fois
+<i>C'est bien la premiÃ¨re fois
 Qu'on voit un roi avec si peu de poils</i>
 
 256
 00:20:32,900 --> 00:20:37,280
 <i>Je vais faire dans la cour des grands
-Une entrée triomphale</i>
+Une entrÃ©e triomphale</i>
 
 257
 00:20:37,739 --> 00:20:42,076
-<i>En poussant très royalement
+<i>En poussant trÃ¨s royalement
 Un rugissement bestial</i>
 
 258
 00:20:42,744 --> 00:20:45,580
-<i>Majesté, tu ne te mouches pas du coude</i>
+<i>MajestÃ©, tu ne te mouches pas du coude</i>
 
 259
 00:20:46,998 --> 00:20:50,501
-<i>Je voudrais déjà être roi</i>
+<i>Je voudrais dÃ©jÃ  Ãªtre roi</i>
 
 260
 00:20:50,668 --> 00:20:52,795
-Le chemin sera long, jeune maître.
+Le chemin sera long, jeune maÃ®tre.
 
 261
 00:20:52,962 --> 00:20:54,088
@@ -1106,7 +1106,7 @@ Si tu penses...
 
 263
 00:20:55,590 --> 00:20:56,799
-Quand je dis ça...
+Quand je dis Ã§a...
 
 264
 00:20:56,924 --> 00:20:58,259
@@ -1118,7 +1118,7 @@ Ce que je voulais dire...
 
 266
 00:20:59,510 --> 00:21:01,429
-<i>Surtout ne fais pas ça</i>
+<i>Surtout ne fais pas Ã§a</i>
 
 267
 00:21:01,596 --> 00:21:03,139
@@ -1126,11 +1126,11 @@ Ce que je voulais dire...
 
 268
 00:21:03,306 --> 00:21:04,474
-Reste ici !
+Reste ici!
 
 269
 00:21:04,640 --> 00:21:07,643
-<i>Sans jamais dire où je vais</i>
+<i>Sans jamais dire oÃ¹ je vais</i>
 
 270
 00:21:07,810 --> 00:21:09,187
@@ -1138,12 +1138,12 @@ Il n'en est pas question.
 
 271
 00:21:09,353 --> 00:21:12,815
-<i>Je veux faire ce qui me plaît</i>
+<i>Je veux faire ce qui me plaÃ®t</i>
 
 272
 00:21:16,527 --> 00:21:20,823
 <i>Il est grand temps, Votre Grandeur
-Qu'on parle de cœur à cœur</i>
+Qu'on parle de cÅ“ur Ã  cÅ“ur</i>
 
 273
 00:21:21,365 --> 00:21:25,828
@@ -1157,7 +1157,7 @@ Avec la tyrannie</i>
 
 275
 00:21:30,875 --> 00:21:33,294
-<i>Vive la république
+<i>Vive la rÃ©publique
 Adieu l'Afrique</i>
 
 276
@@ -1171,7 +1171,7 @@ Ne te trompe pas de voie</i>
 
 278
 00:21:40,635 --> 00:21:44,722
-<i>Je voudrais déjà être roi</i>
+<i>Je voudrais dÃ©jÃ  Ãªtre roi</i>
 
 279
 00:21:56,359 --> 00:21:57,693
@@ -1183,19 +1183,19 @@ Je ne dois pas te perdre de vue.
 
 281
 00:21:59,779 --> 00:22:00,988
-Je l'ai perdu !
+Je l'ai perdu!
 
 282
 00:22:02,657 --> 00:22:04,575
-Je sais à quoi tu joues.
+Je sais Ã  quoi tu joues.
 
 283
 00:22:05,034 --> 00:22:06,786
-Où vas-tu, Simba ?
+OÃ¹ vas-tu, Simba?
 
 284
 00:22:06,953 --> 00:22:08,412
-Allons !
+Allons!
 
 285
 00:22:10,623 --> 00:22:12,583
@@ -1203,15 +1203,15 @@ Tu ne peux pas te cacher.
 
 286
 00:22:12,750 --> 00:22:15,419
-Mon devoir est d'assurer ta sécurité.
+Mon devoir est d'assurer ta sÃ©curitÃ©.
 
 287
 00:22:15,586 --> 00:22:17,547
-Tu vas m'écouter.
+Tu vas m'Ã©couter.
 
 288
 00:22:21,008 --> 00:22:23,177
-Désolé pour la plume dans l'œil.
+DÃ©solÃ© pour la plume dans l'Å“il.
 Avez-vous vu...
 
 289
@@ -1224,11 +1224,11 @@ Il est petit, mais mignon.
 
 291
 00:22:31,477 --> 00:22:33,563
-<i>Regardez bien à l'ouest</i>
+<i>Regardez bien Ã  l'ouest</i>
 
 292
 00:22:33,729 --> 00:22:35,898
-<i>Regardez bien à l'est</i>
+<i>Regardez bien Ã  l'est</i>
 
 293
 00:22:36,482 --> 00:22:38,359
@@ -1236,7 +1236,7 @@ Il est petit, mais mignon.
 
 294
 00:22:38,526 --> 00:22:40,278
-<i>Est sans frontière</i>
+<i>Est sans frontiÃ¨re</i>
 
 295
 00:22:40,444 --> 00:22:41,279
@@ -1249,12 +1249,12 @@ Jusqu'au ciel</i>
 
 297
 00:22:46,284 --> 00:22:49,245
-<i>Les animaux répandent la nouvelle</i>
+<i>Les animaux rÃ©pandent la nouvelle</i>
 
 298
 00:22:49,412 --> 00:22:51,247
-Je vous vois !
-Je vous vois !
+Je vous vois!
+Je vous vois!
 
 299
 00:22:51,414 --> 00:22:54,876
@@ -1262,35 +1262,35 @@ Je vous vois !
 
 300
 00:22:55,751 --> 00:23:00,047
-<i>Je voudrais déjà être roi</i>
+<i>Je voudrais dÃ©jÃ  Ãªtre roi</i>
 
 301
 00:23:01,007 --> 00:23:05,219
-<i>Il voudrait déjà être roi</i>
+<i>Il voudrait dÃ©jÃ  Ãªtre roi</i>
 
 302
 00:23:05,511 --> 00:23:08,431
-<i>Je voudrais déjà</i>
+<i>Je voudrais dÃ©jÃ </i>
 
 303
 00:23:08,598 --> 00:23:11,058
-<i>Il voudrait déjà</i>
+<i>Il voudrait dÃ©jÃ </i>
 
 304
 00:23:11,225 --> 00:23:15,730
-<i>Être roi</i>
+<i>ÃŠtre roi</i>
 
 305
 00:23:17,732 --> 00:23:19,442
-Mufasa va me déplumer.
+Mufasa va me dÃ©plumer.
 
 306
 00:23:19,525 --> 00:23:21,194
-Je suis dans de beaux draps !
+Je suis dans de beaux draps!
 
 307
 00:23:24,697 --> 00:23:26,407
-On l'a vraiment semé.
+On l'a vraiment semÃ©.
 
 308
 00:23:26,574 --> 00:23:27,909
@@ -1298,15 +1298,15 @@ Je sais ce que tu penses.
 
 309
 00:23:28,075 --> 00:23:29,368
-"Le futur roi est un génie."
+"Le futur roi est un gÃ©nie."
 
 310
 00:23:29,535 --> 00:23:30,786
-Tu n'es pas sérieux.
+Tu n'es pas sÃ©rieux.
 
 311
 00:23:30,953 --> 00:23:33,289
-Jamais tu n'y serais arrivé sans ta reine.
+Jamais tu n'y serais arrivÃ© sans ta reine.
 
 312
 00:23:33,456 --> 00:23:34,790
@@ -1322,11 +1322,11 @@ Je suis bien d'accord.
 
 315
 00:23:37,919 --> 00:23:39,295
-Plutôt épouser un fourmilier.
+PlutÃ´t Ã©pouser un fourmilier.
 
 316
 00:23:39,462 --> 00:23:41,172
-À condition qu'il accepte.
+Ã€ condition qu'il accepte.
 
 317
 00:23:41,339 --> 00:23:42,882
@@ -1338,7 +1338,7 @@ Montre ce que tu sais faire.
 
 319
 00:23:48,387 --> 00:23:49,388
-Je t'ai eu !
+Je t'ai eu!
 
 320
 00:23:49,555 --> 00:23:51,307
@@ -1346,7 +1346,7 @@ Tu me dois des excuses.
 
 321
 00:23:51,474 --> 00:23:52,642
-Jamais !
+Jamais!
 
 322
 00:24:02,151 --> 00:24:03,819
@@ -1354,11 +1354,11 @@ Je t'ai eu. Encore une fois.
 
 323
 00:24:03,986 --> 00:24:05,196
-Nala, arrête !
+Nala, arrÃªte!
 
 324
 00:24:05,363 --> 00:24:06,322
-Qu'est-ce que c'est ?
+Qu'est-ce que c'est?
 
 325
 00:24:06,489 --> 00:24:08,032
@@ -1370,11 +1370,11 @@ Je sais qu'il y a rien...
 
 327
 00:24:13,955 --> 00:24:15,623
-C'est sûrement là.
+C'est sÃ»rement lÃ .
 
 328
 00:24:16,832 --> 00:24:18,084
-Viens !
+Viens!
 
 329
 00:24:38,980 --> 00:24:40,982
@@ -1382,8 +1382,8 @@ On est loin de la Terre des Lions.
 
 330
 00:24:41,148 --> 00:24:43,484
-On l'a trouvé.
-Tu sais ce que ça signifie ?
+On l'a trouvÃ©.
+Tu sais ce que Ã§a signifie?
 
 331
 00:24:43,651 --> 00:24:45,027
@@ -1391,7 +1391,7 @@ Qu'on peut rentrer.
 
 332
 00:24:45,194 --> 00:24:48,155
-Qu'on sera plus traités comme des bébés.
+Qu'on sera plus traitÃ©s comme des bÃ©bÃ©s.
 
 333
 00:25:37,496 --> 00:25:39,790
@@ -1399,7 +1399,7 @@ Baisse-toi. C'est dangereux.
 
 334
 00:25:39,957 --> 00:25:41,208
-Le danger ?
+Le danger?
 
 335
 00:25:41,375 --> 00:25:43,669
@@ -1407,28 +1407,28 @@ Le danger, je lui ris au nez.
 
 336
 00:25:47,798 --> 00:25:48,883
-Génial !
+GÃ©nial!
 
 337
 00:25:49,800 --> 00:25:51,427
-Tu entends, Nala ?
+Tu entends, Nala?
 
 338
 00:25:51,927 --> 00:25:53,554
-Viens, Simba !
+Viens, Simba!
 
 339
 00:25:53,721 --> 00:25:55,348
-Tu as prouvé ton courage.
+Tu as prouvÃ© ton courage.
 
 340
 00:25:55,514 --> 00:25:58,809
 Le soleil se couche,
-je vais pas rester là...
+je vais pas rester lÃ ...
 
 341
 00:26:19,538 --> 00:26:22,833
-Regardez-moi ça.
+Regardez-moi Ã§a.
 
 342
 00:26:23,584 --> 00:26:27,004
@@ -1440,24 +1440,24 @@ Les lionceaux,
 
 344
 00:26:30,174 --> 00:26:31,634
-vous restez dîner ?
+vous restez dÃ®ner?
 
 345
 00:26:31,801 --> 00:26:33,677
-Oui, restez dîner.
+Oui, restez dÃ®ner.
 
 346
 00:26:33,844 --> 00:26:36,347
-Vous avez une bonne tête de casse-croûte.
+Vous avez une bonne tÃªte de casse-croÃ»te.
 
 347
 00:26:36,430 --> 00:26:38,974
-- Reste pas dans mes pattes !
+- Reste pas dans mes pattes!
 - C'est pour t'aider.
 
 348
 00:26:39,141 --> 00:26:40,684
-On en a déjà parlé.
+On en a dÃ©jÃ  parlÃ©.
 
 349
 00:26:40,851 --> 00:26:41,977
@@ -1469,7 +1469,7 @@ Je les occupe et vous les encerclez.
 
 351
 00:26:44,563 --> 00:26:46,774
-D'accord. Désolé.
+D'accord. DÃ©solÃ©.
 
 352
 00:26:46,941 --> 00:26:48,567
@@ -1477,8 +1477,8 @@ Cesse de t'excuser et fais-le.
 
 353
 00:26:48,734 --> 00:26:51,946
-Voilà le repas
-dont j'ai rêvé toute ma vie.
+VoilÃ  le repas
+dont j'ai rÃªvÃ© toute ma vie.
 
 354
 00:26:56,951 --> 00:27:01,705
@@ -1486,12 +1486,12 @@ Quel festin inattendu, le fils d'un roi.
 
 355
 00:27:01,872 --> 00:27:04,458
-Attends, le roi ?
+Attends, le roi?
 Tu veux dire "tu-sais-qui" ?
 
 356
 00:27:04,625 --> 00:27:05,960
-Qui règne sur "tu-sais-quoi" ?
+Qui rÃ¨gne sur "tu-sais-quoi" ?
 
 357
 00:27:06,127 --> 00:27:08,629
@@ -1499,11 +1499,11 @@ Mufasa ne me commande pas.
 
 358
 00:27:09,296 --> 00:27:11,674
-Vous ne pouvez rien contre moi !
+Vous ne pouvez rien contre moi!
 
 359
 00:27:11,841 --> 00:27:13,676
-Je suis le futur roi !
+Je suis le futur roi!
 
 360
 00:27:16,679 --> 00:27:18,305
@@ -1511,7 +1511,7 @@ Il me donne des ordres.
 
 361
 00:27:18,472 --> 00:27:21,016
-La force de son père
+La force de son pÃ¨re
 coule dans ses veines.
 
 362
@@ -1520,11 +1520,11 @@ Je me demande...
 
 363
 00:27:23,978 --> 00:27:26,105
-quel goût peut avoir la bravoure.
+quel goÃ»t peut avoir la bravoure.
 
 364
 00:27:26,981 --> 00:27:29,191
-Laisse-les partir, Shenzi !
+Laisse-les partir, Shenzi!
 
 365
 00:27:29,358 --> 00:27:31,819
@@ -1533,45 +1533,45 @@ une terrible erreur.
 
 366
 00:27:31,986 --> 00:27:35,906
-Mais si tu fais ça,
-tu déclares la guerre à Mufasa !
+Mais si tu fais Ã§a,
+tu dÃ©clares la guerre Ã  Mufasa!
 
 367
 00:27:36,073 --> 00:27:39,577
-Les hyènes et les lions sont en guerre
+Les hyÃ¨nes et les lions sont en guerre
 depuis toujours.
 
 368
 00:27:39,743 --> 00:27:42,997
-La lignée de Mufasa s'arrêtera ici !
+La lignÃ©e de Mufasa s'arrÃªtera ici!
 
 369
 00:27:43,497 --> 00:27:44,498
-Sauvez-vous !
+Sauvez-vous!
 
 370
 00:27:50,504 --> 00:27:52,339
-Ne les laissez pas s'échapper !
+Ne les laissez pas s'Ã©chapper!
 
 371
 00:28:04,894 --> 00:28:05,853
-Viens !
+Viens!
 
 372
 00:28:26,874 --> 00:28:28,250
-Tu as entendu ?
+Tu as entendu?
 
 373
 00:28:28,417 --> 00:28:29,877
-Le futur roi !
+Le futur roi!
 
 374
 00:28:30,419 --> 00:28:31,504
-Ne me fais pas mal !
+Ne me fais pas mal!
 
 375
 00:28:32,296 --> 00:28:33,297
-Recommence !
+Recommence!
 
 376
 00:29:08,457 --> 00:29:11,001
@@ -1587,19 +1587,19 @@ Plus jamais.
 
 379
 00:29:16,340 --> 00:29:18,842
-Tu es prévenue, Shenzi.
+Tu es prÃ©venue, Shenzi.
 
 380
 00:29:28,018 --> 00:29:30,479
-Je t'ai trouvé très courageux.
+Je t'ai trouvÃ© trÃ¨s courageux.
 
 381
 00:30:06,015 --> 00:30:07,099
-Zazu ?
+Zazu?
 
 382
 00:30:09,143 --> 00:30:11,270
-Ramène Nala au Rocher des Lions.
+RamÃ¨ne Nala au Rocher des Lions.
 
 383
 00:30:12,605 --> 00:30:14,273
@@ -1607,11 +1607,11 @@ Oui, Sire.
 
 384
 00:30:14,440 --> 00:30:16,442
-Ne soyez pas trop sévère, Sire.
+Ne soyez pas trop sÃ©vÃ¨re, Sire.
 
 385
 00:30:16,609 --> 00:30:19,903
-Je me souviens d'un lionceau, très têtu...
+Je me souviens d'un lionceau, trÃ¨s tÃªtu...
 
 386
 00:30:20,070 --> 00:30:21,947
@@ -1619,12 +1619,12 @@ qui adorait se mettre en danger.
 
 387
 00:30:22,114 --> 00:30:25,868
-Il est devenu très respectable.
-N'est-ce pas, Sire ?
+Il est devenu trÃ¨s respectable.
+N'est-ce pas, Sire?
 
 388
 00:30:26,452 --> 00:30:28,954
-Je dois donner une leçon à mon fils.
+Je dois donner une leÃ§on Ã  mon fils.
 
 389
 00:30:34,460 --> 00:30:36,462
@@ -1632,7 +1632,7 @@ Nala, suis-moi.
 
 390
 00:31:03,198 --> 00:31:06,284
-Tu m'as désobéi délibérément.
+Tu m'as dÃ©sobÃ©i dÃ©libÃ©rÃ©ment.
 
 391
 00:31:06,451 --> 00:31:07,577
@@ -1640,7 +1640,7 @@ Je sais.
 
 392
 00:31:07,744 --> 00:31:09,496
-Tu aurais pu être tué.
+Tu aurais pu Ãªtre tuÃ©.
 
 393
 00:31:09,663 --> 00:31:13,416
@@ -1648,20 +1648,20 @@ Et pire, tu as mis Nala en danger.
 
 394
 00:31:13,583 --> 00:31:16,002
-Te rends-tu compte du risque ?
+Te rends-tu compte du risque?
 
 395
 00:31:16,878 --> 00:31:20,590
-Tu as mis en péril l'avenir de la tribu.
+Tu as mis en pÃ©ril l'avenir de la tribu.
 
 396
 00:31:20,757 --> 00:31:23,843
-C'était pour te prouver
-que j'en étais capable.
+C'Ã©tait pour te prouver
+que j'en Ã©tais capable.
 
 397
 00:31:24,010 --> 00:31:25,970
-Que j'étais aussi brave que toi.
+Que j'Ã©tais aussi brave que toi.
 
 398
 00:31:26,137 --> 00:31:30,308
@@ -1678,7 +1678,7 @@ J'ai eu peur aujourd'hui.
 
 401
 00:31:35,021 --> 00:31:35,939
-C'est vrai ?
+C'est vrai?
 
 402
 00:31:37,315 --> 00:31:40,193
@@ -1686,7 +1686,7 @@ J'ai eu peur de te perdre.
 
 403
 00:31:41,903 --> 00:31:44,989
-Alors, même les rois peuvent avoir peur ?
+Alors, mÃªme les rois peuvent avoir peur?
 
 404
 00:31:46,366 --> 00:31:48,618
@@ -1694,12 +1694,12 @@ Plus que tu ne peux l'imaginer.
 
 405
 00:31:48,785 --> 00:31:50,620
-- Tu sais quoi ?
-- Quoi ?
+- Tu sais quoi?
+- Quoi?
 
 406
 00:31:50,787 --> 00:31:54,457
-Les hyènes ont dû avoir encore plus peur.
+Les hyÃ¨nes ont dÃ» avoir encore plus peur.
 
 407
 00:31:54,624 --> 00:31:57,502
@@ -1707,15 +1707,15 @@ Parce qu'il ne faut pas me chercher.
 
 408
 00:31:57,669 --> 00:31:58,837
-Viens là !
+Viens lÃ !
 
 409
 00:32:11,808 --> 00:32:12,767
-Papa ?
+Papa?
 
 410
 00:32:12,934 --> 00:32:15,645
-- On est amis, pas vrai ?
+- On est amis, pas vrai?
 - Oui.
 
 411
@@ -1724,27 +1724,27 @@ On sera toujours ensemble,
 
 412
 00:32:18,231 --> 00:32:19,774
-pas vrai ?
+pas vrai?
 
 413
 00:32:20,942 --> 00:32:25,405
-Écoute ce que mon père m'a dit un jour.
+Ã‰coute ce que mon pÃ¨re m'a dit un jour.
 
 414
 00:32:25,780 --> 00:32:27,699
-Regarde ces étoiles.
+Regarde ces Ã©toiles.
 
 415
 00:32:27,866 --> 00:32:30,285
-Les grands rois du passé...
+Les grands rois du passÃ©...
 
 416
 00:32:30,452 --> 00:32:33,455
-veillent sur nous depuis là-haut.
+veillent sur nous depuis lÃ -haut.
 
 417
 00:32:33,621 --> 00:32:35,415
-- Vraiment ?
+- Vraiment?
 - Oui.
 
 418
@@ -1757,7 +1757,7 @@ souviens-toi que ces rois
 
 420
 00:32:41,504 --> 00:32:44,257
-seront toujours là pour te guider.
+seront toujours lÃ  pour te guider.
 
 421
 00:32:45,008 --> 00:32:47,010
@@ -1786,7 +1786,7 @@ Bien plus fort que nous.
 427
 00:33:32,847 --> 00:33:34,390
 - Laisse-moi respirer.
-- Quoi ?
+- Quoi?
 
 428
 00:33:34,557 --> 00:33:36,267
@@ -1794,17 +1794,17 @@ Il y a de la place dans la grotte.
 
 429
 00:33:36,434 --> 00:33:38,561
-- Où tu veux que je...
+- OÃ¹ tu veux que je...
 - J'ai besoin d'air.
 
 430
 00:33:38,728 --> 00:33:39,979
-- D'accord ?
+- D'accord?
 - D'accord.
 
 431
 00:33:42,148 --> 00:33:44,150
-Te vexe pas. Tu as été très bien.
+Te vexe pas. Tu as Ã©tÃ© trÃ¨s bien.
 
 432
 00:33:44,317 --> 00:33:45,360
@@ -1812,16 +1812,16 @@ Mais lui, il est...
 
 433
 00:33:45,902 --> 00:33:47,487
-Là, tu le fais exprès.
+LÃ , tu le fais exprÃ¨s.
 
 434
 00:33:47,654 --> 00:33:50,281
-Brave aussi. Fort, énergique.
+Brave aussi. Fort, Ã©nergique.
 
 435
 00:33:50,448 --> 00:33:52,242
-- C'est pour m'énerver.
-- Quelle prestance !
+- C'est pour m'Ã©nerver.
+- Quelle prestance!
 
 436
 00:33:52,408 --> 00:33:53,618
@@ -1829,16 +1829,16 @@ Quand je verrai Mufasa,
 
 437
 00:33:53,785 --> 00:33:56,371
-je lui donnerai une leçon
+je lui donnerai une leÃ§on
 qu'il n'oubliera pas.
 
 438
 00:33:56,538 --> 00:33:58,665
-Tu as de la chance. Il est derrière toi.
+Tu as de la chance. Il est derriÃ¨re toi.
 
 439
 00:33:58,832 --> 00:34:00,083
-Mufasa ?
+Mufasa?
 
 440
 00:34:14,264 --> 00:34:16,224
@@ -1846,12 +1846,12 @@ Ce n'est pas le roi.
 
 441
 00:34:18,184 --> 00:34:21,521
-Il ne reste plus aucune créature vivante
+Il ne reste plus aucune crÃ©ature vivante
 sur vos terres.
 
 442
 00:34:21,688 --> 00:34:24,691
-Je vous ai envoyé deux lionceaux...
+Je vous ai envoyÃ© deux lionceaux...
 
 443
 00:34:24,858 --> 00:34:26,359
@@ -1859,7 +1859,7 @@ et ils sont revenus vivants.
 
 444
 00:34:26,693 --> 00:34:29,279
-C'est toi qu'on va manger à la place.
+C'est toi qu'on va manger Ã  la place.
 
 445
 00:34:30,196 --> 00:34:31,990
@@ -1867,20 +1867,20 @@ Pourquoi se contenter d'un repas,
 
 446
 00:34:32,156 --> 00:34:35,326
-quand on peut se régaler toute la vie ?
+quand on peut se rÃ©galer toute la vie?
 
 447
 00:34:35,910 --> 00:34:38,830
-Qu'aurais-tu à nous offrir, toi ?
+Qu'aurais-tu Ã  nous offrir, toi?
 
 448
 00:34:38,997 --> 00:34:41,624
-Un endroit où vous remplir la panse.
+Un endroit oÃ¹ vous remplir la panse.
 
 449
 00:34:41,791 --> 00:34:45,795
-Tout ce que le soleil éclairera
-sera à votre merci.
+Tout ce que le soleil Ã©clairera
+sera Ã  votre merci.
 
 450
 00:34:45,962 --> 00:34:48,047
@@ -1888,7 +1888,7 @@ La Terre des Lions ne t'appartient pas.
 
 451
 00:34:48,214 --> 00:34:50,592
-C'est le roi qui contrôle la chasse.
+C'est le roi qui contrÃ´le la chasse.
 
 452
 00:35:00,977 --> 00:35:03,438
@@ -1896,7 +1896,7 @@ C'est pour cela que nous allons le tuer.
 
 453
 00:35:06,774 --> 00:35:09,319
-Mufasa a fixé trop de contraintes...
+Mufasa a fixÃ© trop de contraintes...
 
 454
 00:35:09,485 --> 00:35:11,446
@@ -1912,24 +1912,24 @@ ce sera la loi du plus fort.
 
 457
 00:35:17,410 --> 00:35:20,496
-Parce que le ventre d'une hyène
+Parce que le ventre d'une hyÃ¨ne
 n'est jamais plein.
 
 458
 00:35:21,122 --> 00:35:23,625
-Mufasa est trop puissant pour être défié.
+Mufasa est trop puissant pour Ãªtre dÃ©fiÃ©.
 
 459
 00:35:23,791 --> 00:35:26,794
-<i>Mufasa fait partie du passé</i>
+<i>Mufasa fait partie du passÃ©</i>
 
 460
 00:35:27,545 --> 00:35:30,882
-<i>D'une époque finie, révolue</i>
+<i>D'une Ã©poque finie, rÃ©volue</i>
 
 461
 00:35:31,925 --> 00:35:34,761
-<i>Trop d'erreurs et d'échecs répétés</i>
+<i>Trop d'erreurs et d'Ã©checs rÃ©pÃ©tÃ©s</i>
 
 462
 00:35:35,887 --> 00:35:38,848
@@ -1937,16 +1937,16 @@ Mufasa est trop puissant pour être défié.
 
 463
 00:35:39,933 --> 00:35:42,977
-<i>Pour nous les lions, les temps ont changé</i>
+<i>Pour nous les lions, les temps ont changÃ©</i>
 
 464
 00:35:43,978 --> 00:35:47,190
-<i>Et pour les hyènes, bientôt aussi</i>
+<i>Et pour les hyÃ¨nes, bientÃ´t aussi</i>
 
 465
 00:35:48,191 --> 00:35:52,153
 <i>Ma vision est claire et
-De grande portée</i>
+De grande portÃ©e</i>
 
 466
 00:35:52,445 --> 00:35:55,156
@@ -1954,11 +1954,11 @@ De grande portée</i>
 
 467
 00:35:56,574 --> 00:35:59,953
-<i>Soyez prêtes pour le coup le plus génial</i>
+<i>Soyez prÃªtes pour le coup le plus gÃ©nial</i>
 
 468
 00:36:00,912 --> 00:36:03,998
-<i>Soyez prêtes pour le plus beau scandale</i>
+<i>Soyez prÃªtes pour le plus beau scandale</i>
 
 469
 00:36:04,999 --> 00:36:06,793
@@ -1976,12 +1976,12 @@ Ces mots feront de moi</i>
 472
 00:36:13,007 --> 00:36:14,926
 <i>Un roi
-Incontesté</i>
+IncontestÃ©</i>
 
 473
 00:36:15,093 --> 00:36:17,011
-<i>Respecté
-Salué</i>
+<i>RespectÃ©
+SaluÃ©</i>
 
 474
 00:36:17,178 --> 00:36:20,181
@@ -1989,46 +1989,46 @@ Salué</i>
 
 475
 00:36:20,723 --> 00:36:24,686
-<i>Oui, le roi vous invite à la fête</i>
+<i>Oui, le roi vous invite Ã  la fÃªte</i>
 
 476
 00:36:24,852 --> 00:36:26,729
-<i>Soyez prêtes</i>
+<i>Soyez prÃªtes</i>
 
 477
 00:36:29,065 --> 00:36:31,359
-- <i>Soyez prêtes</i>
-- <i>Soyez prêtes</i>
+- <i>Soyez prÃªtes</i>
+- <i>Soyez prÃªtes</i>
 
 478
 00:36:49,502 --> 00:36:53,464
-<i>Oui, le roi vous invite à la fête</i>
+<i>Oui, le roi vous invite Ã  la fÃªte</i>
 
 479
 00:36:53,631 --> 00:36:57,051
-<i>Soyez prêtes</i>
+<i>Soyez prÃªtes</i>
 
 480
 00:37:17,655 --> 00:37:19,866
-Mon père était très en colère.
+Mon pÃ¨re Ã©tait trÃ¨s en colÃ¨re.
 
 481
 00:37:20,033 --> 00:37:22,118
-C'est pour cela que nous sommes là.
+C'est pour cela que nous sommes lÃ .
 
 482
 00:37:22,285 --> 00:37:25,163
-J'ai une idée pour te faire pardonner.
+J'ai une idÃ©e pour te faire pardonner.
 
 483
 00:37:25,329 --> 00:37:28,708
 Un cadeau qui lui fera oublier
-ce qui s'est passé.
+ce qui s'est passÃ©.
 
 484
 00:37:28,875 --> 00:37:31,753
 C'est le roi.
-Qu'est-ce que je peux lui offrir ?
+Qu'est-ce que je peux lui offrir?
 
 485
 00:37:31,919 --> 00:37:33,463
@@ -2036,42 +2036,42 @@ Ton rugissement.
 
 486
 00:37:33,629 --> 00:37:34,630
-Mon rugissement ?
+Mon rugissement?
 
 487
 00:37:37,133 --> 00:37:38,760
-Tu as entendu ?
+Tu as entendu?
 
 488
 00:37:39,135 --> 00:37:43,765
 C'est dans ces gorges que les lions
-viennent s'entraîner.
+viennent s'entraÃ®ner.
 
 489
 00:37:43,931 --> 00:37:44,932
-Tous les lions ?
+Tous les lions?
 
 490
 00:37:45,433 --> 00:37:46,976
-Mon père aussi ?
+Mon pÃ¨re aussi?
 
 491
 00:37:47,143 --> 00:37:50,063
-Même Mufasa est venu ici
-quand il avait ton âge.
+MÃªme Mufasa est venu ici
+quand il avait ton Ã¢ge.
 
 492
 00:37:50,229 --> 00:37:51,647
-Il a refusé de repartir...
+Il a refusÃ© de repartir...
 
 493
 00:37:51,814 --> 00:37:55,693
-tant qu'il n'avait pas été entendu
+tant qu'il n'avait pas Ã©tÃ© entendu
 du haut de la falaise.
 
 494
 00:37:56,527 --> 00:37:57,904
-Tout là-haut ?
+Tout lÃ -haut?
 
 495
 00:37:58,071 --> 00:37:59,947
@@ -2079,7 +2079,7 @@ C'est la preuve qu'on sait rugir.
 
 496
 00:38:00,114 --> 00:38:01,866
-Avec un peu d'entraînement...
+Avec un peu d'entraÃ®nement...
 
 497
 00:38:02,033 --> 00:38:04,702
@@ -2103,7 +2103,7 @@ Je reviendrai plus tard.
 
 502
 00:38:16,464 --> 00:38:19,050
-Papa sera fier, n'est-ce pas ?
+Papa sera fier, n'est-ce pas?
 
 503
 00:38:19,217 --> 00:38:21,552
@@ -2111,15 +2111,15 @@ Ce sera un cadeau inoubliable.
 
 504
 00:40:07,158 --> 00:40:08,743
-Mufasa ! Vite !
+Mufasa! Vite!
 
 505
 00:40:08,910 --> 00:40:10,620
-Débandade dans les gorges !
+DÃ©bandade dans les gorges!
 
 506
 00:40:10,786 --> 00:40:11,954
-Simba est en bas !
+Simba est en bas!
 
 507
 00:40:14,123 --> 00:40:15,541
@@ -2127,44 +2127,44 @@ Je vais le retrouver.
 
 508
 00:40:42,735 --> 00:40:43,736
-Zazu !
+Zazu!
 
 509
 00:40:44,111 --> 00:40:46,572
-Tiens bon ! Les secours arrivent !
+Tiens bon! Les secours arrivent!
 
 510
 00:40:53,663 --> 00:40:56,040
-Il est là ! Sur l'arbre !
+Il est lÃ ! Sur l'arbre!
 
 511
 00:40:59,710 --> 00:41:01,921
-J'arrive, Simba. Tiens bon !
+J'arrive, Simba. Tiens bon!
 
 512
 00:41:07,385 --> 00:41:10,012
-Je vais les aider, Zazu !
-Va chercher la tribu !
+Je vais les aider, Zazu!
+Va chercher la tribu!
 
 513
 00:41:10,179 --> 00:41:11,389
-Va !
+Va!
 
 514
 00:41:37,164 --> 00:41:38,457
-Papa !
+Papa!
 
 515
 00:41:40,960 --> 00:41:42,670
-Viens jusqu'à moi, mon fils.
+Viens jusqu'Ã  moi, mon fils.
 
 516
 00:41:43,129 --> 00:41:44,338
-Saute !
+Saute!
 
 517
 00:42:04,483 --> 00:42:05,651
-Papa !
+Papa!
 
 518
 00:43:05,420 --> 00:43:06,713
@@ -2172,31 +2172,31 @@ Aide-moi.
 
 519
 00:43:14,638 --> 00:43:18,058
-Longue vie au roi !
+Longue vie au roi!
 
 520
 00:43:45,627 --> 00:43:46,711
-Papa ?
+Papa?
 
 521
 00:43:55,262 --> 00:43:56,680
-Papa !
+Papa!
 
 522
 00:44:41,433 --> 00:44:43,518
-Allez, réveille-toi.
+Allez, rÃ©veille-toi.
 
 523
 00:44:49,691 --> 00:44:54,112
-Au secours ! À l'aide !
+Au secours! Ã€ l'aide!
 
 524
 00:45:27,521 --> 00:45:29,189
-Qu'as-tu fait ?
+Qu'as-tu fait?
 
 525
 00:45:32,025 --> 00:45:33,443
-C'était la débandade.
+C'Ã©tait la dÃ©bandade.
 
 526
 00:45:33,610 --> 00:45:34,986
@@ -2204,12 +2204,12 @@ Il a voulu me sauver.
 
 527
 00:45:35,153 --> 00:45:36,738
-C'est un accident !
+C'est un accident!
 
 528
 00:45:37,697 --> 00:45:40,450
 - Je voulais pas...
-- Bien sûr que non.
+- Bien sÃ»r que non.
 
 529
 00:45:40,617 --> 00:45:44,037
@@ -2229,11 +2229,11 @@ il serait encore en vie.
 
 533
 00:45:51,753 --> 00:45:54,506
-Ton père avait de grands projets pour toi.
+Ton pÃ¨re avait de grands projets pour toi.
 
 534
 00:45:54,714 --> 00:45:57,551
-Il t'offrait tant d'opportunités.
+Il t'offrait tant d'opportunitÃ©s.
 
 535
 00:45:58,009 --> 00:45:59,970
@@ -2245,11 +2245,11 @@ Je ne savais pas.
 
 537
 00:46:03,390 --> 00:46:05,267
-Que pensera ta mère ?
+Que pensera ta mÃ¨re?
 
 538
 00:46:05,433 --> 00:46:08,812
-Un fils qui cause la mort de son père.
+Un fils qui cause la mort de son pÃ¨re.
 
 539
 00:46:08,979 --> 00:46:13,567
@@ -2257,7 +2257,7 @@ Un petit qui tue un roi.
 
 540
 00:46:14,317 --> 00:46:16,570
-Qu'est-ce que je peux faire ?
+Qu'est-ce que je peux faire?
 
 541
 00:46:17,696 --> 00:46:18,905
@@ -2269,7 +2269,7 @@ Pars, Simba.
 
 543
 00:46:22,701 --> 00:46:26,162
-Pars très loin et ne reviens jamais !
+Pars trÃ¨s loin et ne reviens jamais!
 
 544
 00:46:38,300 --> 00:46:39,593
@@ -2281,29 +2281,29 @@ Descendez et assurez-vous qu'il est mort.
 
 546
 00:47:29,059 --> 00:47:30,393
-T'es sérieux ?
+T'es sÃ©rieux?
 
 547
 00:47:30,852 --> 00:47:32,228
-Désolé.
+DÃ©solÃ©.
 
 548
 00:47:34,773 --> 00:47:37,192
-- Là-bas, c'est la bonne distance.
+- LÃ -bas, c'est la bonne distance.
 - D'accord.
 
 549
 00:47:39,361 --> 00:47:41,905
 Aucun petit ne survivrait
-à une telle chute.
+Ã  une telle chute.
 
 550
 00:47:42,530 --> 00:47:44,032
-On n'a qu'à lui dire...
+On n'a qu'Ã  lui dire...
 
 551
 00:47:44,199 --> 00:47:47,160
-qu'on est descendus et qu'on l'a mangé.
+qu'on est descendus et qu'on l'a mangÃ©.
 
 552
 00:47:47,619 --> 00:47:49,079
@@ -2323,11 +2323,11 @@ C'est tout ce qu'elle doit savoir.
 
 556
 00:47:56,628 --> 00:47:57,962
-Ça me va.
+Ã‡a me va.
 
 557
 00:48:52,308 --> 00:48:57,272
-La mort de Mufasa est une tragédie.
+La mort de Mufasa est une tragÃ©die.
 
 558
 00:48:57,647 --> 00:49:00,442
@@ -2335,7 +2335,7 @@ Le plus grand roi que la tribu ait connu.
 
 559
 00:49:01,109 --> 00:49:03,111
-Perdre un frère...
+Perdre un frÃ¨re...
 
 560
 00:49:03,611 --> 00:49:08,241
@@ -2343,7 +2343,7 @@ c'est une grande douleur personnelle.
 
 561
 00:49:09,200 --> 00:49:12,954
-Et le petit Simba dont la vie commençait.
+Et le petit Simba dont la vie commenÃ§ait.
 
 562
 00:49:13,121 --> 00:49:16,666
@@ -2355,8 +2355,8 @@ C'est une peine insurmontable.
 
 564
 00:49:21,045 --> 00:49:24,174
-Si seulement j'étais arrivé à temps
-dans les gorges !
+Si seulement j'Ã©tais arrivÃ© Ã  temps
+dans les gorges!
 
 565
 00:49:24,340 --> 00:49:27,343
@@ -2364,12 +2364,12 @@ J'aurais pu les sauver.
 
 566
 00:49:28,595 --> 00:49:33,016
-C'est le cœur lourd,
+C'est le cÅ“ur lourd,
 qu'il me faut
 
 567
 00:49:33,641 --> 00:49:35,810
-accéder au trône.
+accÃ©der au trÃ´ne.
 
 568
 00:49:36,352 --> 00:49:39,063
@@ -2397,20 +2397,20 @@ pour assurer...
 
 574
 00:49:56,456 --> 00:49:57,957
-la sécurité de la tribu.
+la sÃ©curitÃ© de la tribu.
 
 575
 00:50:06,883 --> 00:50:08,468
-Reste près de moi.
+Reste prÃ¨s de moi.
 
 576
 00:50:08,760 --> 00:50:12,806
-Des cendres de cette tragédie,
+Des cendres de cette tragÃ©die,
 
 577
 00:50:12,972 --> 00:50:17,143
-nous célébrerons
-l'aube d'une nouvelle ère.
+nous cÃ©lÃ©brerons
+l'aube d'une nouvelle Ã¨re.
 
 578
 00:50:17,602 --> 00:50:18,937
@@ -2418,15 +2418,15 @@ Un grand...
 
 579
 00:50:19,813 --> 00:50:22,982
-et glorieux futur !
+et glorieux futur!
 
 580
 00:50:33,326 --> 00:50:35,328
-Oh, misère !
+Oh, misÃ¨re!
 
 581
 00:52:20,850 --> 00:52:21,893
-Je les ai ratés !
+Je les ai ratÃ©s!
 
 582
 00:52:22,060 --> 00:52:23,770
@@ -2434,19 +2434,19 @@ J'aurai un de ces vautours, un jour.
 
 583
 00:52:23,937 --> 00:52:24,854
-J'en aurai un !
+J'en aurai un!
 
 584
 00:52:25,021 --> 00:52:26,606
-C'est si important pour toi ?
+C'est si important pour toi?
 
 585
 00:52:26,773 --> 00:52:28,983
-Je sais que je me sentirai mieux, après.
+Je sais que je me sentirai mieux, aprÃ¨s.
 
 586
 00:52:29,859 --> 00:52:31,152
-Oh, non. Un petit lion !
+Oh, non. Un petit lion!
 
 587
 00:52:31,319 --> 00:52:33,404
@@ -2455,34 +2455,34 @@ Oh, non. Un petit lion !
 
 588
 00:52:33,571 --> 00:52:35,365
-- Qu'est-ce que c'est ?
+- Qu'est-ce que c'est?
 - Un oiseau poilu.
 
 589
 00:52:35,531 --> 00:52:36,824
-On dirait un lion !
+On dirait un lion!
 
 590
 00:52:36,991 --> 00:52:39,702
 C'est pas un lion.
-Je vais voir de plus près. Pardon.
+Je vais voir de plus prÃ¨s. Pardon.
 
 591
 00:52:40,161 --> 00:52:42,413
-Voyons, à quoi avons-nous affaire ?
+Voyons, Ã  quoi avons-nous affaire?
 
 592
 00:52:42,580 --> 00:52:43,581
-C'est un lion !
+C'est un lion!
 
 593
 00:52:43,748 --> 00:52:45,083
-- Sauve-toi, Pumbaa !
-- Attends !
+- Sauve-toi, Pumbaa!
+- Attends!
 
 594
 00:52:45,249 --> 00:52:47,961
-Attends, Timon, c'est un petit lion !
+Attends, Timon, c'est un petit lion!
 
 595
 00:52:48,127 --> 00:52:49,337
@@ -2490,12 +2490,12 @@ Il va grandir.
 
 596
 00:52:49,504 --> 00:52:51,339
-On peut le garder ?
-S'il te plaît.
+On peut le garder?
+S'il te plaÃ®t.
 
 597
 00:52:51,506 --> 00:52:53,383
-Je le promènerai tous les jours.
+Je le promÃ¨nerai tous les jours.
 
 598
 00:52:53,549 --> 00:52:54,842
@@ -2508,54 +2508,54 @@ Ce sera toi, sa crotte.
 600
 00:52:56,260 --> 00:52:58,304
 Il va te manger
-et je servirai de cure-dents !
+et je servirai de cure-dents!
 
 601
 00:52:58,471 --> 00:53:01,766
 Quand il sera grand et fort,
-il sera de notre côté.
+il sera de notre cÃ´tÃ©.
 
 602
 00:53:01,933 --> 00:53:04,268
-J'ai une idée.
-Et s'il était de notre côté ?
+J'ai une idÃ©e.
+Et s'il Ã©tait de notre cÃ´tÃ©?
 
 603
 00:53:04,435 --> 00:53:05,645
-Tu me suis ?
+Tu me suis?
 
 604
 00:53:05,812 --> 00:53:09,816
-Avoir un lion féroce dans notre camp,
+Avoir un lion fÃ©roce dans notre camp,
 ce serait pas mal.
 
 605
 00:53:09,983 --> 00:53:11,275
-Alors on peut le garder ?
+Alors on peut le garder?
 
 606
 00:53:11,442 --> 00:53:12,694
-Bien sûr qu'on peut le garder !
+Bien sÃ»r qu'on peut le garder!
 
 607
 00:53:12,860 --> 00:53:15,405
-C'est qui le cerveau du groupe ?
+C'est qui le cerveau du groupe?
 
 608
 00:53:15,571 --> 00:53:17,365
-<i>On va l'appeler Fred !</i>
+<i>On va l'appeler Fred!</i>
 
 609
 00:53:17,532 --> 00:53:19,283
-Qui êtes-vous ?
+Qui Ãªtes-vous?
 
 610
 00:53:21,077 --> 00:53:22,495
-On t'a sauvé la vie.
+On t'a sauvÃ© la vie.
 
 611
 00:53:22,662 --> 00:53:24,872
-En chassant des vautours énervés !
+En chassant des vautours Ã©nervÃ©s!
 
 612
 00:53:25,039 --> 00:53:26,666
@@ -2567,7 +2567,7 @@ Je m'appelle Pumbaa. Voici Timon.
 
 614
 00:53:28,835 --> 00:53:30,920
-On t'a dit qu'on t'a sauvé la vie ?
+On t'a dit qu'on t'a sauvÃ© la vie?
 
 615
 00:53:31,170 --> 00:53:33,131
@@ -2575,16 +2575,16 @@ Je m'en fiche.
 
 616
 00:53:35,883 --> 00:53:38,219
-Ce qu'il faut pas entendre !
+Ce qu'il faut pas entendre!
 "Je m'en fiche" ?
 
 617
 00:53:38,386 --> 00:53:40,555
-Comme si j'avais pas assez à faire !
+Comme si j'avais pas assez Ã  faire!
 
 618
 00:53:40,722 --> 00:53:42,140
-Pour m'occuper de ses problèmes ?
+Pour m'occuper de ses problÃ¨mes?
 
 619
 00:53:42,306 --> 00:53:43,975
@@ -2592,7 +2592,7 @@ On est en position de pouvoir l'aider.
 
 620
 00:53:45,476 --> 00:53:48,479
-Raconte-nous ton histoire en deux mots ?
+Raconte-nous ton histoire en deux mots?
 
 621
 00:53:48,938 --> 00:53:50,858
@@ -2604,15 +2604,15 @@ J'ai pas envie d'en parler.
 
 623
 00:53:53,027 --> 00:53:55,654
-Écoute, petit, on fait tous des erreurs.
+Ã‰coute, petit, on fait tous des erreurs.
 
 624
 00:53:55,821 --> 00:53:58,449
-On doit pouvoir réparer ça, non ?
+On doit pouvoir rÃ©parer Ã§a, non?
 
 625
 00:53:58,615 --> 00:54:00,617
-À moins de pouvoir changer le passé...
+Ã€ moins de pouvoir changer le passÃ©...
 
 626
 00:54:00,784 --> 00:54:02,161
@@ -2620,12 +2620,12 @@ Tu en demandes beaucoup.
 
 627
 00:54:02,327 --> 00:54:04,163
-- C'est difficile. Énorme.
-- Soyons honnête.
+- C'est difficile. Ã‰norme.
+- Soyons honnÃªte.
 
 628
 00:54:04,329 --> 00:54:05,956
-Changer le passé ? C'est déjà passé.
+Changer le passÃ©? C'est dÃ©jÃ  passÃ©.
 
 629
 00:54:06,123 --> 00:54:07,791
@@ -2633,11 +2633,11 @@ On peut plus le changer.
 
 630
 00:54:07,958 --> 00:54:09,251
-Tu sais ce qu'on peut changer ?
+Tu sais ce qu'on peut changer?
 
 631
 00:54:10,252 --> 00:54:12,296
-L'avenir. C'est notre spécialité.
+L'avenir. C'est notre spÃ©cialitÃ©.
 
 632
 00:54:12,463 --> 00:54:13,797
@@ -2646,21 +2646,21 @@ C'est notre truc.
 633
 00:54:13,964 --> 00:54:16,383
 Comment changer
-ce qui n'est pas encore arrivé ?
+ce qui n'est pas encore arrivÃ©?
 
 634
 00:54:16,550 --> 00:54:20,179
 Pour changer l'avenir,
-il faut laisser le passé derrière soi.
+il faut laisser le passÃ© derriÃ¨re soi.
 
 635
 00:54:20,345 --> 00:54:21,263
-Loin derrière.
+Loin derriÃ¨re.
 
 636
 00:54:21,430 --> 00:54:26,101
 Des choses tristes se produisent
-et on n'y peut rien. Vrai ou pas ?
+et on n'y peut rien. Vrai ou pas?
 
 637
 00:54:26,268 --> 00:54:27,019
@@ -2668,7 +2668,7 @@ Vrai.
 
 638
 00:54:27,186 --> 00:54:29,772
-Faux !
+Faux!
 Quand le monde te rejette...
 
 639
@@ -2681,7 +2681,7 @@ Et ne t'occupe que de la suite.
 
 641
 00:54:34,276 --> 00:54:36,153
-"Ce qui m'ennuie, je l'oublie !"
+"Ce qui m'ennuie, je l'oublie!"
 
 642
 00:54:36,320 --> 00:54:38,447
@@ -2693,16 +2693,16 @@ Il est temps de changer de professeur.
 
 644
 00:54:40,657 --> 00:54:45,120
-Répète après moi. <i>Hakuna matata</i>.
+RÃ©pÃ¨te aprÃ¨s moi. <i>Hakuna matata</i>.
 
 645
 00:54:45,704 --> 00:54:47,748
-- Quoi ?
+- Quoi?
 - <i>Hakuna matata</i>.
 
 646
 00:54:49,333 --> 00:54:51,543
-Les gens réagissent plus que ça
+Les gens rÃ©agissent plus que Ã§a
 quand on le dit...
 
 647
@@ -2712,7 +2712,7 @@ quand on le dit...
 
 648
 00:54:54,755 --> 00:54:57,007
-Ça signifie "Pas de souci".
+Ã‡a signifie "Pas de souci".
 Un, deux...
 
 649
@@ -2721,12 +2721,12 @@ Le tempo, c'est moi.
 
 650
 00:54:59,384 --> 00:55:01,220
-- Je donne le tempo !
-- On compte ensemble ?
+- Je donne le tempo!
+- On compte ensemble?
 
 651
 00:55:01,386 --> 00:55:02,471
-- Bonne idée.
+- Bonne idÃ©e.
 - D'accord.
 
 652
@@ -2774,17 +2774,17 @@ Que tu vivras ta vie</i>
 662
 00:55:35,170 --> 00:55:37,923
 - C'est quoi un "credo" ?
-- C'est toi le crado !
+- C'est toi le crado!
 
 663
 00:55:38,090 --> 00:55:39,216
 - Joli.
-- Boum !
+- Boum!
 
 664
 00:55:39,383 --> 00:55:41,802
-Ces deux mots peuvent résoudre
-tous tes problèmes.
+Ces deux mots peuvent rÃ©soudre
+tous tes problÃ¨mes.
 
 665
 00:55:41,969 --> 00:55:44,388
@@ -2792,16 +2792,16 @@ Oui, Pumbaa, par exemple.
 
 666
 00:55:44,680 --> 00:55:48,308
-<i>Ce très jeune phacochère</i>
+<i>Ce trÃ¨s jeune phacochÃ¨re</i>
 
 667
 00:55:48,475 --> 00:55:51,687
-<i>J'étais jeune et phacochère</i>
+<i>J'Ã©tais jeune et phacochÃ¨re</i>
 
 668
 00:55:53,438 --> 00:55:55,524
-- Comment tu te sens ?
-- C'est chargé en émotion.
+- Comment tu te sens?
+- C'est chargÃ© en Ã©motion.
 
 669
 00:55:55,691 --> 00:55:58,318
@@ -2811,12 +2811,12 @@ Il compris que son odeur</i>
 670
 00:55:58,485 --> 00:56:01,363
 <i>Au lieu de sentir la fleur
-Soulevait les cœurs</i>
+Soulevait les cÅ“urs</i>
 
 671
 00:56:01,530 --> 00:56:07,161
 <i>Il y a dans tout cochon
-Un poète qui sommeille</i>
+Un poÃ¨te qui sommeille</i>
 
 672
 00:56:08,245 --> 00:56:13,125
@@ -2825,37 +2825,37 @@ Quand personne peut plus vous sentir</i>
 
 673
 00:56:13,292 --> 00:56:15,544
-J'ai toujours été là pour toi,
+J'ai toujours Ã©tÃ© lÃ  pour toi,
 tu me vexes.
 
 674
 00:56:15,711 --> 00:56:18,213
-- <i>Disgrâce infâme</i>
-- <i>Parfum d'infâme</i>
+- <i>DisgrÃ¢ce infÃ¢me</i>
+- <i>Parfum d'infÃ¢me</i>
 
 675
 00:56:18,380 --> 00:56:19,923
-<i>Qui inonde mon âme</i>
+<i>Qui inonde mon Ã¢me</i>
 
 676
 00:56:20,090 --> 00:56:21,592
-<i>Oh ! Ça pue le drame !</i>
+<i>Oh! Ã‡a pue le drame!</i>
 
 677
 00:56:21,758 --> 00:56:24,469
-<i>Je déclenche une tempête</i>
+<i>Je dÃ©clenche une tempÃªte</i>
 
 678
 00:56:24,970 --> 00:56:27,389
-<i>Chaque fois que je pète</i>
+<i>Chaque fois que je pÃ¨te</i>
 
 679
 00:56:27,556 --> 00:56:28,849
-Tu m'arrêtes pas ?
+Tu m'arrÃªtes pas?
 
 680
 00:56:29,016 --> 00:56:31,685
-Non ! Tu me dégoûtes !
+Non! Tu me dÃ©goÃ»tes!
 
 681
 00:56:31,977 --> 00:56:33,729
@@ -2896,15 +2896,15 @@ Bienvenue dans notre humble "chez nous".
 
 690
 00:57:02,883 --> 00:57:04,134
-Vous vivez ici ?
+Vous vivez ici?
 
 691
 00:57:04,301 --> 00:57:05,594
-On vit où on veut.
+On vit oÃ¹ on veut.
 
 692
 00:57:05,761 --> 00:57:07,054
-On fait ce qui nous plaît.
+On fait ce qui nous plaÃ®t.
 
 693
 00:57:07,221 --> 00:57:08,263
@@ -2912,7 +2912,7 @@ C'est superbe.
 
 694
 00:57:08,430 --> 00:57:10,432
-Oui, c'est vraiment bien, hein ?
+Oui, c'est vraiment bien, hein?
 
 695
 00:57:11,058 --> 00:57:13,894
@@ -2920,34 +2920,34 @@ Les amis, voici Simba.
 
 696
 00:57:14,102 --> 00:57:15,979
-Ça, mon vieux, c'est un lion.
+Ã‡a, mon vieux, c'est un lion.
 
 697
 00:57:16,146 --> 00:57:18,482
-Et la nourriture ?
-Tu as pensé à sa nourriture ?
+Et la nourriture?
+Tu as pensÃ© Ã  sa nourriture?
 
 698
 00:57:18,649 --> 00:57:21,151
-Je meurs de faim !
-Je pourrais avaler un zèbre.
+Je meurs de faim!
+Je pourrais avaler un zÃ¨bre.
 
 699
 00:57:21,318 --> 00:57:22,319
-Et voilà !
+Et voilÃ !
 
 700
 00:57:22,694 --> 00:57:25,280
 Non, petit,
-on n'a plus de zèbre en stock.
+on n'a plus de zÃ¨bre en stock.
 
 701
 00:57:25,447 --> 00:57:26,615
-De l'antilope ?
+De l'antilope?
 
 702
 00:57:26,782 --> 00:57:28,533
-Non, écoute, petit...
+Non, Ã©coute, petit...
 
 703
 00:57:28,700 --> 00:57:30,786
@@ -2956,33 +2956,33 @@ tu dois manger comme nous.
 
 704
 00:57:30,953 --> 00:57:33,830
-Et surtout, ne pas nous manger !
+Et surtout, ne pas nous manger!
 
 705
 00:57:34,331 --> 00:57:37,417
 C'est un bel endroit
-pour dénicher des larves.
+pour dÃ©nicher des larves.
 
 706
 00:57:39,461 --> 00:57:40,462
-- Oui !
-- Parfait !
+- Oui!
+- Parfait!
 
 707
 00:57:40,629 --> 00:57:41,838
-Poussez-vous, les gars !
+Poussez-vous, les gars!
 
 708
 00:57:42,297 --> 00:57:43,298
-Qu'est-ce que c'est ?
+Qu'est-ce que c'est?
 
 709
 00:57:44,508 --> 00:57:46,093
-Un goût de noisette.
+Un goÃ»t de noisette.
 
 710
 00:57:46,551 --> 00:57:48,720
-Voilà la saveur umami !
+VoilÃ  la saveur umami!
 
 711
 00:57:49,179 --> 00:57:52,307
@@ -2992,11 +2992,11 @@ Voilà la saveur umami !
 712
 00:57:52,474 --> 00:57:53,934
 - Produit local.
-- Vraiment ?
+- Vraiment?
 
 713
 00:57:54,101 --> 00:57:55,185
-Elles viennent de là.
+Elles viennent de lÃ .
 
 714
 00:57:55,352 --> 00:57:57,896
@@ -3004,21 +3004,21 @@ Crois-moi, petit, c'est la grande vie.
 
 715
 00:57:57,980 --> 00:58:00,816
-Pas de loi. Pas de responsabilité.
+Pas de loi. Pas de responsabilitÃ©.
 
 716
 00:58:02,234 --> 00:58:05,112
-Le genre légèrement crémeux.
-J'adore !
+Le genre lÃ©gÃ¨rement crÃ©meux.
+J'adore!
 
 717
 00:58:05,279 --> 00:58:06,822
 - Y a rien de meilleur.
-- J'adore ça.
+- J'adore Ã§a.
 
 718
 00:58:07,572 --> 00:58:08,699
-Alors, petit ?
+Alors, petit?
 
 719
 00:58:10,325 --> 00:58:11,743
@@ -3042,13 +3042,13 @@ savoureux.
 
 724
 00:58:22,087 --> 00:58:23,672
-- Tu vois !
+- Tu vois!
 - On t'a pas menti.
 
 725
 00:58:23,839 --> 00:58:26,091
-Des œufs d'araignée !
-J'ai trouvé des œufs !
+Des Å“ufs d'araignÃ©e!
+J'ai trouvÃ© des Å“ufs!
 
 726
 00:59:16,767 --> 00:59:17,768
@@ -3056,7 +3056,7 @@ Encore une fois.
 
 727
 00:59:17,934 --> 00:59:19,811
-- Non, ça suffit.
+- Non, Ã§a suffit.
 - On a fait le tour.
 
 728
@@ -3066,20 +3066,20 @@ Encore une fois.
 
 729
 00:59:22,522 --> 00:59:24,191
-Tu as pris 200 kg depuis le début.
+Tu as pris 200 kg depuis le dÃ©but.
 
 730
 00:59:24,274 --> 00:59:25,817
-Moi, j'ai pas changé.
+Moi, j'ai pas changÃ©.
 
 731
 00:59:27,277 --> 00:59:29,154
-- Dis-lui d'arrêter.
+- Dis-lui d'arrÃªter.
 - Tu as voulu chanter.
 
 732
 00:59:29,321 --> 00:59:31,073
-C'est toi qui as commencé.
+C'est toi qui as commencÃ©.
 
 733
 00:59:31,156 --> 00:59:33,325
@@ -3092,11 +3092,11 @@ Si, on doit la partager.
 
 735
 00:59:35,077 --> 00:59:37,121
-Dis-lui d'arrêter.
+Dis-lui d'arrÃªter.
 
 736
 00:59:38,456 --> 00:59:41,042
-Les chœurs, maintenant ! Quel cauchemar !
+Les chÅ“urs, maintenant! Quel cauchemar!
 
 737
 00:59:41,125 --> 00:59:42,752
@@ -3112,12 +3112,12 @@ Assieds-toi avec nous.
 
 740
 01:00:31,634 --> 01:00:34,053
-Zazu, où étais-tu ?
+Zazu, oÃ¹ Ã©tais-tu?
 
 741
 01:00:34,429 --> 01:00:37,890
-Désolé, Nala.
-Je suis venu dès que j'ai pu.
+DÃ©solÃ©, Nala.
+Je suis venu dÃ¨s que j'ai pu.
 
 742
 01:00:42,437 --> 01:00:44,063
@@ -3125,28 +3125,28 @@ Le rapport du matin, Zazu.
 
 743
 01:00:44,439 --> 01:00:47,442
-Votre Majesté,
+Votre MajestÃ©,
 la Terre des Lions est en danger.
 
 744
 01:00:47,608 --> 01:00:50,570
-Les hyènes chassent le dernier troupeau.
+Les hyÃ¨nes chassent le dernier troupeau.
 
 745
 01:00:50,736 --> 01:00:51,821
-L'oiseau est revenu !
+L'oiseau est revenu!
 
 746
 01:00:53,448 --> 01:00:54,490
-Attrapez-le !
+Attrapez-le!
 
 747
 01:00:58,870 --> 01:01:01,664
-Si tu reviens, on te désosse !
+Si tu reviens, on te dÃ©sosse!
 
 748
 01:01:25,271 --> 01:01:28,274
-Nous devons réagir, Sarabi.
+Nous devons rÃ©agir, Sarabi.
 Nous devons nous battre.
 
 749
@@ -3155,7 +3155,7 @@ Nala, Scar est le roi.
 
 750
 01:01:32,236 --> 01:01:33,863
-Mais tu es notre reine !
+Mais tu es notre reine!
 
 751
 01:01:34,030 --> 01:01:36,115
@@ -3164,7 +3164,7 @@ Partons avant qu'il ne soit trop tard.
 752
 01:01:36,282 --> 01:01:40,411
 Nous devons rester ensemble
-et protéger notre terre.
+et protÃ©ger notre terre.
 
 753
 01:01:40,578 --> 01:01:44,123
@@ -3201,7 +3201,7 @@ Je n'ai pas peur de lui.
 
 761
 01:02:16,948 --> 01:02:19,242
-Joins-toi à moi, Sarabi.
+Joins-toi Ã  moi, Sarabi.
 
 762
 01:02:19,408 --> 01:02:21,244
@@ -3213,11 +3213,11 @@ Tu chasses plus qu'il ne faut.
 
 764
 01:02:23,496 --> 01:02:25,540
-J'ai perfectionné la chasse.
+J'ai perfectionnÃ© la chasse.
 
 765
 01:02:26,457 --> 01:02:27,959
-Avec l'aide de mon armée.
+Avec l'aide de mon armÃ©e.
 
 766
 01:02:28,125 --> 01:02:30,294
@@ -3225,19 +3225,19 @@ Tu tues tout ce qui bouge.
 
 767
 01:02:30,795 --> 01:02:33,923
-Il n'y a plus personne pour me défier.
+Il n'y a plus personne pour me dÃ©fier.
 
 768
 01:02:34,090 --> 01:02:36,467
-Nous n'avons plus qu'à nous servir.
+Nous n'avons plus qu'Ã  nous servir.
 
 769
 01:02:37,093 --> 01:02:38,511
-Nous ?
+Nous?
 
 770
 01:02:38,678 --> 01:02:42,306
-Il y a longtemps, tu as préféré Mufasa.
+Il y a longtemps, tu as prÃ©fÃ©rÃ© Mufasa.
 
 771
 01:02:42,473 --> 01:02:44,433
@@ -3245,11 +3245,11 @@ Aujourd'hui, il y a un nouveau roi.
 
 772
 01:02:44,976 --> 01:02:47,103
-Cesse d'être égoïste.
+Cesse d'Ãªtre Ã©goÃ¯ste.
 
 773
 01:02:47,520 --> 01:02:49,272
-C'est toi l'égoïste.
+C'est toi l'Ã©goÃ¯ste.
 
 774
 01:02:49,438 --> 01:02:51,399
@@ -3257,12 +3257,12 @@ Les autres lionnes suivent ton exemple.
 
 775
 01:02:51,566 --> 01:02:54,485
-Tant que tu résisteras,
+Tant que tu rÃ©sisteras,
 elles me rejetteront.
 
 776
 01:02:55,361 --> 01:02:59,574
-Prends place près de moi et régalons-nous.
+Prends place prÃ¨s de moi et rÃ©galons-nous.
 
 777
 01:03:00,408 --> 01:03:03,369
@@ -3270,11 +3270,11 @@ Je ne serai jamais ta reine.
 
 778
 01:03:05,121 --> 01:03:06,789
-Alors dorénavant,
+Alors dorÃ©navant,
 
 779
 01:03:06,956 --> 01:03:11,085
-les lionnes mangeront après les hyènes.
+les lionnes mangeront aprÃ¨s les hyÃ¨nes.
 
 780
 01:03:11,335 --> 01:03:13,921
@@ -3282,7 +3282,7 @@ Et il ne restera pas grand-chose.
 
 781
 01:04:43,928 --> 01:04:46,931
-Que faites-vous, jeune fille ?
+Que faites-vous, jeune fille?
 
 782
 01:04:47,098 --> 01:04:48,474
@@ -3298,25 +3298,25 @@ Pas question que je m'en aille.
 
 785
 01:04:52,436 --> 01:04:55,898
-J'ai promis de vous protéger
+J'ai promis de vous protÃ©ger
 et vous ordonne de vous recoucher.
 
 786
 01:04:56,065 --> 01:04:58,734
-Je n'ai plus besoin d'être protégée.
+Je n'ai plus besoin d'Ãªtre protÃ©gÃ©e.
 
 787
 01:05:49,119 --> 01:05:51,788
-Scar ! Quelle joie de te voir.
+Scar! Quelle joie de te voir.
 
 788
 01:05:52,414 --> 01:05:53,957
-Désolé d'arriver à l'improviste.
+DÃ©solÃ© d'arriver Ã  l'improviste.
 
 789
 01:05:55,625 --> 01:06:00,589
-Je t'ai déjà parlé de mon frère
-qui se prenait pour un pivert ?
+Je t'ai dÃ©jÃ  parlÃ© de mon frÃ¨re
+qui se prenait pour un pivert?
 
 790
 01:06:40,337 --> 01:06:41,254
@@ -3324,17 +3324,17 @@ Je vais t'attraper.
 
 791
 01:06:41,421 --> 01:06:43,131
-Je vais t'attraper !
-Je t'ai eu !
+Je vais t'attraper!
+Je t'ai eu!
 
 792
 01:06:44,883 --> 01:06:46,676
-Simba ! C'est toi !
+Simba! C'est toi!
 
 793
 01:06:46,843 --> 01:06:49,763
-Tu as vu ça ?
-Ce papillon, il était juste là !
+Tu as vu Ã§a?
+Ce papillon, il Ã©tait juste lÃ !
 
 794
 01:06:49,846 --> 01:06:50,972
@@ -3342,7 +3342,7 @@ J'ai failli l'avoir.
 
 795
 01:06:51,306 --> 01:06:54,017
-J'ai cru que c'était un lion.
+J'ai cru que c'Ã©tait un lion.
 L'autre genre de lion.
 
 796
@@ -3360,19 +3360,19 @@ J'y vais.
 
 799
 01:07:01,775 --> 01:07:03,401
-Hé, où tu vas ?
+HÃ©, oÃ¹ tu vas?
 
 800
 01:07:03,568 --> 01:07:05,362
-Tu veux des larves ?
+Tu veux des larves?
 
 801
 01:07:08,657 --> 01:07:10,408
-Qu'est-ce qui lui prend ?
+Qu'est-ce qui lui prend?
 
 802
 01:07:12,118 --> 01:07:13,870
-Comment te dire ?
+Comment te dire?
 
 803
 01:07:14,037 --> 01:07:15,789
@@ -3388,12 +3388,12 @@ Non, vous deux, vous serez jamais amis.
 
 806
 01:07:22,337 --> 01:07:24,005
-Pourquoi ?
+Pourquoi?
 
 807
 01:07:24,172 --> 01:07:28,385
 Dans la nature,
-il existe un fragile équilibre.
+il existe un fragile Ã©quilibre.
 
 808
 01:07:28,552 --> 01:07:30,428
@@ -3402,7 +3402,7 @@ Oui, le cycle de la vie, je connais.
 809
 01:07:30,595 --> 01:07:34,140
 Non, je vois pas
-d'où tu sors cette histoire de cycle ?
+d'oÃ¹ tu sors cette histoire de cycle?
 
 810
 01:07:34,307 --> 01:07:36,560
@@ -3419,7 +3419,7 @@ C'est une ligne.
 
 813
 01:07:40,397 --> 01:07:42,899
-Une ligne insignifiante d'indifférence.
+Une ligne insignifiante d'indiffÃ©rence.
 
 814
 01:07:43,066 --> 01:07:45,485
@@ -3432,17 +3432,17 @@ Un jour, on atteint le bout et c'est fini.
 816
 01:07:49,072 --> 01:07:50,156
 - Fini.
-- Terminus !
+- Terminus!
 
 817
 01:07:50,323 --> 01:07:52,075
-- Le néant.
+- Le nÃ©ant.
 - Nada.
 
 818
 01:07:52,242 --> 01:07:55,287
-On a intérêt à faire
-ce qui nous plaît, chacun pour soi.
+On a intÃ©rÃªt Ã  faire
+ce qui nous plaÃ®t, chacun pour soi.
 
 819
 01:07:55,453 --> 01:07:57,247
@@ -3451,20 +3451,20 @@ Ta ligne n'affecte pas celles des autres.
 820
 01:07:57,414 --> 01:07:59,624
 Tu es vivant et tu l'es plus.
-Comme lui, là.
+Comme lui, lÃ .
 
 821
 01:08:01,209 --> 01:08:02,836
-C'est pas cyclique ?
+C'est pas cyclique?
 
 822
 01:08:03,378 --> 01:08:05,005
-On n'est pas tous reliés ?
+On n'est pas tous reliÃ©s?
 
 823
 01:08:05,171 --> 01:08:07,424
 Un cycle,
-ça voudrait dire qu'on est tout ça.
+Ã§a voudrait dire qu'on est tout Ã§a.
 
 824
 01:08:07,591 --> 01:08:09,885
@@ -3472,11 +3472,11 @@ Que ce que je fais, l'affecte lui,
 
 825
 01:08:10,051 --> 01:08:13,096
-cette chose-là, et ce truc.
+cette chose-lÃ , et ce truc.
 
 826
 01:08:13,263 --> 01:08:16,182
-Et faire ce qui nous plaît
+Et faire ce qui nous plaÃ®t
 pourrait nuire aux autres.
 
 827
@@ -3490,7 +3490,7 @@ Pour faire simple :
 
 829
 01:08:19,853 --> 01:08:21,688
-C'est pour ça qu'il faut penser qu'à soi.
+C'est pour Ã§a qu'il faut penser qu'Ã  soi.
 
 830
 01:08:21,855 --> 01:08:23,231
@@ -3498,20 +3498,20 @@ Faire ce qui te chante.
 
 831
 01:08:23,398 --> 01:08:25,609
-Oui, d'ailleurs, pour la première fois,
+Oui, d'ailleurs, pour la premiÃ¨re fois,
 
 832
 01:08:25,775 --> 01:08:28,069
-on te laisse organiser la journée.
+on te laisse organiser la journÃ©e.
 
 833
 01:08:28,236 --> 01:08:30,864
 C'est important.
-Pense à ce que tu as appris.
+Pense Ã  ce que tu as appris.
 
 834
 01:08:31,031 --> 01:08:32,991
-Qu'est-ce que tu veux faire ?
+Qu'est-ce que tu veux faire?
 
 835
 01:08:34,034 --> 01:08:36,828
@@ -3519,21 +3519,21 @@ Absolument rien.
 
 836
 01:08:38,371 --> 01:08:40,457
-Voilà ! Il a compris !
+VoilÃ ! Il a compris!
 
 837
 01:08:41,207 --> 01:08:42,918
-- Jackpot !
-- Poussez-vous !
+- Jackpot!
+- Poussez-vous!
 
 838
 01:08:43,084 --> 01:08:45,545
-- Bien croquant !
-- À table !
+- Bien croquant!
+- Ã€ table!
 
 839
 01:08:58,475 --> 01:08:59,726
-Bravo !
+Bravo!
 
 840
 01:09:00,685 --> 01:09:01,937
@@ -3541,7 +3541,7 @@ Pas mal, Simba.
 
 841
 01:09:02,520 --> 01:09:05,315
-Merci. C'est sûrement les termites.
+Merci. C'est sÃ»rement les termites.
 
 842
 01:09:06,066 --> 01:09:07,317
@@ -3549,8 +3549,8 @@ Ou les grillons.
 
 843
 01:09:08,735 --> 01:09:11,446
-Voilà pourquoi
-je préfère dormir dans un terrier.
+VoilÃ  pourquoi
+je prÃ©fÃ¨re dormir dans un terrier.
 
 844
 01:09:12,113 --> 01:09:13,907
@@ -3559,7 +3559,7 @@ Dis, Timon.
 845
 01:09:14,074 --> 01:09:17,744
 Tu te demandes jamais
-ce que sont ces points brillants là-haut ?
+ce que sont ces points brillants lÃ -haut?
 
 846
 01:09:17,911 --> 01:09:21,623
@@ -3568,7 +3568,7 @@ Je le sais.
 
 847
 01:09:21,790 --> 01:09:23,792
-Qu'est-ce que c'est ?
+Qu'est-ce que c'est?
 
 848
 01:09:24,125 --> 01:09:25,669
@@ -3576,8 +3576,8 @@ Ce sont des lucioles.
 
 849
 01:09:25,835 --> 01:09:29,464
-Des lucioles coincées
-dans cet immense truc bleu foncé.
+Des lucioles coincÃ©es
+dans cet immense truc bleu foncÃ©.
 
 850
 01:09:31,132 --> 01:09:32,384
@@ -3586,7 +3586,7 @@ Ouais, c'est possible.
 851
 01:09:32,550 --> 01:09:36,763
 J'imaginais des boules de gaz
-qui brûlent à des millions de kilomètres.
+qui brÃ»lent Ã  des millions de kilomÃ¨tres.
 
 852
 01:09:36,846 --> 01:09:39,182
@@ -3598,7 +3598,7 @@ Je sais.
 
 854
 01:09:41,184 --> 01:09:42,769
-Tu en penses quoi, Simba ?
+Tu en penses quoi, Simba?
 
 855
 01:09:42,936 --> 01:09:45,146
@@ -3610,7 +3610,7 @@ Mais quelqu'un m'a dit un jour...
 
 857
 01:09:48,358 --> 01:09:50,610
-que les grands rois du passé sont là-haut,
+que les grands rois du passÃ© sont lÃ -haut,
 
 858
 01:09:50,777 --> 01:09:53,405
@@ -3618,23 +3618,23 @@ et qu'ils veillent sur nous.
 
 859
 01:09:58,243 --> 01:10:01,746
-Elle est bonne celle-là ! N'importe quoi !
+Elle est bonne celle-lÃ ! N'importe quoi!
 
 860
 01:10:01,913 --> 01:10:03,748
-N'importe quoi !
+N'importe quoi!
 
 861
 01:10:04,916 --> 01:10:06,918
-Des rois morts qui veillent sur nous !
+Des rois morts qui veillent sur nous!
 
 862
 01:10:07,085 --> 01:10:09,045
-J'espère qu'il vont pas dégringoler !
+J'espÃ¨re qu'il vont pas dÃ©gringoler!
 
 863
 01:10:09,212 --> 01:10:11,756
-Accrochez-vous, Majesté ! Ne lâchez pas !
+Accrochez-vous, MajestÃ©! Ne lÃ¢chez pas!
 
 864
 01:10:11,923 --> 01:10:13,258
@@ -3642,22 +3642,22 @@ Ce serait une catastrophe.
 
 865
 01:10:13,425 --> 01:10:15,552
-- Ah, vraiment !
-- Franchement, réfléchis.
+- Ah, vraiment!
+- Franchement, rÃ©flÃ©chis.
 
 866
 01:10:15,719 --> 01:10:18,054
 Des rois morts
-qui voudraient nous protéger ?
+qui voudraient nous protÃ©ger?
 
 867
 01:10:18,221 --> 01:10:20,223
 - On est des marginaux.
-- Des rois phacochères !
+- Des rois phacochÃ¨res!
 
 868
 01:10:20,390 --> 01:10:22,934
-- J'en peux plus !
+- J'en peux plus!
 - J'en peux vraiment plus.
 
 869
@@ -3667,7 +3667,7 @@ qui voudraient nous protéger ?
 
 870
 01:10:33,194 --> 01:10:34,738
-C'est bête.
+C'est bÃªte.
 
 871
 01:10:34,904 --> 01:10:38,283
@@ -3675,17 +3675,17 @@ Je vais aller chercher des larves.
 
 872
 01:10:45,915 --> 01:10:48,460
-- Qu'est-ce que tu lui as dit ?
+- Qu'est-ce que tu lui as dit?
 - Je sais pas.
 
 873
 01:10:48,626 --> 01:10:51,337
-Je t'écoutais et je me disais :
-"Ça va mal finir."
+Je t'Ã©coutais et je me disais :
+"Ã‡a va mal finir."
 
 874
 01:10:51,504 --> 01:10:53,757
-- Tu t'es mis à rire.
+- Tu t'es mis Ã  rire.
 - Toi aussi.
 
 875
@@ -3698,7 +3698,7 @@ C'est de ma faute.
 
 877
 01:14:11,913 --> 01:14:15,541
-Simba est vivant !
+Simba est vivant!
 
 878
 01:15:03,089 --> 01:15:06,426
@@ -3734,31 +3734,31 @@ Simba est vivant !
 
 886
 01:16:01,314 --> 01:16:03,274
-Sauve-toi !
+Sauve-toi!
 
 887
 01:16:04,984 --> 01:16:05,985
-Cours, Pumbaa, cours !
+Cours, Pumbaa, cours!
 
 888
 01:16:12,617 --> 01:16:13,576
-Timon, au secours !
+Timon, au secours!
 
 889
 01:16:19,624 --> 01:16:21,042
-Je vais mourir !
+Je vais mourir!
 
 890
 01:16:22,627 --> 01:16:24,253
-J'arrive, Pumbaa, tiens bon !
+J'arrive, Pumbaa, tiens bon!
 
 891
 01:16:26,130 --> 01:16:28,007
-Cours ! Cours !
+Cours! Cours!
 
 892
 01:17:06,505 --> 01:17:08,257
-C'est vraiment toi ?
+C'est vraiment toi?
 
 893
 01:17:08,424 --> 01:17:09,591
@@ -3766,16 +3766,16 @@ Oui.
 
 894
 01:17:09,758 --> 01:17:11,593
-C'est moi, Simba !
+C'est moi, Simba!
 
 895
 01:17:14,179 --> 01:17:16,014
 - Que fais-tu...
-- J'y crois pas !
+- J'y crois pas!
 
 896
 01:17:16,181 --> 01:17:17,433
-Comme tu as changé !
+Comme tu as changÃ©!
 
 897
 01:17:18,642 --> 01:17:20,269
@@ -3783,16 +3783,16 @@ Tu ne te feras pas manger.
 
 898
 01:17:20,602 --> 01:17:22,312
-Où étais-tu passé ?
+OÃ¹ Ã©tais-tu passÃ©?
 
 899
 01:17:22,479 --> 01:17:23,939
-Je te croyais mort !
+Je te croyais mort!
 
 900
 01:17:24,898 --> 01:17:27,067
 Tu l'as cru mort.
-Moi, je me suis vu mourir !
+Moi, je me suis vu mourir!
 
 901
 01:17:27,151 --> 01:17:28,485
@@ -3800,20 +3800,20 @@ Tu as failli me manger.
 
 902
 01:17:30,404 --> 01:17:31,280
-Quelle histoire !
+Quelle histoire!
 
 903
 01:17:31,447 --> 01:17:34,575
-Désolé, avant d'aller plus loin.
-Vous vous connaissez ?
+DÃ©solÃ©, avant d'aller plus loin.
+Vous vous connaissez?
 
 904
 01:17:35,742 --> 01:17:37,911
-Je vous présente ma meilleure amie, Nala.
+Je vous prÃ©sente ma meilleure amie, Nala.
 
 905
 01:17:38,078 --> 01:17:40,414
-Meilleure amie ? C'est blessant.
+Meilleure amie? C'est blessant.
 
 906
 01:17:40,747 --> 01:17:42,166
@@ -3830,7 +3830,7 @@ Simba, nous devons partir.
 
 909
 01:17:47,546 --> 01:17:50,507
-Scar a pris le pouvoir avec les hyènes.
+Scar a pris le pouvoir avec les hyÃ¨nes.
 
 910
 01:17:51,049 --> 01:17:53,719
@@ -3838,33 +3838,33 @@ Tu dois prendre ta place en tant que roi.
 
 911
 01:17:53,886 --> 01:17:55,179
-Roi ? Simba ?
+Roi? Simba?
 
 912
 01:17:55,512 --> 01:17:57,848
-Tes loyaux serviteurs se mettent à genoux.
+Tes loyaux serviteurs se mettent Ã  genoux.
 
 913
 01:17:58,015 --> 01:17:59,975
-Détends-toi. Elle se trompe.
+DÃ©tends-toi. Elle se trompe.
 
 914
 01:18:00,142 --> 01:18:02,436
-- Madame s'emmêle les lionceaux.
+- Madame s'emmÃªle les lionceaux.
 - Joli.
 
 915
 01:18:02,603 --> 01:18:06,148
 Tu imagines la joie que ce serait
-pour tous de te revoir ?
+pour tous de te revoir?
 
 916
 01:18:06,315 --> 01:18:08,400
-La joie que c'est pour moi ?
+La joie que c'est pour moi?
 
 917
 01:18:08,650 --> 01:18:10,652
-Tu dois rentrer à la maison.
+Tu dois rentrer Ã  la maison.
 
 918
 01:18:10,861 --> 01:18:12,863
@@ -3872,7 +3872,7 @@ C'est ici, ma maison.
 
 919
 01:18:13,614 --> 01:18:14,907
-Reste, s'il te plaît.
+Reste, s'il te plaÃ®t.
 
 920
 01:18:15,073 --> 01:18:16,575
@@ -3888,7 +3888,7 @@ Je ne peux pas.
 
 923
 01:18:20,078 --> 01:18:21,371
-Allez !
+Allez!
 
 924
 01:18:21,538 --> 01:18:23,332
@@ -3896,7 +3896,7 @@ Tu peux au moins visiter.
 
 925
 01:18:23,499 --> 01:18:25,042
-Où vas-tu ?
+OÃ¹ vas-tu?
 
 926
 01:18:31,757 --> 01:18:35,719
@@ -3908,7 +3908,7 @@ C'est tellement beau.
 
 928
 01:18:38,931 --> 01:18:39,932
-Quoi ?
+Quoi?
 
 929
 01:18:40,098 --> 01:18:41,808
@@ -3916,11 +3916,11 @@ Quoi ?
 
 930
 01:18:41,975 --> 01:18:42,809
-Qui ?
+Qui?
 
 931
 01:18:42,976 --> 01:18:46,313
-<i>L'amour s'amène
+<i>L'amour s'amÃ¨ne
 Et nous, pauvres pouilleux</i>
 
 932
@@ -3933,7 +3933,7 @@ Je vois.
 
 934
 01:18:49,775 --> 01:18:51,902
-<i>Sous les diamants des étoiles</i>
+<i>Sous les diamants des Ã©toiles</i>
 
 935
 01:18:52,611 --> 01:18:54,571
@@ -3945,23 +3945,23 @@ C'est magique.
 
 937
 01:18:55,989 --> 01:18:59,826
-<i>Mais dans cette romantique atmosphère</i>
+<i>Mais dans cette romantique atmosphÃ¨re</i>
 
 938
 01:19:00,369 --> 01:19:04,915
-<i>Ça sent mauvais dans l'air</i>
+<i>Ã‡a sent mauvais dans l'air</i>
 
 939
 01:19:08,752 --> 01:19:13,757
-<i>L'amour brille sous les étoiles</i>
+<i>L'amour brille sous les Ã©toiles</i>
 
 940
 01:19:15,592 --> 01:19:19,846
-<i>D'une étrange lumière</i>
+<i>D'une Ã©trange lumiÃ¨re</i>
 
 941
 01:19:21,056 --> 01:19:27,229
-<i>La terre entière, en parfaite harmonie</i>
+<i>La terre entiÃ¨re, en parfaite harmonie</i>
 
 942
 01:19:27,396 --> 01:19:31,984
@@ -3974,7 +3974,7 @@ C'est magique.
 944
 01:19:36,989 --> 01:19:42,619
 <i>Mais comment lui avouer
-Mon secret, mes problèmes ?</i>
+Mon secret, mes problÃ¨mes?</i>
 
 945
 01:19:42,786 --> 01:19:43,870
@@ -3982,7 +3982,7 @@ Mon secret, mes problèmes ?</i>
 
 946
 01:19:44,037 --> 01:19:45,956
-<i>Elle serait trop blessée</i>
+<i>Elle serait trop blessÃ©e</i>
 
 947
 01:19:46,498 --> 01:19:49,042
@@ -3990,7 +3990,7 @@ Mon secret, mes problèmes ?</i>
 
 948
 01:19:49,543 --> 01:19:52,838
-<i>Derrière tant de rancœur ?</i>
+<i>DerriÃ¨re tant de rancÅ“ur?</i>
 
 949
 01:19:53,005 --> 01:19:56,049
@@ -3998,19 +3998,19 @@ Mon secret, mes problèmes ?</i>
 
 950
 01:19:56,300 --> 01:20:00,053
-<i>Qui règne dans mon cœur</i>
+<i>Qui rÃ¨gne dans mon cÅ“ur</i>
 
 951
 01:20:00,846 --> 01:20:05,809
-<i>L'amour brille sous les étoiles</i>
+<i>L'amour brille sous les Ã©toiles</i>
 
 952
 01:20:07,519 --> 01:20:12,107
-<i>D'une étrange lumière</i>
+<i>D'une Ã©trange lumiÃ¨re</i>
 
 953
 01:20:13,442 --> 01:20:19,281
-<i>La terre entière en parfaite harmonie</i>
+<i>La terre entiÃ¨re en parfaite harmonie</i>
 
 954
 01:20:19,656 --> 01:20:23,869
@@ -4018,15 +4018,15 @@ Mon secret, mes problèmes ?</i>
 
 955
 01:20:26,330 --> 01:20:31,501
-<i>L'amour brille sous les étoiles</i>
+<i>L'amour brille sous les Ã©toiles</i>
 
 956
 01:20:33,253 --> 01:20:38,133
-<i>Illuminant leurs cœurs</i>
+<i>Illuminant leurs cÅ“urs</i>
 
 957
 01:20:39,718 --> 01:20:45,140
-<i>Sa lumière éclaire à l'infini</i>
+<i>Sa lumiÃ¨re Ã©claire Ã  l'infini</i>
 
 958
 01:20:45,307 --> 01:20:49,811
@@ -4034,7 +4034,7 @@ Mon secret, mes problèmes ?</i>
 
 959
 01:20:51,480 --> 01:20:57,444
-<i>S'ils s'enfuient vers leur rêve ce soir</i>
+<i>S'ils s'enfuient vers leur rÃªve ce soir</i>
 
 960
 01:20:58,945 --> 01:21:03,075
@@ -4051,7 +4051,7 @@ Mon secret, mes problèmes ?</i>
 963
 01:21:31,228 --> 01:21:33,605
 Je te l'avais dit.
-C'est magnifique, non ?
+C'est magnifique, non?
 
 964
 01:21:33,772 --> 01:21:35,649
@@ -4072,7 +4072,7 @@ Puisque tu es vivant,
 
 968
 01:21:43,865 --> 01:21:45,784
-pourquoi n'es-tu pas revenu ?
+pourquoi n'es-tu pas revenu?
 
 969
 01:21:45,951 --> 01:21:48,036
@@ -4096,7 +4096,7 @@ C'est Scar le roi.
 
 974
 01:21:56,002 --> 01:21:58,880
-Il a détruit la Terre des Lions.
+Il a dÃ©truit la Terre des Lions.
 
 975
 01:21:59,047 --> 01:22:00,841
@@ -4108,7 +4108,7 @@ Je ne peux rien faire.
 
 977
 01:22:03,093 --> 01:22:04,636
-Et ta mère ?
+Et ta mÃ¨re?
 
 978
 01:22:04,803 --> 01:22:06,763
@@ -4116,7 +4116,7 @@ Tu en es responsable.
 
 979
 01:22:06,930 --> 01:22:08,306
-Tu dois défier Scar.
+Tu dois dÃ©fier Scar.
 
 980
 01:22:08,473 --> 01:22:11,309
@@ -4124,12 +4124,12 @@ Je ne pourrai pas revenir. Jamais.
 
 981
 01:22:11,476 --> 01:22:12,686
-Pourquoi ?
+Pourquoi?
 
 982
 01:22:12,853 --> 01:22:14,604
-À cause de ce qui s'est passé
-dans les gorges ?
+Ã€ cause de ce qui s'est passÃ©
+dans les gorges?
 
 983
 01:22:14,771 --> 01:22:15,897
@@ -4138,7 +4138,7 @@ Scar nous a dit que...
 984
 01:22:16,064 --> 01:22:18,859
 Tu ne peux pas comprendre.
-Ça n'a pas d'importance.
+Ã‡a n'a pas d'importance.
 
 985
 01:22:19,025 --> 01:22:20,360
@@ -4146,7 +4146,7 @@ Tu ne peux pas comprendre.
 
 986
 01:22:20,527 --> 01:22:21,528
-Quoi ?
+Quoi?
 
 987
 01:22:21,695 --> 01:22:23,447
@@ -4159,15 +4159,15 @@ et on n'y peut rien.
 
 989
 01:22:27,117 --> 01:22:28,577
-Alors, pourquoi s'en soucier ?
+Alors, pourquoi s'en soucier?
 
 990
 01:22:28,827 --> 01:22:30,704
-Pourquoi s'en soucier ?
+Pourquoi s'en soucier?
 
 991
 01:22:30,871 --> 01:22:32,748
-Que t'est-il arrivé ?
+Que t'est-il arrivÃ©?
 
 992
 01:22:32,914 --> 01:22:35,208
@@ -4176,15 +4176,15 @@ Tu n'es plus le Simba que j'ai connu.
 993
 01:22:35,417 --> 01:22:38,086
 Je ne le serai plus jamais.
-Tu es contente ?
+Tu es contente?
 
 994
 01:22:38,253 --> 01:22:39,963
-Non, je suis déçue.
+Non, je suis dÃ©Ã§ue.
 
 995
 01:22:40,130 --> 01:22:42,257
-Tu parles comme mon père.
+Tu parles comme mon pÃ¨re.
 
 996
 01:22:42,424 --> 01:22:45,093
@@ -4192,15 +4192,15 @@ Tant mieux. Puisque toi, tu t'y refuses.
 
 997
 01:22:45,761 --> 01:22:48,180
-Tu ne sais pas ce que j'ai vécu !
+Tu ne sais pas ce que j'ai vÃ©cu!
 
 998
 01:22:48,346 --> 01:22:50,932
-J'étais venue ici demander de l'aide.
+J'Ã©tais venue ici demander de l'aide.
 
 999
 01:22:52,726 --> 01:22:55,145
-Je n'aurais pas dû.
+Je n'aurais pas dÃ».
 
 1000
 01:22:56,229 --> 01:22:57,939
@@ -4208,7 +4208,7 @@ Au revoir, Simba.
 
 1001
 01:23:16,750 --> 01:23:18,835
-Que je rentre à la maison ?
+Que je rentre Ã  la maison?
 
 1002
 01:23:19,002 --> 01:23:20,962
@@ -4233,11 +4233,11 @@ Va-t'en.
 
 1007
 01:23:56,581 --> 01:23:59,125
-Si je pars, la question restera entière.
+Si je pars, la question restera entiÃ¨re.
 
 1008
 01:23:59,292 --> 01:24:01,920
-Quelle question ? Qui es-tu ?
+Quelle question? Qui es-tu?
 
 1009
 01:24:02,337 --> 01:24:04,297
@@ -4245,7 +4245,7 @@ Moi, je sais exactement qui je suis.
 
 1010
 01:24:04,464 --> 01:24:06,883
-La question est : qui es-tu ?
+La question est : qui es-tu?
 
 1011
 01:24:07,634 --> 01:24:11,346
@@ -4255,23 +4255,23 @@ Laisse-moi tranquille.
 1012
 01:24:11,721 --> 01:24:15,684
 On est toujours quelqu'un,
-même quand on n'est personne.
+mÃªme quand on n'est personne.
 
 1013
 01:24:16,059 --> 01:24:17,894
-Tu m'as l'air perturbé.
+Tu m'as l'air perturbÃ©.
 
 1014
 01:24:19,020 --> 01:24:20,564
-Moi, perturbé ?
+Moi, perturbÃ©?
 
 1015
 01:24:21,022 --> 01:24:23,567
-Toi, tu ne sais même pas qui tu es.
+Toi, tu ne sais mÃªme pas qui tu es.
 
 1016
 01:24:23,733 --> 01:24:25,694
-Et toi, tu le sais ?
+Et toi, tu le sais?
 
 1017
 01:24:27,696 --> 01:24:29,906
@@ -4279,15 +4279,15 @@ J'ai tenu le fils de Mufasa.
 
 1018
 01:24:32,284 --> 01:24:33,577
-Vous avez connu mon père.
+Vous avez connu mon pÃ¨re.
 
 1019
 01:24:33,743 --> 01:24:34,661
-Rectification !
+Rectification!
 
 1020
 01:24:34,828 --> 01:24:36,580
-Je connais ton père.
+Je connais ton pÃ¨re.
 
 1021
 01:24:36,746 --> 01:24:38,915
@@ -4295,39 +4295,39 @@ Il est mort, il y a longtemps.
 
 1022
 01:24:39,082 --> 01:24:40,625
-Il est vivant !
+Il est vivant!
 
 1023
 01:24:41,126 --> 01:24:42,836
-Je peux te conduire jusqu'à lui.
+Je peux te conduire jusqu'Ã  lui.
 
 1024
 01:24:43,378 --> 01:24:44,963
-Viens. Je vais te montrer !
+Viens. Je vais te montrer!
 
 1025
 01:24:46,047 --> 01:24:47,924
-Si tu arrives à me suivre.
+Si tu arrives Ã  me suivre.
 
 1026
 01:24:48,008 --> 01:24:49,426
-Attends !
+Attends!
 
 1027
 01:24:59,019 --> 01:25:00,562
-Suis-moi !
+Suis-moi!
 
 1028
 01:25:07,277 --> 01:25:09,571
-Vite, vite ! Avance !
+Vite, vite! Avance!
 
 1029
 01:25:13,742 --> 01:25:15,201
-Doucement !
+Doucement!
 
 1030
 01:25:17,787 --> 01:25:19,831
-Tu devrais te dépêcher.
+Tu devrais te dÃ©pÃªcher.
 
 1031
 01:25:20,665 --> 01:25:22,918
@@ -4339,11 +4339,11 @@ Viens.
 
 1033
 01:25:54,449 --> 01:25:57,285
-Ton père t'attend.
+Ton pÃ¨re t'attend.
 
 1034
 01:26:09,422 --> 01:26:11,257
-Tu le vois ?
+Tu le vois?
 
 1035
 01:26:12,550 --> 01:26:14,761
@@ -4355,7 +4355,7 @@ Regarde bien.
 
 1037
 01:26:23,395 --> 01:26:24,980
-Tu vois ?
+Tu vois?
 
 1038
 01:26:26,439 --> 01:26:28,233
@@ -4363,7 +4363,7 @@ Il vit en toi.
 
 1039
 01:26:39,536 --> 01:26:40,912
-Papa ?
+Papa?
 
 1040
 01:26:43,498 --> 01:26:48,294
@@ -4380,19 +4380,19 @@ Je ne peux pas.
 
 1043
 01:26:54,092 --> 01:26:56,469
-<i>Le seul véritable roi.</i>
+<i>Le seul vÃ©ritable roi.</i>
 
 1044
 01:26:56,636 --> 01:26:57,721
-Je suis désolé.
+Je suis dÃ©solÃ©.
 
 1045
 01:26:59,014 --> 01:27:00,932
-Je n'arrive pas à être comme toi.
+Je n'arrive pas Ã  Ãªtre comme toi.
 
 1046
 01:27:01,516 --> 01:27:05,562
-<i>En tant que roi, ma plus grande fierté</i>
+<i>En tant que roi, ma plus grande fiertÃ©</i>
 
 1047
 01:27:05,729 --> 01:27:08,273
@@ -4400,15 +4400,15 @@ Je n'arrive pas à être comme toi.
 
 1048
 01:27:10,567 --> 01:27:12,694
-Ça, c'était il y a longtemps.
+Ã‡a, c'Ã©tait il y a longtemps.
 
 1049
 01:27:13,069 --> 01:27:16,990
-<i>Non. C'est vrai pour l'éternité.</i>
+<i>Non. C'est vrai pour l'Ã©ternitÃ©.</i>
 
 1050
 01:27:20,118 --> 01:27:21,536
-S'il te plaît.
+S'il te plaÃ®t.
 
 1051
 01:27:21,703 --> 01:27:23,455
@@ -4416,7 +4416,7 @@ Ne me quitte pas.
 
 1052
 01:27:23,830 --> 01:27:25,415
-<i>Je ne t'ai jamais quitté.</i>
+<i>Je ne t'ai jamais quittÃ©.</i>
 
 1053
 01:27:26,041 --> 01:27:27,834
@@ -4436,7 +4436,7 @@ Je te repose la question.
 
 1057
 01:27:49,147 --> 01:27:50,190
-Qui es-tu ?
+Qui es-tu?
 
 1058
 01:27:52,692 --> 01:27:54,778
@@ -4452,7 +4452,7 @@ Fils de Mufasa.
 
 1061
 01:28:27,227 --> 01:28:30,814
-<i>Les étoiles chantent pour toi</i>
+<i>Les Ã©toiles chantent pour toi</i>
 
 1062
 01:28:35,361 --> 01:28:38,489
@@ -4460,15 +4460,15 @@ Fils de Mufasa.
 
 1063
 01:28:39,073 --> 01:28:42,785
-<i>Elles seront toujours là</i>
+<i>Elles seront toujours lÃ </i>
 
 1064
 01:28:50,584 --> 01:28:52,670
-Viens. Qu'est-ce que tu attends ?
+Viens. Qu'est-ce que tu attends?
 
 1065
 01:28:53,129 --> 01:28:54,588
-Rentrons à la maison.
+Rentrons Ã  la maison.
 
 1066
 01:28:59,260 --> 01:29:02,555
@@ -4476,7 +4476,7 @@ Rentrons à la maison.
 
 1067
 01:29:03,222 --> 01:29:07,893
-<i>Les étoiles chantent pour toi</i>
+<i>Les Ã©toiles chantent pour toi</i>
 
 1068
 01:29:11,689 --> 01:29:15,067
@@ -4488,28 +4488,28 @@ Rentrons à la maison.
 
 1070
 01:29:22,324 --> 01:29:28,289
-<i>Va retrouver la terre sacrée</i>
+<i>Va retrouver la terre sacrÃ©e</i>
 
 1071
 01:29:28,455 --> 01:29:34,837
-<i>La joie et la grandeur passée</i>
+<i>La joie et la grandeur passÃ©e</i>
 
 1072
 01:29:47,391 --> 01:29:49,685
-J'avais du mal à te croire.
+J'avais du mal Ã  te croire.
 
 1073
 01:29:49,852 --> 01:29:51,937
-Qu'est-ce que tu vas faire ?
+Qu'est-ce que tu vas faire?
 
 1074
 01:29:52,104 --> 01:29:55,691
-Mon père m'a dit de veiller
-sur ces terres inondées de lumière.
+Mon pÃ¨re m'a dit de veiller
+sur ces terres inondÃ©es de lumiÃ¨re.
 
 1075
 01:29:55,858 --> 01:29:58,569
-Si je ne les défends pas, qui le fera ?
+Si je ne les dÃ©fends pas, qui le fera?
 
 1076
 01:29:59,987 --> 01:30:01,322
@@ -4521,7 +4521,7 @@ Ce sera dangereux.
 
 1078
 01:30:03,449 --> 01:30:04,783
-Le danger ?
+Le danger?
 
 1079
 01:30:05,492 --> 01:30:08,704
@@ -4529,7 +4529,7 @@ Le danger, je lui ris au nez.
 
 1080
 01:30:11,373 --> 01:30:13,375
-C'est impossible !
+C'est impossible!
 
 1081
 01:30:14,585 --> 01:30:16,378
@@ -4537,29 +4537,29 @@ Bonjour, Zazu.
 
 1082
 01:30:16,795 --> 01:30:18,631
-Votre Majesté.
+Votre MajestÃ©.
 
 1083
 01:30:19,173 --> 01:30:20,549
-Bienvenue à la maison.
+Bienvenue Ã  la maison.
 
 1084
 01:30:24,011 --> 01:30:26,430
-- On est là !
-- Calmez-vous. On est là.
+- On est lÃ !
+- Calmez-vous. On est lÃ .
 
 1085
 01:30:26,597 --> 01:30:28,349
-Les renforts sont arrivés.
+Les renforts sont arrivÃ©s.
 
 1086
 01:30:28,515 --> 01:30:30,059
-Qu'est-ce que vous faites ici ?
+Qu'est-ce que vous faites ici?
 
 1087
 01:30:30,893 --> 01:30:33,395
 - On se faisait...
-- Pas de souci !
+- Pas de souci!
 
 1088
 01:30:33,562 --> 01:30:35,147
@@ -4568,7 +4568,7 @@ Qu'est-ce que vous faites ici ?
 
 1089
 01:30:35,314 --> 01:30:38,734
-- On se sent concernés, parce que...
+- On se sent concernÃ©s, parce que...
 - Parce que, tu vois...
 
 1090
@@ -4577,7 +4577,7 @@ On est amis.
 
 1091
 01:30:40,402 --> 01:30:43,113
-Et la fameuse ligne d'indifférence ?
+Et la fameuse ligne d'indiffÃ©rence?
 
 1092
 01:30:43,405 --> 01:30:44,657
@@ -4591,11 +4591,11 @@ On se dit que...
 1094
 01:30:47,034 --> 01:30:50,246
 Quand Pumbaa a tort,
-je suis le premier à l'admettre.
+je suis le premier Ã  l'admettre.
 
 1095
 01:30:50,412 --> 01:30:52,539
-- Et là, c'est le cas.
+- Et lÃ , c'est le cas.
 - J'y suis pour rien.
 
 1096
@@ -4608,7 +4608,7 @@ Attends une seconde.
 
 1098
 01:30:55,209 --> 01:30:57,962
-C'est pour ça que vous vous battez ?
+C'est pour Ã§a que vous vous battez?
 
 1099
 01:30:58,128 --> 01:31:00,381
@@ -4616,20 +4616,20 @@ Oui, Timon, c'est ma maison.
 
 1100
 01:31:00,547 --> 01:31:02,716
-C'est derrière ce rocher effrayant ?
+C'est derriÃ¨re ce rocher effrayant?
 
 1101
 01:31:02,883 --> 01:31:04,760
-Gros travaux à prévoir !
+Gros travaux Ã  prÃ©voir!
 
 1102
 01:31:04,927 --> 01:31:08,097
 Y a du charme, mais un peu trop
-de carcasses à mon goût.
+de carcasses Ã  mon goÃ»t.
 
 1103
 01:31:08,264 --> 01:31:09,890
-Hé, regarde. Un oiseau.
+HÃ©, regarde. Un oiseau.
 
 1104
 01:31:10,057 --> 01:31:12,643
@@ -4637,11 +4637,11 @@ Timon, Pumbaa, voici Zazu.
 
 1105
 01:31:13,143 --> 01:31:15,020
-C'est un macareux !
+C'est un macareux!
 
 1106
 01:31:15,187 --> 01:31:16,522
-Charmant !
+Charmant!
 
 1107
 01:31:18,274 --> 01:31:20,693
@@ -4649,7 +4649,7 @@ On sera avec toi, jusqu'au bout.
 
 1108
 01:31:20,859 --> 01:31:23,070
-À votre service, mon seigneur.
+Ã€ votre service, mon seigneur.
 
 1109
 01:31:23,529 --> 01:31:25,155
@@ -4657,29 +4657,29 @@ Suivez-moi.
 
 1110
 01:31:39,461 --> 01:31:40,879
-Des hyènes partout.
+Des hyÃ¨nes partout.
 
 1111
 01:31:41,046 --> 01:31:43,716
 Je veux une mort rapide.
-Sans être mâchouillé.
+Sans Ãªtre mÃ¢chouillÃ©.
 
 1112
 01:31:43,882 --> 01:31:46,218
-Comment déjouer la vigilance
-des gardiennes baveuses ?
+Comment dÃ©jouer la vigilance
+des gardiennes baveuses?
 
 1113
 01:31:46,760 --> 01:31:48,762
-Un appât vivant.
+Un appÃ¢t vivant.
 
 1114
 01:31:53,100 --> 01:31:54,685
-Très bonne idée.
+TrÃ¨s bonne idÃ©e.
 
 1115
 01:31:54,852 --> 01:31:57,146
-Elles ne résistent pas à la chair fraîche.
+Elles ne rÃ©sistent pas Ã  la chair fraÃ®che.
 
 1116
 01:31:57,313 --> 01:32:00,316
@@ -4692,32 +4692,32 @@ gras et juteux.
 
 1118
 01:32:02,693 --> 01:32:04,820
-Comme un gnou ?
+Comme un gnou?
 
 1119
 01:32:06,196 --> 01:32:08,324
-Pourquoi tout le monde me regarde ?
+Pourquoi tout le monde me regarde?
 
 1120
 01:32:14,079 --> 01:32:18,417
-C'est avec une profonde fierté
+C'est avec une profonde fiertÃ©
 et un immense plaisir,
 
 1121
 01:32:18,584 --> 01:32:21,712
-que nous vous présentons...
+que nous vous prÃ©sentons...
 
 1122
 01:32:21,879 --> 01:32:23,464
-votre dîner.
+votre dÃ®ner.
 
 1123
 01:32:26,008 --> 01:32:29,803
-<i>C'est la fête</i>
+<i>C'est la fÃªte</i>
 
 1124
 01:32:33,140 --> 01:32:35,642
-Ça marche, Pumbaa !
+Ã‡a marche, Pumbaa!
 
 1125
 01:33:08,217 --> 01:33:10,636
@@ -4725,23 +4725,23 @@ Mon vieil ami.
 
 1126
 01:33:11,387 --> 01:33:13,514
-Sarabi, pourquoi t'infliger cela ?
+Sarabi, pourquoi t'infliger cela?
 
 1127
 01:33:13,847 --> 01:33:16,308
-Alors que tu pourrais être ma reine.
+Alors que tu pourrais Ãªtre ma reine.
 
 1128
 01:33:16,475 --> 01:33:17,935
-Tu souffres pour quoi ?
+Tu souffres pour quoi?
 
 1129
 01:33:18,102 --> 01:33:19,937
-En souvenir d'une vie passée ?
+En souvenir d'une vie passÃ©e?
 
 1130
 01:33:20,104 --> 01:33:22,106
-D'un roi que tu as aimé ?
+D'un roi que tu as aimÃ©?
 
 1131
 01:33:23,273 --> 01:33:26,652
@@ -4755,11 +4755,11 @@ est sa compassion.
 
 1133
 01:33:31,657 --> 01:33:33,742
-Je suis bien meilleur roi que Mufasa !
+Je suis bien meilleur roi que Mufasa!
 
 1134
 01:33:33,909 --> 01:33:36,495
-Tu n'es rien comparé à Mufasa !
+Tu n'es rien comparÃ© Ã  Mufasa!
 
 1135
 01:33:49,299 --> 01:33:50,342
@@ -4767,19 +4767,19 @@ Impossible.
 
 1136
 01:33:50,676 --> 01:33:52,553
-Éloigne-toi de ma mère.
+Ã‰loigne-toi de ma mÃ¨re.
 
 1137
 01:33:59,226 --> 01:34:01,228
-Tu es vivant ?
+Tu es vivant?
 
 1138
 01:34:01,395 --> 01:34:03,730
-Comment est-ce possible ?
+Comment est-ce possible?
 
 1139
 01:34:03,981 --> 01:34:06,024
-Je suis là, mère.
+Je suis lÃ , mÃ¨re.
 
 1140
 01:34:06,191 --> 01:34:07,359
@@ -4796,7 +4796,7 @@ Vivant.
 1143
 01:34:13,866 --> 01:34:17,744
 Donne-moi une bonne raison
-de ne pas te mettre en pièces.
+de ne pas te mettre en piÃ¨ces.
 
 1144
 01:34:17,911 --> 01:34:19,997
@@ -4816,30 +4816,30 @@ Pas nous.
 
 1148
 01:34:28,881 --> 01:34:30,924
-Ton règne s'achève, Scar.
+Ton rÃ¨gne s'achÃ¨ve, Scar.
 
 1149
 01:34:31,925 --> 01:34:34,470
-Simba est le véritable roi.
+Simba est le vÃ©ritable roi.
 
 1150
 01:34:34,636 --> 01:34:38,182
-Si tu t'en prends à lui,
-tu auras affaire à nous.
+Si tu t'en prends Ã  lui,
+tu auras affaire Ã  nous.
 
 1151
 01:34:38,348 --> 01:34:40,392
-Êtes-vous avec moi, les lionnes ?
+ÃŠtes-vous avec moi, les lionnes?
 
 1152
 01:34:43,770 --> 01:34:47,566
-À toi de choisir, Scar.
-Renoncer au trône ou te battre.
+Ã€ toi de choisir, Scar.
+Renoncer au trÃ´ne ou te battre.
 
 1153
 01:34:47,941 --> 01:34:50,652
-Faut-il que cela s'achève
-dans la violence ?
+Faut-il que cela s'achÃ¨ve
+dans la violence?
 
 1154
 01:34:52,154 --> 01:34:55,574
@@ -4848,32 +4848,32 @@ d'un membre de ma famille.
 
 1155
 01:34:56,200 --> 01:34:59,036
-Éprouver la honte de savoir...
+Ã‰prouver la honte de savoir...
 
 1156
 01:34:59,203 --> 01:35:01,538
-que j'ai tué quelqu'un que j'aimais.
+que j'ai tuÃ© quelqu'un que j'aimais.
 
 1157
 01:35:01,997 --> 01:35:03,540
-J'ai mis tout cela de côté.
+J'ai mis tout cela de cÃ´tÃ©.
 
 1158
 01:35:03,707 --> 01:35:06,919
-Mais, elles, ont-elles oublié ?
+Mais, elles, ont-elles oubliÃ©?
 
 1159
 01:35:07,085 --> 01:35:09,880
-Tes fidèles sujets savent-ils
-ce que tu as fait ?
+Tes fidÃ¨les sujets savent-ils
+ce que tu as fait?
 
 1160
 01:35:10,047 --> 01:35:11,548
-De quoi parle-t-il ?
+De quoi parle-t-il?
 
 1161
 01:35:11,715 --> 01:35:15,010
-Tu ne leur as pas dit ton petit secret ?
+Tu ne leur as pas dit ton petit secret?
 
 1162
 01:35:15,344 --> 01:35:17,513
@@ -4902,19 +4902,19 @@ Dis-moi que ce n'est pas vrai.
 
 1168
 01:35:40,160 --> 01:35:41,870
-C'est la vérité. Je suis désolé.
+C'est la vÃ©ritÃ©. Je suis dÃ©solÃ©.
 
 1169
 01:35:42,037 --> 01:35:43,830
-Il le reconnaît.
+Il le reconnaÃ®t.
 
 1170
 01:35:43,997 --> 01:35:44,998
-Assassin !
+Assassin!
 
 1171
 01:35:45,165 --> 01:35:47,042
-Non. C'était un accident.
+Non. C'Ã©tait un accident.
 
 1172
 01:35:47,209 --> 01:35:49,127
@@ -4923,7 +4923,7 @@ Sans toi, le roi serait encore en vie.
 1173
 01:35:49,294 --> 01:35:51,838
 C'est ta faute s'il est mort.
-Peux-tu le nier ?
+Peux-tu le nier?
 
 1174
 01:35:52,005 --> 01:35:52,965
@@ -4932,16 +4932,16 @@ Je ne suis pas un assassin.
 1175
 01:35:53,423 --> 01:35:55,842
 Qui croira un fils
-qui a ôté la vie de son père ?
+qui a Ã´tÃ© la vie de son pÃ¨re?
 
 1176
 01:35:56,009 --> 01:35:58,428
 Qui croira un fils
-qui a ôté la vie d'un roi ?
+qui a Ã´tÃ© la vie d'un roi?
 
 1177
 01:35:58,804 --> 01:36:00,931
-Un fils qui a abandonné sa mère ?
+Un fils qui a abandonnÃ© sa mÃ¨re?
 
 1178
 01:36:01,223 --> 01:36:02,599
@@ -4949,8 +4949,8 @@ Non, je suis...
 
 1179
 01:36:02,766 --> 01:36:05,686
-Tu es quoi ? Dis-le !
-Es-tu le roi ?
+Tu es quoi? Dis-le!
+Es-tu le roi?
 
 1180
 01:36:05,852 --> 01:36:07,020
@@ -4958,12 +4958,12 @@ Non, non, je suis...
 
 1181
 01:36:07,187 --> 01:36:08,438
-- Es-tu le roi ?
+- Es-tu le roi?
 - Non, je suis...
 
 1182
 01:36:08,605 --> 01:36:10,274
-- Tu es quoi ? Dis-le !
+- Tu es quoi? Dis-le!
 - Je suis...
 
 1183
@@ -4972,7 +4972,7 @@ Je ne suis rien.
 
 1184
 01:36:13,318 --> 01:36:14,778
-Incline-toi devant ton roi !
+Incline-toi devant ton roi!
 
 1185
 01:36:34,298 --> 01:36:36,425
@@ -4980,7 +4980,7 @@ Ce regard m'est familier.
 
 1186
 01:36:36,592 --> 01:36:40,345
-Où l'ai-je déjà vu ?
+OÃ¹ l'ai-je dÃ©jÃ  vu?
 
 1187
 01:36:41,179 --> 01:36:44,016
@@ -5001,27 +5001,27 @@ j'ai vu la peur dans ses yeux.
 
 1191
 01:36:57,738 --> 01:37:00,449
-Voilà mon petit secret.
+VoilÃ  mon petit secret.
 
 1192
 01:37:01,074 --> 01:37:03,952
-C'est moi qui ai tué Mufasa.
+C'est moi qui ai tuÃ© Mufasa.
 
 1193
 01:37:18,175 --> 01:37:19,134
-Mon père !
+Mon pÃ¨re!
 
 1194
 01:37:19,468 --> 01:37:20,385
-Ton propre frère !
+Ton propre frÃ¨re!
 
 1195
 01:37:20,552 --> 01:37:21,637
-Comment as-tu osé ?
+Comment as-tu osÃ©?
 
 1196
 01:37:21,970 --> 01:37:23,513
-Il a tué Mufasa...
+Il a tuÃ© Mufasa...
 
 1197
 01:37:24,014 --> 01:37:25,474
@@ -5029,54 +5029,54 @@ et maintenant il veut me tuer.
 
 1198
 01:37:25,641 --> 01:37:26,892
-C'est toi qui l'as tué !
+C'est toi qui l'as tuÃ©!
 
 1199
 01:37:27,059 --> 01:37:28,352
-Dis-leur la vérité.
+Dis-leur la vÃ©ritÃ©.
 
 1200
 01:37:28,518 --> 01:37:30,062
-Ne croyez pas ses mensonges !
+Ne croyez pas ses mensonges!
 
 1201
 01:37:31,605 --> 01:37:34,816
 Tu as dit que tu n'avais pas atteint
-les gorges à temps.
+les gorges Ã  temps.
 
 1202
 01:37:35,233 --> 01:37:36,485
-C'est la vérité !
+C'est la vÃ©ritÃ©!
 
 1203
 01:37:36,652 --> 01:37:39,821
 Dans ce cas, comment as-tu pu voir
-le regard de Mufasa ?
+le regard de Mufasa?
 
 1204
 01:37:41,657 --> 01:37:42,949
-Assassin !
+Assassin!
 
 1205
 01:37:43,617 --> 01:37:45,118
-Tuez-les tous !
+Tuez-les tous!
 
 1206
 01:37:51,917 --> 01:37:53,460
-Les lionnes, à l'attaque !
+Les lionnes, Ã  l'attaque!
 
 1207
 01:38:15,649 --> 01:38:18,568
-- Je crois qu'on les a semés.
-- C'était effrayant.
+- Je crois qu'on les a semÃ©s.
+- C'Ã©tait effrayant.
 
 1208
 01:38:19,945 --> 01:38:21,613
-Tu as entendu un grognement ?
+Tu as entendu un grognement?
 
 1209
 01:38:22,447 --> 01:38:25,033
-On va avoir du porc au dîner.
+On va avoir du porc au dÃ®ner.
 
 1210
 01:38:25,200 --> 01:38:27,160
@@ -5084,11 +5084,11 @@ Dodu, grassouillet.
 
 1211
 01:38:27,703 --> 01:38:28,912
-Grassouillet ?
+Grassouillet?
 
 1212
 01:38:29,287 --> 01:38:31,248
-Qui m'a traité de grassouillet ?
+Qui m'a traitÃ© de grassouillet?
 
 1213
 01:38:31,415 --> 01:38:33,917
@@ -5104,29 +5104,29 @@ car je n'ai pas honte de ce que je suis.
 
 1216
 01:38:38,588 --> 01:38:39,297
-Oh, là !
+Oh, lÃ !
 
 1217
 01:38:39,464 --> 01:38:41,299
-Je fuis les hyènes...
+Je fuis les hyÃ¨nes...
 
 1218
 01:38:41,466 --> 01:38:44,302
-mais je me bats pour être respecté !
+mais je me bats pour Ãªtre respectÃ©!
 
 1219
 01:38:52,102 --> 01:38:53,395
-- Ça va mieux, Pumbaa ?
+- Ã‡a va mieux, Pumbaa?
 - Oui.
 
 1220
 01:38:53,562 --> 01:38:55,689
-- Il fallait que ça sorte ?
-- C'est ça.
+- Il fallait que Ã§a sorte?
+- C'est Ã§a.
 
 1221
 01:39:10,245 --> 01:39:13,582
-Voilà le repas dont j'ai rêvé
+VoilÃ  le repas dont j'ai rÃªvÃ©
 toute ma vie.
 
 1222
@@ -5139,31 +5139,31 @@ Et je ne suis plus un lionceau.
 
 1224
 01:39:24,009 --> 01:39:26,136
-Pour le roi et pour le pays !
+Pour le roi et pour le pays!
 
 1225
 01:39:28,764 --> 01:39:29,806
-C'est l'oiseau !
+C'est l'oiseau!
 
 1226
 01:39:29,973 --> 01:39:31,349
-Je l'ai ! Je l'ai !
+Je l'ai! Je l'ai!
 
 1227
 01:39:32,934 --> 01:39:34,227
-Taïaut !
+TaÃ¯aut!
 
 1228
 01:39:34,394 --> 01:39:35,395
-Non, il m'attaque !
+Non, il m'attaque!
 
 1229
 01:39:35,562 --> 01:39:36,772
-Il m'attaque !
+Il m'attaque!
 
 1230
 01:39:39,900 --> 01:39:41,318
-Attrapez l'oiseau !
+Attrapez l'oiseau!
 
 1231
 01:39:46,281 --> 01:39:48,742
@@ -5179,32 +5179,32 @@ C'est fini, Scar.
 
 1234
 01:41:40,271 --> 01:41:41,772
-Aie pitié. Je t'en supplie.
+Aie pitiÃ©. Je t'en supplie.
 
 1235
 01:41:41,939 --> 01:41:43,357
-Pitié ?
+PitiÃ©?
 
 1236
 01:41:43,524 --> 01:41:44,817
-Après ce que tu as fait ?
+AprÃ¨s ce que tu as fait?
 
 1237
 01:41:45,276 --> 01:41:47,069
-C'était les hyènes.
+C'Ã©tait les hyÃ¨nes.
 
 1238
 01:41:47,236 --> 01:41:49,614
-Ces charognardes répugnantes
-m'y ont obligé.
+Ces charognardes rÃ©pugnantes
+m'y ont obligÃ©.
 
 1239
 01:41:49,780 --> 01:41:51,991
-Je prévoyais de les tuer.
+Je prÃ©voyais de les tuer.
 
 1240
 01:41:53,242 --> 01:41:54,744
-Tu t'es servi des hyènes.
+Tu t'es servi des hyÃ¨nes.
 
 1241
 01:41:55,578 --> 01:41:57,246
@@ -5228,7 +5228,7 @@ Tu es plein de noblesse.
 
 1246
 01:42:15,264 --> 01:42:16,974
-Je te revaudrai ça.
+Je te revaudrai Ã§a.
 
 1247
 01:42:17,141 --> 01:42:19,894
@@ -5240,7 +5240,7 @@ Dis-moi ce que je peux faire.
 
 1249
 01:42:25,024 --> 01:42:26,317
-Sauve-toi !
+Sauve-toi!
 
 1250
 01:42:28,694 --> 01:42:30,821
@@ -5248,11 +5248,11 @@ Pars, Scar.
 
 1251
 01:42:31,364 --> 01:42:34,450
-Pars très loin et ne reviens jamais.
+Pars trÃ¨s loin et ne reviens jamais.
 
 1252
 01:42:38,162 --> 01:42:39,664
-Bien sûr.
+Bien sÃ»r.
 
 1253
 01:42:40,873 --> 01:42:42,833
@@ -5260,7 +5260,7 @@ Comme vous voudrez...
 
 1254
 01:42:43,250 --> 01:42:44,502
-Votre Majesté.
+Votre MajestÃ©.
 
 1255
 01:42:57,223 --> 01:42:58,683
@@ -5268,7 +5268,7 @@ Tu ne peux pas gagner.
 
 1256
 01:42:58,849 --> 01:43:00,309
-C'est mon royaume !
+C'est mon royaume!
 
 1257
 01:43:00,476 --> 01:43:01,727
@@ -5281,7 +5281,7 @@ Mes amies.
 1259
 01:43:56,407 --> 01:44:00,369
 Cela prendra du temps,
-mais nous bâtirons une armée.
+mais nous bÃ¢tirons une armÃ©e.
 
 1260
 01:44:00,536 --> 01:44:01,912
@@ -5290,7 +5290,7 @@ mais nous bâtirons une armée.
 1261
 01:44:02,413 --> 01:44:06,083
 J'ai cru entendre
-"charognardes répugnantes".
+"charognardes rÃ©pugnantes".
 
 1262
 01:44:06,250 --> 01:44:09,170
@@ -5306,7 +5306,7 @@ J'essayais de l'amadouer.
 
 1265
 01:44:14,842 --> 01:44:16,302
-Nous gouvernerons ensemble !
+Nous gouvernerons ensemble!
 
 1266
 01:44:17,553 --> 01:44:20,639
@@ -5314,7 +5314,7 @@ Tu n'as dit qu'une seule chose vraie.
 
 1267
 01:44:22,933 --> 01:44:24,977
-"Le ventre d'une hyène...
+"Le ventre d'une hyÃ¨ne...
 
 1268
 01:44:25,144 --> 01:44:27,063
@@ -5322,7 +5322,7 @@ Tu n'as dit qu'une seule chose vraie.
 
 1269
 01:45:27,248 --> 01:45:29,291
-Votre Majesté.
+Votre MajestÃ©.
 
 1270
 01:46:23,053 --> 01:46:25,181
@@ -5334,7 +5334,7 @@ Votre Majesté.
 
 1272
 01:47:21,070 --> 01:47:24,865
-<i>De ce cycle éternel</i>
+<i>De ce cycle Ã©ternel</i>
 
 1273
 01:47:27,076 --> 01:47:30,496
@@ -5361,4 +5361,3 @@ Sous-titres : Houria Belhadji
 01:57:32,557 --> 01:57:34,559
 Chansons : Luc Aulivier et
 Claude Rigal-Ansous
-
